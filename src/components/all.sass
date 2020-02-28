@@ -1,14 +1,20 @@
 @import "~bulma/sass/utilities/initial-variables"
 
 // Config vars
-// Kaldi logo brand color: #FD461E
-$kaldi-red: #D64000
+
+@font-face
+  font-family: 'Proxima Nova'
+  src: url('../fonts/proximanova-regular-webfont.woff2') format('woff2'),
+  url('../fonts/proximanova-regular-webfont.woff') format('woff')
+
+$meehan-blue: #3879F6
 $kaldi-red-invert: #fff
 
-$primary: $kaldi-red
+$primary: $meehan-blue
 $primary-invert: $kaldi-red-invert
 $body-color: #333
 $black: #2b2523
+$family-sans-serif: 'Proxima Nova', 'Helvetica'
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -61,10 +67,10 @@ $black: #2b2523
     border-radius: .25rem
     text-decoration: none
     font-weight: 700
-    color: #CC3700
+    color: #3879F6
     text-align: center
-    -webkit-box-shadow: inset 0 0 0 2px #CC3700
-    box-shadow: inset 0 0 0 2px #f40
+    -webkit-box-shadow: inset 0 0 0 2px #3879F6
+    box-shadow: inset 0 0 0 2px #3879F6
     -webkit-transition: all .15s ease
     transition: all .15s ease
 
