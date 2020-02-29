@@ -38,7 +38,7 @@ export default class Index extends React.Component {
       <Layout>
         <div className="columns is-centered">
           <div className="column is-8">
-            <h1>Contact</h1>
+            <h1 className='is-size-1 m-t-1 m-b-1'>Contact Us</h1>
             <form
               name="contact"
               method="post"
@@ -114,8 +114,8 @@ export default class Index extends React.Component {
                   />
                 </div>
               </div>
-              <div className="field">
-                <button className="button is-link" type="submit">
+              <div className="field m-b-1">
+                <button className="button" type="submit">
                   Send
                 </button>
               </div>
