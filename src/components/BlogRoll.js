@@ -19,19 +19,19 @@ class BlogRoll extends React.Component {
                 }`}
               >
                 <header>
-                  {post.frontmatter.featuredimage ? (
-                    <div className="featured-thumbnail">
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                        }}
-                      />
-                    </div>
-                  ) : null}
+                  {/*{post.frontmatter.featuredimage ? (*/}
+                  {/*  <div className="featured-thumbnail">*/}
+                  {/*    <PreviewCompatibleImage*/}
+                  {/*      imageInfo={{*/}
+                  {/*        image: post.frontmatter.featuredimage,*/}
+                  {/*        alt: `featured image thumbnail for post ${post.frontmatter.title}`,*/}
+                  {/*      }}*/}
+                  {/*    />*/}
+                  {/*  </div>*/}
+                  {/*) : null}*/}
                   <p className="post-meta">
                     <Link
-                      className="title has-text-primary is-size-4"
+                      className="title is-size-4"
                       to={post.fields.slug}
                     >
                       {post.frontmatter.title}
@@ -47,7 +47,7 @@ class BlogRoll extends React.Component {
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
+                    Keep Reading <span>→</span>
                   </Link>
                 </p>
               </article>
@@ -76,7 +76,7 @@ export default () => (
         ) {
           edges {
             node {
-              excerpt(pruneLength: 400)
+              excerpt(pruneLength: 150)
               id
               fields {
                 slug
