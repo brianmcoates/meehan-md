@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: MeehanMD
-image: /img/jm-hero.jpeg
+image: /img/jim-meehan-hero-image.jpeg
 heading: Truth Seeker
 subheading: Become the scientist of your own health
 mainpitch:
