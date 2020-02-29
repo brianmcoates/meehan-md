@@ -11,7 +11,7 @@ export default class BlogIndexPage extends React.Component {
           <div
             className="full-width-image-container background-position-center blog-page-hero"
             style={{
-              backgroundImage: `url('/img/jm-background.jpg')`,
+              backgroundImage: `url('/img/jm-blog-hero.jpeg')`,
             }}
           >
           <h1

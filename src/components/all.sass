@@ -130,33 +130,35 @@ $menu-label-color: $white-ter
   display: flex;
   margin-bottom: 1em;
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%;
-  margin: 0 1.5em 0 0;
+  flex-basis: 35%
+  margin: 0 1.5em 0 0
 
 .blog-page
   background-color: #454545
 
-.blog-page-hero:after
+.blog-page-hero::after
+  content: ''
   background: linear-gradient(to bottom, rgba(69, 69, 69, 0.3) 0%, rgba(255, 255, 255, 0) 100%)
 
 
 @import "~bulma"
 
 .button
-  color: white
-  border-color: #454545
-  background-color: #454545
-  border-radius: 100px
-
-.button:hover
-  color: white
+  color: #454545
+  border: none #454545
+  border-bottom: 2px solid
+  background-color: inherit
+  border-radius: 0
+  padding-left: 0
+  padding-right: 3px
 
 .button span
   transition: .3s
   padding-left: 2px
 
 .button:hover span
-  transform: translateX(5px)
+  transform: translateX(3px)
+  border-color: #454545
   transition: .3s
 
 .m-t-0
