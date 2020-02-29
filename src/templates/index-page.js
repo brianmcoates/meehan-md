@@ -40,7 +40,7 @@ export const IndexPageTemplate = ({
           style={{
             color: 'white',
             lineHeight: '1',
-            padding: '0.25em',
+            textAlign: 'center',
           }}
         >
           {title}
@@ -57,7 +57,7 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
-    <section className="section section--gradient">
+    <section>
       <div className="container">
         <div className="section">
           <div className="columns">
