@@ -20,18 +20,18 @@ const TemplateWrapper = ({ children }) => {
         {/*  sizes="180x180"*/}
         {/*  href={`${withPrefix('/')}img/apple-touch-icon.png`}*/}
         {/*/>*/}
-        {/*<link*/}
-        {/*  rel="icon"*/}
-        {/*  type="image/png"*/}
-        {/*  href={`${withPrefix('/')}img/favicon-32x32.png`}*/}
-        {/*  sizes="32x32"*/}
-        {/*/>*/}
-        {/*<link*/}
-        {/*  rel="icon"*/}
-        {/*  type="image/png"*/}
-        {/*  href={`${withPrefix('/')}img/favicon-16x16.png`}*/}
-        {/*  sizes="16x16"*/}
-        {/*/>*/}
+        <link
+          rel="icon"
+          type="image/png"
+          href={`${withPrefix('/')}img/meehan-logo-white-32x32.png`}
+          sizes="32x32"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          href={`${withPrefix('/')}img/meehan-logo-white-16x16.png`}
+          sizes="16x16"
+        />
 
         {/*<link*/}
         {/*  rel="mask-icon"*/}
@@ -39,7 +39,6 @@ const TemplateWrapper = ({ children }) => {
         {/*  color="#3879F6"*/}
         {/*/>*/}
         <meta name="theme-color" content="#fff" />
-
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="/" />
@@ -47,6 +46,7 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           // content={`${withPrefix('/')}img/og-image.jpg`}
         />
+
       </Helmet>
       <Navbar />
       <div>{children}</div>
