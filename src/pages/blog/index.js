@@ -18,6 +18,8 @@ export default class BlogIndexPage extends React.Component {
             className="has-text-weight-bold is-size-1 has-text-left"
             style={{
               width: '100%',
+              maxWidth: '980px',
+              margin: 'auto',
               color: 'white',
               padding: '1rem',
             }}
