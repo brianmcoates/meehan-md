@@ -26,7 +26,7 @@ export const BlogPostTemplate = ({
               {title}
             </h1>
             <p>{description}</p>
-            <div className="sharethis-inline-share-buttons"></div>
+            <div className="m-b-1 m-t-1 sharethis-inline-share-buttons"></div>
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
