@@ -46,6 +46,7 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           // content={`${withPrefix('/')}img/og-image.jpg`}
         />
+        <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5e6d0baec4717a00120d076a&product=inline-share-buttons' async='async'></script>
 
       </Helmet>
       <Navbar />
