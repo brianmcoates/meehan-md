@@ -17,10 +17,10 @@ mainpitch:
 description: >-
   As the former editor of a medical journal, Dr. Meehan is an expert on
   differentiating true science from manipulated, fraudulent, biased research. In
-  his blog, Truth Seeker, Jim exposes the corruption and indoctrination of
-  today's healthcare and medicine while providing the latest up-to-date science
-  to give you the autonomy and truth you need to make the most informed
-  decisions regarding your health. Jim is exposing Big Pharma and other
+  his blog, Truth Seeker, Dr. Meehan exposes the corruption and indoctrination
+  of today's healthcare and medicine while providing the latest up-to-date
+  science to give you the autonomy and truth you need to make the most informed
+  decisions about your health. Jim is exposing Big Pharma and other
   government-run health agencies to bring the hidden truth to you. 
 intro:
   blurbs: []
