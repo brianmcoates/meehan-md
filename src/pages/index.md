@@ -7,16 +7,21 @@ subheading: Become the scientist of your own health
 mainpitch:
   title: Jim Meehan MD
   description: >
-    Jim will help you  do blahblah and stuff is the coffee store for everyone
-    who believes that great coffee shouldn't just taste good, it should do good
-    too. We source all of our beans directly from small scale sustainable
-    farmers and make sure part of the profits are reinvested in their
-    communities.
+    Jim Meehan MD is a physician, accomplished leader, and entrepreneur who
+    implements innovative solutions that adhere to open, honest, transparent,
+    and uncompromisingly patient-centered principles. He transforms raw data and
+    scientific research into easy to understand information that educates,
+    informs, and motivates changes in behavior to lead to improved health and
+    fitness. This critical positive feedback system transforms personal health
+    by enabling self-awareness and self-regulation.
 description: >-
-  Jim has been taking on big pharma to bring the truth back to you. Learn more
-  "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-  doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-  veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim
+  Jim has been taking on Big Pharma to bring the truth back to you. As the
+  former editor of a medical journal, Jim is an expert on differentiating true
+  science from manipulated, fraudulent, biased research. In his blog, Truth
+  Seeker, Jim exposes the corruption and indoctrination of today's healthcare
+  and medicine while providing the latest up-to-date science to give you the
+  autonomy and truth you need to make the most informed decisions regarding your
+  health. 
 intro:
   blurbs: []
   heading: What we offer
@@ -42,4 +47,3 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
