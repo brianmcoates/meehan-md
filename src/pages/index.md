@@ -8,20 +8,20 @@ mainpitch:
   title: Jim Meehan MD
   description: >
     Jim Meehan MD is a physician, accomplished leader, and entrepreneur who
-    implements innovative solutions that adhere to open, honest, transparent,
-    and uncompromisingly patient-centered principles. He transforms raw data and
-    scientific research into easy to understand information that educates,
-    informs, and motivates changes in behavior to lead to improved health and
-    fitness. This critical positive feedback system transforms personal health
-    by enabling self-awareness and self-regulation.
+    provides innovative science and solutions that adhere to open, honest,
+    transparent, and uncompromisingly patient-centered principles. He transforms
+    raw data and scientific research into easy to understand information that
+    educates, informs, and motivates changes in behavior to lead to improved
+    health and wellness. Dr. Meehan believes in educating patients to be
+    scientists of their own health.
 description: >-
-  Jim has been taking on Big Pharma to bring the truth back to you. As the
-  former editor of a medical journal, Jim is an expert on differentiating true
-  science from manipulated, fraudulent, biased research. In his blog, Truth
-  Seeker, Jim exposes the corruption and indoctrination of today's healthcare
-  and medicine while providing the latest up-to-date science to give you the
-  autonomy and truth you need to make the most informed decisions regarding your
-  health. 
+  As the former editor of a medical journal, Dr. Meehan is an expert on
+  differentiating true science from manipulated, fraudulent, biased research. In
+  his blog, Truth Seeker, Jim exposes the corruption and indoctrination of
+  today's healthcare and medicine while providing the latest up-to-date science
+  to give you the autonomy and truth you need to make the most informed
+  decisions regarding your health. Jim is exposing Big Pharma and other
+  government-run health agencies to bring the hidden truth to you. 
 intro:
   blurbs: []
   heading: What we offer
