@@ -24,7 +24,7 @@ export default class BlogIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Truth Seaker
+            Truth Seeker
           </h1>
           </div>
           <section className="section">
