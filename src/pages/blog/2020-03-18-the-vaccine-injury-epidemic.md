@@ -5,7 +5,63 @@ date: 2020-03-05T20:38:35.050Z
 description: '  '
 featuredpost: true
 tags:
+  - informed consent
+  - science
+  - parental rights
+  - medical freedom
+  - ex-vaxxer
   - vaccines
+  - vaccination
+  - anti-vax
+  - vaxxed
+  - anti-vaxxer
+  - autism
+  - adverse reaction
+  - risks
+  - merck
+  - big pharma
+  - pharmaceutical
+  - pharma
+  - research
+  - do no harm
+  - pseudoscience
+  - unvaccinated
+  - vaccinated
+  - placebo
+  - ''
+  - CDC whistle blower
+  - whistle blower
+  - CDC
+  - Center for Disease Control
+  - MMR
+  - fraudulent
+  - Vaccine Adverse Event Reporting System
+  - VAERS
+  - epidemic
+  - neurodevelopmental disorders
+  - National Vaccine Injury Compensation System
+  - inflammation
+  - cancer
+  - pediatric cancer
+  - childhood cancer
+  - chronic diseases
+  - childhood vaccine schedule
+  - CDC vaccine schedule
+  - product liability immunity
+  - vaccine manufacturers
+  - corruption
+  - corrupt
+  - NIH
+  - health
+  - pediatric health
+  - regressive autism
+  - autoimmune disease
+  - cancer
+  - brain damage
+  - epidemiology
+  - randomized
+  - experimental
+  - do the study
 ---
 <!--StartFragment-->
 
