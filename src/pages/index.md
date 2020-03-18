@@ -15,7 +15,7 @@ mainpitch:
     health and wellness. Dr. Meehan believes in educating patients to be
     scientists of their own health.
 description: >-
-  As the former editor of a medical journal, Dr. Meehan is an expert on
+  As the former editor of a medical journal, Dr. Meehan is an expert in
   differentiating true science from manipulated, fraudulent, biased research. In
   his blog, Truth Seeker, Dr. Meehan exposes the corruption and indoctrination
   of today's healthcare and medicine while providing the latest up-to-date
