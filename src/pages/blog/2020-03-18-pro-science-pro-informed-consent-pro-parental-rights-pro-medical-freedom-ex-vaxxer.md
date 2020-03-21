@@ -7,7 +7,7 @@ date: 2020-02-11T17:30:20.479Z
 description: >-
   I am a pro-science, pro-informed consent, pro-parental rights, and pro-medical
   freedom EX-VAXXER.
-featuredpost: true
+featuredpost: false
 tags:
   - informed consent
   - science
