@@ -9,7 +9,7 @@ description: >-
   inhibiting NLRP3 inflammasomes to stop the perpetuation of cytokine storms.
   Their critical roles in biochemical reactions and biological pathways that
   involve ACE2 must be fully explored as part of our fight against COVID-19."
-featuredpost: true
+featuredpost: false
 tags:
   - corona virus
   - COVID-19
