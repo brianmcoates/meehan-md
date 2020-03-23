@@ -13,7 +13,82 @@ tags:
   - antivaccination
   - anti-vaxxer
   - antivax
+  - vaccine paradox
+  - informed consent
+  - science
+  - parental rights
+  - medical freedom
+  - ex-vaxxer
+  - vaccines
+  - vaccination
+  - anti-vax
+  - vaxxed
+  - anti-vaxxer
+  - autism
+  - adverse reaction
+  - risks
+  - merck
+  - big pharma
+  - pharmaceutical
+  - pharma
+  - research
+  - do no harm
+  - pseudoscience
+  - unvaccinated
+  - vaccinated
+  - placebo
+  - CDC whistle blower
+  - whistle blower
+  - CDC
+  - Center for Disease Control
+  - MMR
+  - fraudulent
+  - epidemic
+  - neurodevelopmental disorders
+  - inflammation
+  - bias
+  - fraudulent
+  - vaccine manufacturers
   - ''
+  - diseases
+  - mumps
+  - measles
+  - chickenpox
+  - toxic
+  - toxins
+  - neurotoxicity
+  - aluminum
+  - polysorbate 80
+  - human DNA
+  - viruses
+  - bad medicine
+  - ''
+  - vaccine industry
+  - sued
+  - vaccine safety
+  - well child visit
+  - pediatrician
+  - pediatric
+  - vaccination program
+  - safe and effective
+  - SIDS
+  - sudden infant death syndrome
+  - infant mortality
+  - chronic disease
+  - epidemic
+  - vaccine injury
+  - universal vaccinations
+  - vaccine injury epidemic
+  - inert placebo controlled study
+  - do the study
+  - vaccine safety study
+  - neurodevelopmental disorders
+  - autoimmune diseases
+  - asthma
+  - allergies
+  - cancer
+  - Nuremberg Code
+  - abortion
 ---
 <!--StartFragment-->
 
