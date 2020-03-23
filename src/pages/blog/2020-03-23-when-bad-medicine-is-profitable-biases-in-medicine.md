@@ -40,6 +40,8 @@ Confirmation bias is a cognitive bias that causes a person to read and support o
 
 Now, take a look at the bill below from an Oklahoma medical practice providing vaccines to children. Look at the charges and fees. Do you see the problem? If you don't, you must yourself be profiting from the vaccine business model.
 
+![](/img/88166286_10221436510759546_76055448381292544_n.jpg)
+
 The next time a pediatrician or other vaccine profiteer rattles off their cognitive bias cover stories about the "greater good", vaccines are "safe and effective," the "science is settled," etc., know with absolute certainty that they are deeply financially biased, confirmation biased, and dangerously ignorant of the truth.
 
 <!--EndFragment-->
