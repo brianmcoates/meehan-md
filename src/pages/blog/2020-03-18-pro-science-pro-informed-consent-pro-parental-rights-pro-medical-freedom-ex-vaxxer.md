@@ -50,8 +50,6 @@ tags:
   - inflammation
   - ''
 ---
-<!--StartFragment-->
-
 I am also a physician and former medical journal editor. I come to my conclusions and positions only after a great amount of research, deep understanding, and very careful consideration. I have no financial interests in my vaccine positions. Despite the fallacious attacks and claims of my detractors, I do not treat vaccine injuries, nor do I sell products for those injured by vaccines. Unlike my physician colleagues profiting from administering vaccines in their clinics (or shares of Merck stock), my thoughts are my own, they are not conflicted, financially biased, or owned by the pharmaceutical industry.
 
 I never intended or wanted to devote so much of the last decade researching the medical literature surrounding vaccines, the corrupt politics that got us here, or being broken to tears by the stories of parents that lost their children to vaccine injury. Nevertheless, here I am. I speak out because it is my duty to do so. As a physician, I took an oath to do no harm. As a member of the U.S. military, I took an oath to serve and protect. As a follower of Christ, I was created to protect those that cannot protect themselves.
@@ -65,5 +63,3 @@ The government agencies created to protect the public are not only negligent, th
 The scientific and research evidence, the Vaccine Adverse Event Reporting System (VAERS), the testimony of experts, $4 BILLION payouts from the National Vaccine Injury Compensation System, and the epidemic of children with neurodevelopmental disorders flooding and overwhelming the school systems, are more than enough evidence to demand action. The conclusion that vaccines can inflame and damage brain tissue and they can and do harm and kill their recipients is undeniable. We know, medical science and the vaccine court system has confirmed, that certain subsets of children are clearly more susceptible to this damage - and the subset is not a small percentage. But nothing is being done to identify and protect these children, because doing so would require admitting BigPharma, the CDC, and doctors were wrong, ignorant, and lying.
 
 Thus, the vaccine manufacturers and their medical doctor mouthpieces are guilty of harming our children with their untested, fraudulent, toxic products. For these reasons and many more, I am an ex-vaxxer. I will protect as many as I can.
-
-<!--EndFragment-->
