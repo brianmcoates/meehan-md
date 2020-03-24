@@ -90,8 +90,6 @@ tags:
   - Nuremberg Code
   - abortion
 ---
-<!--StartFragment-->
-
 If you are a freedom-loving American patriot, now is the time to get active, educated, and ready to fight for your religious and medical freedoms. Big pharma is executing a state-by-state legislative agenda to take over the health care of our children. The pharmaceutical industry is hell-bent (literally) on turning every state into the wastelands of childhood health that California, Mississippi, Maine, West Virginia, and New York have become. States in which children with vaccine injuries, neurodevelopmental disabilities, autoimmune diseases, asthma, allergies, cancer, and many more chronic diseases are rising at unprecedented and "unexplainable" rates.
 
 Big pharma is donating big money to buy the allegiance of any self-serving state legislator willing to sell his/her soul to sponsor pro-vaccine/pro-pharma legislation. States that have thus far maintained the rights of its citizens to exercise their parental, religious, and/or philosophical rights to exempt their children from the failing, untested, and unsafe universal vaccination programs must prepare to defend those rights or prepare to see their children's medical care relinquished to control by state department of health bureaucrats.
@@ -111,5 +109,3 @@ We must recognize and expose the dark and sinister, physical and spiritual defil
 If you think I am being hyperbolic, watch and listen to the testimony of Dr. Stanley Plotkin, the father of modern vaccines, recorded during his deposition by attorney Aaron Siri). The man literally says, "I would be happy to go to Hell...", admits to experimenting on orphans and disabled children, and the tissues of at least 76 abortions obtained in the horrific manner described above.
 
 We must remain free to choose what medical procedures we receive. We must be free to exempt ourselves and our children from any medical procedure that could harm or kill. We must remain free to reject the untested and unsafe products of the unaccountable vaccine industry.
-
-<!--EndFragment-->
