@@ -22,8 +22,6 @@ tags:
   - acid
   - nighttime heartburn
 ---
-<!--StartFragment-->
-
 Drug makers, doctors, and sellers of "acid blocking" medications for heartburn, like ranitidine (Zantac), somehow failed to identify the chemical reaction that occurs when ranitidine encounters stomach acid and forms NMDA, a well recognized carcinogen. Long before the recent discovery of this problem and the FDA recall, the evidence against proton pump inhibitors was, in my mind, crystal clear.
 
 Except in the worst cases, suppressing stomach acidity is almost always the wrong approach. Nevertheless, I recognize that many people are suffering as their go-to medication is being pulled from store shelves and pharmacies. Therefore, I want to share a couple of proven techniques that may help some of you feel and sleep better: elevating the head of the bed and sleeping on your left side.
@@ -35,5 +33,3 @@ Because GERD is essentially a valve problem, I recommend that nighttime heartbur
 (By the way, elevating the head of the bed slightly may be a good idea for everyone, not just those suffering from nighttime GERD. Elevating the head of the bed slightly has been shown to improve blood and lymphatic flow; simultaneously improving oxygen and nutrient delivery while facilitating the removal of metabolic waste products.)
 
 Another useful technique for nighttime GERD is to sleep on your left side. If you lay on your left side, the faulty valve is positioned in a way that separates it from food and acid, thus minimizing or preventing stomach acid from backing up (refluxing) into the esophagus.
-
-<!--EndFragment-->
