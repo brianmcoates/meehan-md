@@ -85,6 +85,12 @@ tags:
   - faith
   - Christian
   - Christ
+  - spiritual
+  - spiritual warfare
+  - Aaron Siri
+  - Plotkin
+  - faith
+  - Jesus
 ---
 <!--StartFragment-->
 
