@@ -63,8 +63,6 @@ tags:
   - experimental
   - do the study
 ---
-<!--StartFragment-->
-
 1. Childhood cancer is the #2 leading cause of death in American children.
 
 Pediatric cancers have been increasing at almost exponential rates since the early 1990s.
@@ -89,5 +87,3 @@ Despite the overwhelming evidence from hundreds of peer-reviewed independent sci
 To be clear, the vaccine industry has contrived a few epidemiology studies, some of them overtly fraudulent (e.g., [\#CDCwhistleblower](https://www.facebook.com/hashtag/cdcwhistleblower?source=feed_text&epa=HASHTAG)), that they rely upon to deceive the public, doctors, and politicians. However, experienced scientists and former medical journal editors will attest to the fact that EPIDEMIOLOGY studies lack the power and evidence that can only be provided by prospective, randomized, blinded, placebo controlled EXPERIMENTAL studies.
 
 Biased, corrupt, and fraudulent vaccine industry sponsored epidemiology studies are the fraudulent facades hiding the truth of the [\#VaccineInjuryEpidemic](https://www.facebook.com/hashtag/vaccineinjuryepidemic?source=feed_text&epa=HASHTAG). Pediatric cancers and any other vaccine injury will continue to perplex the scientific and medical communities until the necessary science is conducted. [\#DoTheStudy](https://www.facebook.com/hashtag/dothestudy?source=feed_text&epa=HASHTAG)
-
-<!--EndFragment-->
