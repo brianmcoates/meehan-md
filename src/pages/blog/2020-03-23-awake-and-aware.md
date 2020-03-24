@@ -65,8 +65,6 @@ tags:
   - vaccination program
   - safe and effective
 ---
-<!--StartFragment-->
-
 "I will no longer vaccinate my children...\
 ...because I am a well trained medical doctor and former medical journal editor that has studied the vaccine research and analyzed both sides of the evidence.\
 ...because I know how to read the medical literature, recognize bias and discern characteristics of good and fraudulent research.\
@@ -80,5 +78,3 @@ tags:
 ...because I have met so many families whose children were stolen from them by the battery of vaccines administered at pediatric vaccine visits.\
 ...because I believe the U.S. vaccination program has become a progressively dangerous assault on the health and lives of the children of America.\
 ...because I am awake and aware, I will not vaccinate, nor will I remain silent as the pharmaceutical and medical industries pretend that vaccines are safe and effective."
-
-<!--EndFragment-->
