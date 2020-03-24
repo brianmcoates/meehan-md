@@ -26,8 +26,6 @@ tags:
   - adverse reaction
   - risks of vaccines
 ---
-<!--StartFragment-->
-
 As a physician, scientist, and former medical editor, I am constantly aware and guarding against cognitive biases that can destroy my objectivity, ability to discern fact from fiction, and potentially corrupt my medical decision making.
 
 Let me begin with a full disclosure. I disclose that I have no financial interest in vaccines. I don't sell supplements, books, or earn a single penny from the work I do to bring a reasonable and full analysis of the fraud, corruption, and pseudoscience that I have found to permeate almost every level of the politics, law, science, and medicine surrounding vaccines. When I speak or testify as a medical expert, I donate my time, testimony, and cover my expenses. On two occasions when I was called to speak or debate, once in New York and once in Washington, DC, I allowed those that insisted to cover my air travel and hotel expense. However, my typical standard is to bear all of my own expenses, including the lost income that results from closing my practice during my absence.
@@ -40,8 +38,6 @@ Confirmation bias is a cognitive bias that causes a person to read and support o
 
 Now, take a look at the bill below from an Oklahoma medical practice providing vaccines to children. Look at the charges and fees. Do you see the problem? If you don't, you must yourself be profiting from the vaccine business model.
 
-![](/img/88166286_10221436510759546_76055448381292544_n.jpg)
+![Vaccine Bill](/img/88166286_10221436510759546_76055448381292544_n.jpg "Vaccine Bill")
 
 The next time a pediatrician or other vaccine profiteer rattles off their cognitive bias cover stories about the "greater good", vaccines are "safe and effective," the "science is settled," etc., know with absolute certainty that they are deeply financially biased, confirmation biased, and dangerously ignorant of the truth.
-
-<!--EndFragment-->
