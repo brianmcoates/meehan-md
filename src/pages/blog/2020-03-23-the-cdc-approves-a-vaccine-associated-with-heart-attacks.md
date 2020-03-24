@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: The CDC Approves a Vaccine Associated with Heart Attacks
 date: 2020-01-08T17:41:01.198Z
-description: ' '
+description: ' The CDC Approves a Vaccine Associated with Heart Attacks'
 featuredpost: false
 tags:
   - informed consent
