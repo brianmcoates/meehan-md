@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Hives and Influenza: What is to Blame?'
 date: 2020-01-23T03:02:36.005Z
-description: ' '
+description: ' Hives and Influenza: What is to Blame?'
 featuredpost: false
 tags:
   - hives

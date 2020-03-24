@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: The Vaccine Injury Epidemic
 date: 2020-03-05T20:38:35.050Z
-description: '  '
+description: '  The Vaccine Injury Epidemic'
 featuredpost: false
 tags:
   - informed consent

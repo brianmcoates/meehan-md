@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Man and Measles
 date: 2020-01-04T20:13:02.384Z
-description: ' '
+description: ' Man and Measles'
 featuredpost: false
 tags:
   - informed consent
