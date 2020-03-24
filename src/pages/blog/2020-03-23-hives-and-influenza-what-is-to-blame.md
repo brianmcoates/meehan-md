@@ -43,8 +43,6 @@ tags:
   - cancer
   - MMR vaccine
 ---
-<!--StartFragment-->
-
 Contrary to the claims made in this "Popsugar" blog \[1], hives are not necessarily a symptom of influenza infection. It is more likely that the skin reaction pictured is a sign of an hypersensitive immune system, "TH2 shifted," dysregulated, and imbalanced. Vaccines are a primary cause the TH2 shifted and immune dysregulation responsible for the extraordinarily dramatic rise in childhood illnesses, allergies, and autoimmune diseases.
 
 This appears to be a case of urticaria/angioedema, an IgE–mediated or IgG and complement-mediated hypersensitivity reaction. This is likely the consequence of the child's history as a member of the most highly vaccinated generation of children in world history. An unfortunate position held by 99% of American children, the most vaccinated, allergic, autoimmune diseased, and vaccine injured children in human history.
@@ -90,5 +88,3 @@ And let's not forget that the rubella vaccine is grown on human cells derived fr
 [https://www.medscape.com/viewarticle/855937…](https://www.medscape.com/viewarticle/855937?fbclid=IwAR1rXTdbwHaUXKYiCi0ipqnvNBmjBFVkKWNYm4xCg1A9U0h40UQcax62eqA)
 
 \[1] [https://www.popsugar.com/family/Hives-Symptom-Flu-44540741](https://www.popsugar.com/family/Hives-Symptom-Flu-44540741?fbclid=IwAR2hnlBafQ116QNcG697ukv92_7SUjcmGQPeaCwIwiWtyHbTFPKWad_Jmbw)
-
-<!--EndFragment-->
