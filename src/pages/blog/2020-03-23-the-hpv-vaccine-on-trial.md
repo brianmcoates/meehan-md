@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: The HPV Vaccine on Trial
 date: 2020-02-12T16:01:40.540Z
-description: ' '
+description: ' The HPV Vaccine on Trial'
 featuredpost: false
 tags:
   - HPV vaccine
