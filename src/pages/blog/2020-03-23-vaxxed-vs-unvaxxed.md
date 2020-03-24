@@ -83,8 +83,6 @@ tags:
   - thimerosal
   - ''
 ---
-<!--StartFragment-->
-
 This is my response to the "Vaxxed versus Unvaxxed" presentation provided by the Children's Health Defense Fund. [https://childrenshealthdefense.org/…/fully-vaccinated-vs-u…/](https://childrenshealthdefense.org/child-health-topics/exposing-truth/fully-vaccinated-vs-unvaccinated/?fbclid=IwAR3GiqUFJ6-vfyuKpkRe2BWycdJe_LlHsrblWYIBm93WWX7J8N4lUhJe3Ks)
 
 PART 1: CDC’s Verstraeten Study Showed the Thimerosal Preserved Hep B Vaccine Dramatically Increased Risk of Autism (7.6x), Sleep Disorders (5x), Speech Disorders (2.1x), and Neurodevelopmental Disorders (1.8x)
@@ -102,8 +100,6 @@ This unpublished CDC study was presented at the April, 2000 Epidemic Intelligenc
 \- Speech Disorders (2.1x)
 
 \- Neurodevelopmental Disorders (1.8x)
-
-
 
 The conclusion reads:
 
@@ -138,5 +134,3 @@ Fortunately, Dr. Thompson, knowing what his fellow CDC scientists were doing was
 Unfortunately, the CDC continues to use legal loopholes to obstruct demands that Thompson testify before congress.
 
 Watch "Vaxxed: From Cover-up to Catastrophe" for a full understanding of the fraud and corruption perpetrated by CDC scientists when the 2004 CDC study found an increased risk of autism in children vaccinated with Merck's MMR vaccine.
-
-<!--EndFragment-->
