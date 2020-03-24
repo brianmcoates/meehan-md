@@ -27,8 +27,6 @@ tags:
   - treatment
   - ''
 ---
-<!--StartFragment-->
-
 Read the full article from which this information was taken at:\
 [https://www.evolutamente.it/covid-19-pneumonia-inflammaso…/…](https://www.evolutamente.it/covid-19-pneumonia-inflammasomes-the-melatonin-connection/?fbclid=IwAR2SB90WZuel7rC7W9JPmlF5OrCItkxd6CZwILhdBLd_KQqFsfdv1tRnuks)
 
@@ -109,5 +107,3 @@ References:\
 \[99] Melatonin inhibits inflammasome-associated activation of endothelium and macrophages attenuating pulmonary arterial hypertension | Cardiovascular Research | Oxford Academic [https://academic.oup.com/…/…/doi/10.1093/cvr/cvz312/5644338…](https://l.facebook.com/l.php?u=https%3A%2F%2Facademic.oup.com%2Fcardiovascres%2Fadvance-article-abstract%2Fdoi%2F10.1093%2Fcvr%2Fcvz312%2F5644338%3FredirectedFrom%3Dfulltext%26fbclid%3DIwAR3b5nOF0AFEE5IScZpgsUlaZCOQeNVkuq8vxmL0n0Vt3MLlec-deTUP5nA&h=AT3tLdFjwhwew2J7wfJdtj-Eaje0AOew2F4I8HlIP17DzEKkOLOSUYXNnAev74eAoUyhqIgVST4iMPj84ogQocuaYN8RHa0NA_CGbqy4hv0nbz2DFNKvFbSzgzZxQeTKTNYzTOMH-bRBIWUgcFGUK6YpizvllD4)\
 \[100] ALAN Various Taxa Review!! Light Pollution, Circadian Photoreception, and Melatonin in Vertebrates | HTML [https://www.mdpi.com/2071-1050/11/22/6400/htm](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mdpi.com%2F2071-1050%2F11%2F22%2F6400%2Fhtm%3Ffbclid%3DIwAR0CrtxhSdFAVGrZoLlvhgRlrGmDSZUKagDyz9q6Qw0m2ySNHWTUWbyCPR4&h=AT3Aond6IPDXljOuyGk-T4XmR8EQNigf7LIbojHgIu1lZwMs27qxeupde2B8OVxrN6-h3NwhCqAsbutxDUaVFJSmCdxAvbxy6nOiAV2No-xzKo75fxImQWDROPOGjQYrDSuSS7R0DAL2ojYWdizBnnOFpTKnDJc)\
 \[101] Mitophagy plays a central role in mitochondrial ageing [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4935730/](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4935730%2F%3Ffbclid%3DIwAR3LVJd0uko8RuxlqPorpCBFkMbv6IO3pzOO4ExMZIfm6Cp9xlNGMkdvZc0&h=AT0vYij3tMrGN-oeVGW3P3VMwyZEbxRxbkUw5Q-ksNR1lQ7c0uKwTSoCulmJ-j0uYO3x77RQnGMRxp7E2IM83SuxNPIWzblqRnUeTxG9ILwpPxe0Xc6kJWhhJY4X7hgGUtw8b9WheApPX7uVHWrPLInUWDr5TFc)
-
-<!--EndFragment-->
