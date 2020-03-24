@@ -83,8 +83,6 @@ tags:
   - influenza vaccine
   - influenza
 ---
-<!--StartFragment-->
-
 The[](https://www.facebook.com/hashtag/vaccineinjuryepidemic?source=feed_text&epa=HASHTAG) Vaccine Injury Epidemic is caused by an intolerable and unjustifiable failure of our regulatory agencies and the vaccine approval processes to ensure that vaccines are safe and effective. Children are being harmed and killed by vaccines that were never properly tested for safety using universally recognized scientific research methodologies. By allowing the pharmaceutical industry to bypass and ignore critical principles of the scientific method we have set our children and the world on a course for disaster.
 
 The most egregious violation and betrayal of public trust is the fact that we are told vaccines are "safe and effective," and yet, vaccine manufacturers are not required to perform the true, inert placebo controlled studies that are absolutely required to make such a claim. You simply cannot determine whether a vaccine is safe without comparing the health outcomes of subjects that receive the vaccine to a carefully matched control group that receives an inert placebo. The study below\[1] illustrates this principle perfectly. This TRUE placebo controlled study showed that children who received a flu vaccine were 440% more likely to suffer a viral infection when compared to children that did not receive the flu vaccine. It revealed that the flu vaccine increases the likelihood that vaccinated children will become infected with one or more of the hundreds of other viruses circulating in the community, like CORONAVIRUS, human metapneumovirus, parainfluenza, and respiratory syncytial virus (RSV), to name just a few.
@@ -100,5 +98,3 @@ Abstract\
 We randomized 115 children to trivalent inactivated influenza vaccine (TIV) or placebo. Over the following 9 months, TIV recipients had an increased risk of virologically-confirmed non-influenza infections (relative risk: 4.40; 95% confidence interval: 1.31-14.8). Being protected against influenza, TIV recipients may lack temporary non-specific immunity that protected against other respiratory viruses.
 
 \[2] "Infectious virus in exhaled breath of symptomatic seasonal influenza cases from a college community."[https://www.ncbi.nlm.nih.gov/pubmed/29348203](https://www.ncbi.nlm.nih.gov/pubmed/29348203?fbclid=IwAR1C18gBKMpOeuFj9prFiiben8yKEO4rwblcRAHwvBdVZVuRQtfi-tDL4oE)
-
-<!--EndFragment-->
