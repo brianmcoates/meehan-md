@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Vaccines: Neither Safe nor Effective'
 date: 2020-01-29T21:54:37.295Z
-description: ' '
+description: ' Vaccines: Neither Safe nor Effective'
 featuredpost: false
 tags:
   - vaccine paradox
