@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: How to Feel and Sleep Better with GERD
 date: 2020-01-22T21:13:51.874Z
-description: ' How to Feel and Sleep Better with GERD'
+description: ' '
 featuredpost: false
 tags:
   - GERD
