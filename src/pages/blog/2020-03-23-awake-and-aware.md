@@ -2,9 +2,7 @@
 templateKey: blog-post
 title: Awake and Aware about Vaccines
 date: 2020-03-18T15:23:34.278Z
-description: |-
-  Awake and Aware about Vaccines
-   
+description: ' '
 featuredpost: false
 tags:
   - informed consent
