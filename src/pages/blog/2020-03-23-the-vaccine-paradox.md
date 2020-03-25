@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: The Vaccine Paradox
 date: 2020-03-23T16:16:04.466Z
-description: ' The Vaccine Paradox'
+description: ' '
 featuredpost: false
 tags:
   - vaccine paradox
