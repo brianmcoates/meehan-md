@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Fight for your Religious and Medical Freedoms
 date: 2020-01-16T02:03:41.771Z
-description: ' Fight for your Religious and Medical Freedoms'
+description: ' '
 featuredpost: true
 tags:
   - medical freedom
