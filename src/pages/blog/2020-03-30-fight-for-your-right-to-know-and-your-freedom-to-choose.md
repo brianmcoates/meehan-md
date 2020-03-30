@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Fight for Your Right to Know and Your Freedom to Choose
+title: Fighting for Medical Freedom
 date: 2019-11-18T16:07:15.623Z
 description: >-
   We MUST RISE and RESIST any and all attempts by government or industry to
