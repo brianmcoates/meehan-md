@@ -16,7 +16,9 @@ $body-color: #333
 $black: #454545
 $light-green: #89ecd1
 $dark-green: #558E97
-$light-blue: $A3C2D7
+$light-blue: #A3C2D7
+$gray-20: #727272
+$gray-5: #CECECE
 $family-sans-serif: 'Proxima Nova', 'Helvetica'
 
 .navbar .navbar-menu
@@ -200,6 +202,32 @@ $menu-label-color: $white-ter
   .blog-list-item header
     display: block
   .blog-list-item .featured-thumbnail
-    text-align: center;
-    max-width: 70%;
-    margin: 0 0 1em;
+    text-align: center
+    max-width: 70%
+    margin: 0 0 1em
+
+// utilities
+.gray-5
+  color: $gray-5
+
+.overflow-x
+  overflow-x: auto
+
+.border-radius-md
+  border-radius: 4px
+
+.box-shadow-2
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25)
+// flexbox utilities
+.display-flex
+  display: flex
+
+.justify-space-around
+  justify-content: space-around
+
+.flex-shrink-0
+  flex-shrink: 0
+
+@import '../css/resources'
+
+

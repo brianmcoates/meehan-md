@@ -74,6 +74,12 @@ module.exports = {
     }, // must be after other CSS plugins
     'gatsby-plugin-netlify',
     {
+      resolve: `gatsby-plugin-styled-components`,
+      options: {
+        // Add any options here
+      },
+    },
+    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: "UA-91264501-3",

@@ -3,6 +3,14 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
+import placeImg1 from '../img/nature.jpg'
+import placeImg2 from '../img/nature2.jpg'
+import placeImg3 from '../img/nature3.jpg'
+import placeImg4 from '../img/tech.jpg'
+import placeImg5 from '../img/tech2.jpg'
+import placeImg6 from '../img/tech3.jpg'
+
+import {ResourceItem, FlexBox, ResourceItemImg, ResourceItemDescription} from "../styles/components";
 
 export const ResourcesPageTemplate = ({
   image,
@@ -25,8 +33,9 @@ export const ResourcesPageTemplate = ({
       <h2
         className="has-text-weight-bold is-size-1"
         style={{
-          boxShadow: "0.5rem 0 0 #f40, -0.5rem 0 0 #f40",
-          backgroundColor: "#f40",
+          boxShadow: "0.5rem 0 0 #558E97, -0.5rem 0 0 #558E97",
+          backgroundColor: "#558E97",
+          borderRadius: '4px',
           color: "white",
           padding: "1rem"
         }}
@@ -34,20 +43,31 @@ export const ResourcesPageTemplate = ({
         {title}
       </h2>
     </div>
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="section">
-          <div className="columns">
-            <div className="column is-7 is-offset-1">
-              <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
-              <p>{description}</p>
-            </div>
-          </div>
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-
-            </div>
-          </div>
+    <section>
+      <div className="columns is-centered">
+        <div className="column is-10 has-text-centered">
+          <h3 className="has-text-weight-semibold is-size-2-mobile is-size-2-tablet">{heading}</h3>
+          <p>{description}</p>
+        </div>
+      </div>
+    </section>
+    <section>
+      <div className="columns is-centered">
+        <div className="column is-12-mobile is-10-tablet">
+          <FlexBox>
+            <ResourceItem>
+              <ResourceItemImg src={placeImg1} alt=""/>
+              <ResourceItemDescription>This is a description on a product I would really like for you to click and buy!</ResourceItemDescription>
+            </ResourceItem>
+            <ResourceItem>
+              <ResourceItemImg src={placeImg2} alt=""/>
+              <ResourceItemDescription>This is a description on a product I would really like for you to click and buy!</ResourceItemDescription>
+            </ResourceItem>
+            <ResourceItem>
+              <ResourceItemImg src={placeImg3} alt=""/>
+              <ResourceItemDescription>This is a description on a product I would really like for you to click and buy! asdfasdfjalskdfjasl dfkjasdlkfjas</ResourceItemDescription >
+            </ResourceItem>
+          </FlexBox>
         </div>
       </div>
     </section>
@@ -87,6 +107,7 @@ const ResourcesPage = ({ data }) => {
       <ResourcesPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
+        description={frontmatter.description}
         heading={frontmatter.heading}
         intro={frontmatter.introduction}
         books={frontmatter.books}

@@ -1,13 +1,11 @@
 ---
 templateKey: resources-page
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+title: Resources
+image: /img/resources-hero.jpg
+heading: Meehan MD Recommendations 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Dr Meehan has been helping patients take back control of their health for years.
+    Here is Dr Meehan's top book and product recommendations. 
 introduction: Testing jim meehanmd introduction
 books:
     heading: testing heading
