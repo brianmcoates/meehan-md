@@ -5,11 +5,13 @@ import Navbar from '../components/Navbar'
 import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
+import { ThemeProvider } from "styled-components";
+import { theme } from '../styles/theme'
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
   return (
-    <div>
+    <ThemeProvider theme={theme}>
       <Helmet>
         <html lang="en" />
         <title>{title}</title>
@@ -52,8 +54,8 @@ const TemplateWrapper = ({ children }) => {
       <Navbar />
       <div>{children}</div>
       <Footer />
-    </div>
+    </ThemeProvider>
   )
-}
+};
 
 export default TemplateWrapper
