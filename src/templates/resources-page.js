@@ -2,15 +2,8 @@ import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
-import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
-import placeImg1 from '../img/nature.jpg'
-import placeImg2 from '../img/nature2.jpg'
-import placeImg3 from '../img/nature3.jpg'
-import placeImg4 from '../img/tech.jpg'
-import placeImg5 from '../img/tech2.jpg'
-import placeImg6 from '../img/tech3.jpg'
-
-import {ResourceItem, FlexBox, ResourceItemImg, ResourceItemDescription} from "../styles/components";
+import ResourceRow from '../components/ResourceRow';
+import { Col, Container, Row } from "react-awesome-styled-grid";
 
 export const ResourcesPageTemplate = ({
   image,
@@ -44,33 +37,17 @@ export const ResourcesPageTemplate = ({
       </h2>
     </div>
     <section>
-      <div className="columns is-centered">
-        <div className="column is-10 has-text-centered">
-          <h3 className="has-text-weight-semibold is-size-2-mobile is-size-2-tablet">{heading}</h3>
-          <p>{description}</p>
-        </div>
-      </div>
+      <Container>
+        <Row className='text-centered' justify='center'>
+          <Col sm={12} md={5}>
+            <h3 className="has-text-weight-semibold is-size-2-mobile is-size-2-tablet">{heading}</h3>
+            <p>{description}</p>
+          </Col>
+        </Row>
+      </Container>
     </section>
-    <section>
-      <div className="columns is-centered">
-        <div className="column is-12-mobile is-10-tablet">
-          <FlexBox>
-            <ResourceItem>
-              <ResourceItemImg src={placeImg1} alt=""/>
-              <ResourceItemDescription>This is a description on a product I would really like for you to click and buy!</ResourceItemDescription>
-            </ResourceItem>
-            <ResourceItem>
-              <ResourceItemImg src={placeImg2} alt=""/>
-              <ResourceItemDescription>This is a description on a product I would really like for you to click and buy!</ResourceItemDescription>
-            </ResourceItem>
-            <ResourceItem>
-              <ResourceItemImg src={placeImg3} alt=""/>
-              <ResourceItemDescription>This is a description on a product I would really like for you to click and buy! asdfasdfjalskdfjasl dfkjasdlkfjas</ResourceItemDescription >
-            </ResourceItem>
-          </FlexBox>
-        </div>
-      </div>
-    </section>
+    <ResourceRow heading={'Books'}/>
+    <ResourceRow heading={'Products'}/>
   </div>
 );
 
