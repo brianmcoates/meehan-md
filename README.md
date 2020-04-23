@@ -7,10 +7,11 @@
 This repo contains an example business website that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://www.netlifycms.org): **[Demo Link](https://gatsby-netlify-cms.netlify.com/)**.
 
 It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
-## MeehanMD Customizations
+## MeehanMD Customizations and learnings
 - CSS Grid is awesome-styled-grid https://awesome-styled-grid.netlify.app/custom
 - CSS styled-components 
 - when logging into admin you have to have the siteUrl in the local storage set to https://meehanmd.netlify.app/ if you delete the item in storage it will ask you to input it again.
+- CMS admin looks at github repo not local markdown files so if there is an type mismatch you need to push changes to repo.
 ## Features
 
 - A simple landing page with blog functionality built with Netlify CMS
