@@ -3,13 +3,11 @@ import PropTypes from 'prop-types'
 import { ResourcesPageTemplate } from '../../templates/resources-page'
 
 const ResourcesPagePreview = ({ entry, getAsset }) => {
-  const entryBooks = entry.getIn(['data', 'intro', 'books']);
+  const entryBooks = entry.getIn(['data', 'books']);
   const books = entryBooks ? entryBooks.toJS() : [];
 
-  const entryProducts = entry.getIn(['data', 'intro', 'books']);
+  const entryProducts = entry.getIn(['data', 'books']);
   const products = entryProducts ? entryProducts.toJS() : [];
-  console.dir(entry.getIn(['data', 'intro', 'books']))
-  console.dir(entry.getIn(['data']))
 
   return (
     <ResourcesPageTemplate
@@ -18,8 +16,8 @@ const ResourcesPagePreview = ({ entry, getAsset }) => {
       heading={entry.getIn(['data', 'heading'])}
       description={entry.getIn(['data', 'description'])}
       intro={entry.getIn(['data', 'introduction'])}
-      books={{books}}
-      products={{products}}
+      books={books}
+      products={products}
     />
   )
 }

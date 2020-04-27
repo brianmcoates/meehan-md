@@ -46,8 +46,8 @@ export const ResourcesPageTemplate = ({
         </Row>
       </Container>
     </section>
-    <ResourceRow heading={'Books'}/>
-    <ResourceRow heading={'Products'}/>
+    <ResourceRow heading={'Books'} resources={books}/>
+    <ResourceRow heading={'Products'} resources={products}/>
   </div>
 );
 

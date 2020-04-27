@@ -12,6 +12,7 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 - CSS styled-components 
 - when logging into admin you have to have the siteUrl in the local storage set to https://meehanmd.netlify.app/ if you delete the item in storage it will ask you to input it again.
 - CMS admin looks at github repo not local markdown files so if there is an type mismatch you need to push changes to repo.
+- If you get error in admin preview something like minified react error check your react components. 
 ## Features
 
 - A simple landing page with blog functionality built with Netlify CMS

@@ -8,24 +8,21 @@ import {
   ResourceItemImg,
   ResourceToolBar
 } from "../styles/components";
-import placeImg1 from "../img/nature.jpg";
-import placeImg2 from "../img/nature2.jpg";
-import placeImg3 from "../img/nature3.jpg";
 
-export const ResourceRow = props => {
+const ResourceRow = props => {
   const buildResourceItem = () => {
-    console.dir(props)
-    // return props.resources.map(resource => {
-    //   return (
-    //     <ResourceItem href={resource.url}>
-    //       <ResourceItemImg src={resource.productImage} alt="" />
-    //       <h3>{resource.heading}</h3>
-    //       <ResourceItemDescription>
-    //         {resource.description}
-    //       </ResourceItemDescription>
-    //     </ResourceItem>
-    //   );
-    // });
+    console.dir(props.resources)
+    return props.resources.map(resource => {
+      return (
+        <ResourceItem href={resource.url}>
+          <ResourceItemImg src={!!resource.productImage.childImageSharp ? resource.productImage.childImageSharp.fluid.src : resource.productImage} alt="" />
+          <h3>{resource.heading}</h3>
+          <ResourceItemDescription>
+            {resource.description}
+          </ResourceItemDescription>
+        </ResourceItem>
+      );
+    });
   };
   return (
     <section>
@@ -46,3 +43,5 @@ export const ResourceRow = props => {
     </section>
   );
 };
+
+export default ResourceRow
