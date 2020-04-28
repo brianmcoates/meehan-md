@@ -6,6 +6,29 @@ description: "  "
 featuredpost: false
 tags:
   - COVID-19
+  - fatality rate
+  - corona virus
+  - corona
+  - virus
+  - disease
+  - antibody
+  - herd immunity
+  - doctors
+  - nurses
+  - technicians
+  - frontline workers
+  - essential workers
+  - case fatalities
+  - respiratory problem
+  - oxygen
+  - non-invasive oxygen
+  - ventilator
+  - virus
+  - coding
+  - COD coding
+  - medical examiner
+  - hospital
+  - patients
 ---
 <!--StartFragment-->
 
