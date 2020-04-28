@@ -32,4 +32,6 @@ Finally, the warm and wet environment of the masks interior becomes an ideal bre
 
 The science of infectious disease mitigation does not support community mask wear. Unfortunately, the psychological sciences pertaining to fear based manipulation of the population does. To that end, the mask is the symbol of fear intended to spread fear...and disease.
 
+![](/img/masked-man.jpg)
+
 <!--EndFragment-->
