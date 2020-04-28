@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: When Wearing a Mask Makes You Sick
+title: Wearing a Mask Can Make You Sick
 date: 2020-04-23T14:23:38.422Z
 description: |2
    The scientific evidence does not support community mask wearing.
