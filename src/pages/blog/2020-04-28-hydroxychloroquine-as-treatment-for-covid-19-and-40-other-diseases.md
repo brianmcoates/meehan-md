@@ -6,7 +6,59 @@ description: " "
 featuredpost: false
 tags:
   - corona
-  - ""
+  - COVID-19
+  - corona virus
+  - chloroquine
+  - CQ
+  - hydroxychloroquine
+  - HCQ
+  - zinc
+  - HCQ+AZ
+  - treatment
+  - Breast cancer
+  - Cancer therapy
+  - Melanoma
+  - Myeloma
+  - B-chronic lymphocytic leukemic cells
+  - Asthma
+  - severe chronic
+  - steroid sparing effect
+  - Alzheimer's dementia
+  - Diabetes
+  - diabetes mellitus
+  - Malaria
+  - Schizophrenia significant ameliorating effect
+  - Systemic erythematous lupus
+  - Lupus panniculitis
+  - Rheumatoid arthritis
+  - Juvenile rheumatoid arthritis
+  - Psoriatic arthritis
+  - Sjogren's syndrome
+  - Sarcoidosis
+  - Connective tissue disease
+  - Oral lichen planus
+  - Urticarial vasculitis syndrome
+  - Kikuchi-fujimoto's syndrome
+  - Discoid lupus profundus in children
+  - Antiphospholipid syndrome
+  - Severe multicentric reticulohistiocytosis
+  - Cutaneous sarcoidal granulomas
+  - Chronic urticaria
+  - Dermatomyositis
+  - HIV type 1
+  - Advanced non-small cell lung cancer
+  - Cholesterol lowering effects
+  - Prevention of post-op Deep Vein Thrombosis
+  - DVT
+  - Canine cancers
+  - Immunomodulatory properties for bone marrow transplants
+  - Lichen planopilaris
+  - frontal alopecia
+  - Porphyria cutanea tarda
+  - Hypercalcemia
+  - Surfactant protein c deficiency
+  - Q fever
+  - Glioblastoma multiforme
 ---
 <!--StartFragment-->
 
