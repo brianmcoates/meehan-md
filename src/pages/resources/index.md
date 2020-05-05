@@ -1,8 +1,11 @@
 ---
 templateKey: resources-page
 title: Resources
-image: /img/resources-hero.jpg
+image: /img/resource-hero-2.jpg
 heading: Meehan MD Recommendations
+description: >-
+  Dr Meehan has been helping patients take back control of their health for
+  years. Here is Dr Meehan's top book and product recommendations.
 introduction: Testing jim meehanmd introduction
 books:
   - heading: testing heading
@@ -51,8 +54,5 @@ products:
       help with x thing. And here is also some more information than you really
       need.
     url: 'https://google.com'
-description: >-
-  Dr Meehan has been helping patients take back control of their health for
-  years. Here is Dr Meehan's top book and product recommendations.
 ---
 

@@ -65,10 +65,10 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="content">
                   <div className="tile">
-                    <h1 className="is-size-2">{mainpitch.title}</h1>
+                    <h1 className="is-size-2 text-center full-width">{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
-                    <p className="subtitle">{mainpitch.description}</p>
+                    <p className="subtitle text-center">{mainpitch.description}</p>
                   </div>
                   <div className="columns">
                     <div className="column is-12 has-text-centered">
@@ -79,7 +79,7 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <div className="columns">
-                  <div className="column is-12">
+                  <div className="column is-12 text-center full-width">
                     <h3 className="has-text-weight-semibold is-size-2">
                       {heading}
                     </h3>

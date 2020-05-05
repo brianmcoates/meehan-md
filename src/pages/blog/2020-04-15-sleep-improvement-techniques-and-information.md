@@ -10,6 +10,58 @@ description: If you are suffering from insomnia, it’s time for you to take
 featuredpost: true
 tags:
   - sleep
+  - improved sleep
+  - sleep apnea
+  - electropollution
+  - pillow
+  - buckwheat hull pillow
+  - weighted blanket
+  - weighted therapy
+  - sex
+  - sleepscore max
+  - oura ring
+  - bedtime routine
+  - exercise
+  - CBT
+  - cognitive behavioral therapy
+  - deep breathing
+  - muscle relaxation
+  - relax
+  - guided imagery
+  - meditation
+  - biofeedback
+  - stimulus control therapy
+  - worry management
+  - distraction techniques
+  - nap
+  - emotional freedom technique
+  - food
+  - drink
+  - alcoho
+  - stimulants
+  - melatonin
+  - sleep supplements
+  - glycine
+  - kava
+  - lavender
+  - red clover extract
+  - L-Theanine
+  - magnesium
+  - L-Tryptophan
+  - Vitamin D
+  - ornithine
+  - GABA
+  - GABOB
+  - sleeping pills
+  - antihistamines
+  - bruxism
+  - teeth grinding
+  - TMJ
+  - sleep apnea
+  - Hyman
+  - Mercola
+  - anxiety
+  - white noise
 ---
 <!--StartFragment-->
 
@@ -27,12 +79,8 @@ tags:
 
 <span style="color: #008BB8 ">by Jim Meehan, MD</span>
 
-
-
 > “Without enough sleep, we all become tall-two-year olds.”\
 > Jo Jo Jensen, Dirt Farmer Wisdom, 2002
-
-
 
 ## <span style="color: #008BB8 ">How Much Sleep Do You Need?</span>
 
@@ -85,7 +133,6 @@ Temperature, lighting, and noise should be controlled to make the bedroom conduc
 * Temp. disagreement with partner? Try cooling products:
 
   * Wicking sheets and pillows: Sheex
-
   * Cool Gelmat, ChillGel, Chilipad
 
 > “The thermal environment is one of the most important factors that can affect human sleep.” Journal of Physiological Anthropology 2012, 31:14.
@@ -139,8 +186,6 @@ Because your body restores itself when you sleep—producing between 80 and 90% 
 ![](https://lh6.googleusercontent.com/LYVeC-boWYmKI3XgSHEl9M8v9Ir8E-1NbZFmpHptYbf2xwxZBTUdpt6BSyei9ukUeXG8fRPvhyy8RDVM_N7xRhCugyhNFffCfHE7DMJZANFXQP_PmRTCr78MJM43swoBPj8t3ET7)
 
 Before exposure to cell phone radiation.After a 15 minute phone call.
-
-
 
 Alternating current (AC) magnetic fields interfere with your body’s production of the antioxidant hormone melatonin.
 
@@ -289,8 +334,6 @@ SleepScore Max provides the most accurate sleep tracking next to clinical sleep 
 
 ![](/img/bedtime-routine.png)
 
-
-
 Establish a bedtime routine. This could include meditation, deep breathing, using [aromatherapy](http://articles.mercola.com/sites/articles/archive/2004/03/13/essential-oils.aspx) or essential oils or indulging in a massage from your partner. The key is to find something that makes you feel relaxed, then repeat it each night to help you release the tensions of the day. (Mercola)
 
 Try to keep the same sleep schedule on weeknights and weekends. Limit the difference to no more than about an hour. Staying up late and sleeping late on weekends can disrupt your body clock's sleep–wake rhythm.
@@ -318,8 +361,6 @@ Some type A personalities find that exercising a few hours before bed can be rel
 
 ![](/img/beginner-restart-exercise-program.png)
 
-
-
 |     |
 | --- |
 
@@ -335,7 +376,6 @@ Some of the specific behavioral treatment components of CBT for insomnia [17](ht
 * Relaxation Therapy (tension release and cognitive arousal reduction)
 
   * Deep Breathing: 4-7-8 Technique
-
   * Progressive Muscle Relaxation
   * Guided Imagery and Meditation
   * Biofeedback
@@ -343,7 +383,6 @@ Some of the specific behavioral treatment components of CBT for insomnia [17](ht
 * Stimulus Control Therapy (re-association of the bed and bedroom with sleep)
 
   * Avoid negative sleep mindsets
-
   * Worry management techniques
   * Distraction techniques
 * Sleep restriction (mild sleep deprivation to induce better quality sleep)
@@ -417,18 +456,13 @@ My current favorite fix for insomnia is Emotional Freedom Technique [(EFT)](http
 ##### <span style="color: #008BB8 ">References</span>
 
 17. Schutte-Rodin S, Broch L, Buysse D, et al. Clinical guideline for the evaluation and management of chronic insomnia in adults. J Clin Sleep Med. 2008;4(5):487–504. [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=18853708&dopt=Abstract)
-
 18. Morgenthaler T, Kramer M, Alessi C, et al. Practice parameters for the psychological and behavioral treatment of insomnia: an update. An American Academy of Sleep Medicine report. Sleep. 2006;29(11):1415–1419. [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=17162987&dopt=Abstract)
-
 19. Espie CA. “Stepped care”: a health technology solution for delivering cognitive behavioral therapy as a first line insomnia treatment. Sleep. 2009;32(12):1549–1558. [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=20041590&dopt=Abstract)
-
 20. Edinger JD, Wohlgemuth WK, Radtke RA, et al. Cognitive behavioral therapy for treatment of chronic primary insomnia: a randomized controlled trial. JAMA. 2001;285(14):1856–1864. [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11308399&dopt=Abstract) [doi:10.1001/jama.285.14.1856](http://dx.doi.org/10.1001/jama.285.14.1856)
-
 21. Espie CA, Inglis SJ, Tessier S, et al. The clinical effectiveness of cognitive behaviour therapy for chronic insomnia: implementation and evaluation of a sleep clinic in general medical practice. Behav Res Ther. 2001;39(1):45–60. [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11125723&dopt=Abstract) [doi:10.1016/S0005-7967(99)00157-6](http://dx.doi.org/10.1016/S0005-7967(99)00157-6)
-
 22. Morin CM, Bootzin RR, Buysse DJ, et al. Psychological and behavioral treatment of insomnia: update of the recent evidence (1998–2004). Sleep. 2006;29(11):1398–1414. [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=17162986&dopt=Abstract)
 
-# Food and Drink
+## <span style="color: #008BB8 ">Food and Drink</span>
 
 It is better not to eat or drink right before going to bed. Eating a late dinner or snacking before going to bed can activate the digestive system and keep you up. If you suffer from gastroesophageal reflux (GERD) or heartburn, it is even more important to avoid eating and drinking right before bed since this can make your symptoms worse. In addition, excessive drinking prior to bed can overwhelm the bladder, requiring frequent visits to the bathroom.
 
@@ -436,23 +470,23 @@ If you find yourself regularly waking up in the middle of the night, the problem
 
 The brain doesn’t tolerate low blood sugar well and the lack of brain fuel that hypoglycemia represents will disrupt sleep. The reason your sugar deprived brain wakes you up in the middle of the night has more to do with TOO MUCH SUGAR eaten too soon before bed.
 
-## Alcohol
+## <span style="color: #008BB8 ">Alcohol</span>
 
-Avoid alcohol. Although[alcohol](http://articles.mercola.com/sites/articles/archive/2010/09/14/why-do-heavy-drinkers-outlive-nondrinkers.aspx)will make you drowsy, the effect is short lived and you will often wake up several hours later, unable to fall back asleep. Alcohol may have a sedative effect for the first few hours following consumption, but it can then lead to frequent arousals and a non-restful night's sleep. Alcohol will also keep you from entering the deeper stages of sleep, where your body does most of its healing.
+Avoid alcohol. Although [alcohol](http://articles.mercola.com/sites/articles/archive/2010/09/14/why-do-heavy-drinkers-outlive-nondrinkers.aspx) will make you drowsy, the effect is short lived and you will often wake up several hours later, unable to fall back asleep. Alcohol may have a sedative effect for the first few hours following consumption, but it can then lead to frequent arousals and a non-restful night's sleep. Alcohol will also keep you from entering the deeper stages of sleep, where your body does most of its healing.
 
 Alcoholic beverages also contain a significant amount of simple carbohydrates and sugar. Therefore, the sugar peak-and-crash cycle described previously also applies. to drinking high carbohydrate and sugar containing alcoholic beverages before bed.
 
-## Stimulants
+## <span style="color: #008BB8 ">Stimulants</span>
 
 Eliminate nicotine, caffeine, and other stimulants. This includes certain medications such as theophylline, beta agonists (usually as inhalers) and decongestants, especially prior to bedtime. The effects of caffeine can last for several hours, perhaps up to 24 hours, so the chances of it affecting sleep are significant. Caffeine may not only cause difficulty initiating sleep, but may also cause frequent awakenings.
 
-Avoid caffeine. At least one study has shown that, in some people, caffeine is not metabolized efficiently, leaving you feeling its effects long after consumption. So, an afternoon cup of[coffee](http://articles.mercola.com/sites/articles/archive/2008/07/26/where-starbucks-went-wrong.aspx)or tea will keep some people from falling asleep at night. Be aware that some medications contain caffeine (for example, diet pills).
+Avoid caffeine. At least one study has shown that, in some people, caffeine is not metabolized efficiently, leaving you feeling its effects long after consumption. So, an afternoon cup of [coffee](http://articles.mercola.com/sites/articles/archive/2008/07/26/where-starbucks-went-wrong.aspx) or tea will keep some people from falling asleep at night. Be aware that some medications contain caffeine (for example, diet pills).
 
-# Supplements for Sleep
+## <span style="color: #008BB8 ">Supplements for Sleep</span>
 
-Supplement analysis from[Sleep Quality](https://examine.com/topics/Sleep+Quality/)review from Examine.com.
+Supplement analysis from [Sleep Quality](https://examine.com/topics/Sleep+Quality/) review from Examine.com.
 
-## [Melatonin](https://examine.com/supplements/Melatonin/)
+### [Melatonin](https://examine.com/supplements/Melatonin/)
 
 Recommended dosage: 3 mg to 6 mg at bedtime. Limit use to one to two days per week.
 
@@ -466,7 +500,7 @@ In an artificial light and electronic device filled world, exposure to natural s
 
 A meta-analysis27of primary sleep disorders (insomnia, delayed sleep phase syndrome, and REM sleep behavior disorder) found that melatonin was effective in decreasing sleep onset latency, increasing sleep duration, and improving sleep quality. Additionally, a prolonged release melatonin formulation has been reported to increase sleep quality, decrease sleep latency, and improve the quality of life, without causing withdrawal or hangover effects, morning sedation, or safety concerns in patients 55 years and older.28
 
-### The Melatonin Connection - How Electromagnetic Fields (EMF) Diminish Melatonin
+## <span style="color: #008BB8 ">The Melatonin Connection - How Electromagnetic Fields (EMF) Diminish Melatonin</span>
 
 Even minimal EMF exposure has been linked to sleep disturbances and immune-system suppression, so what happens during the day also affects melatonin production and your health.
 
@@ -500,7 +534,7 @@ Kava is an herb that has traditionally been drunk as a hypnotic and anxiety redu
 
 Caution Notice: Kava and Kava containing products are suspected to interact adversely with drugs and other pharmaceuticals, caution should be used when pairing Kava with other compounds.
 
-## [Lavender](https://examine.com/supplements/lavender/)(oral and aromatherapy)
+## [Lavender](https://examine.com/supplements/lavender/) (oral and aromatherapy)
 
 Recommended dosage: 80 mg Silexan (Lavender oil) at bedtime or aromatherapy exposure at bedtime.
 
@@ -527,12 +561,10 @@ L-theanine is an amino acid found in green tea, and it's known to reduce stress 
 * Reduces stress. Causes relaxation
 * Improves sleep quality, recovery from exhaustion, and refreshed feelings2
 
-
-
 1. Yokogoshi H, Kobayashi M, Mochizuki M, Terashima T. Effect of theanine, r-glutamylethylamide, on brain monoamines and striatal dopamine release in conscious rats. Neurochem Res. 1998 May;23(5):667-73.
 2. Researchers in Japan gave volunteers 200 mg of L-theanine daily and recorded their sleep patterns. The L-theanine was associated with better sleep. It was documented that sleep quality, recovery from exhaustion, and refreshed feelings were all enhanced by L-theanine. Those taking L-theanine felt like they slept longer than they actually did.
 
-## [Magnesium](https://examine.com/supplements/Magnesium/)Threonate or Glycinate
+## [Magnesium](https://examine.com/supplements/Magnesium/) Threonate or Glycinate
 
 Recommended dosage: 400 to 800 milligrams (mg) daily
 
@@ -590,29 +622,20 @@ GABOB, also known as aminohydroxybutyric acid, is the closest legal molecule to 
 
 Discovered over 50 years ago, gamma-amino-beta-hydroxybutyric acid (abbreviated GABOB) is a natural substance found in the brain that possesses some useful pharmacological properties. Initially studied as an anti-epilepsy treatment, it has broader applications in the areas of anxiety and stress reduction, and growth hormone production. GABOB is marketed as the drug Gamibetal® in Mexico and Italy, but elsewhere is not widely available, despite its therapeutic potential and excellent safety profile.
 
-## References
+#### <span style="color: #008BB8 ">References</span>
 
 17. Schutte-Rodin S, Broch L, Buysse D, et al. Clinical guideline for the evaluation and management of chronic insomnia in adults. J Clin Sleep Med. 2008;4(5):487–504.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=18853708&dopt=Abstract)
+18. Stahl MS. Stahl’s Essential Psychopharmacology: Neuroscientific Basis and Practical Applications. 3rd ed. New York, NY: Cambridge University Press; 2008.
+19. Krystal AD, Richelson E, Roth T. Review of the histamine system and the clinical effects of H1 antagonists: basis for a new model for understanding the effects of insomnia medications. Sleep Med Rev. 2013;17(4):263–272.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=23357028&dopt=Abstract)[doi:10.1016/j.smrv.2012.08.001](http://dx.doi.org/10.1016/j.smrv.2012.08.001)
+20. Kalpaklioglu F, Baccioglu A. Efficacy and safety of H1-antihistamines: an update. Antiinflamm Antiallergy Agents Med Chem. 2012;11(3):230–237.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=23173575&dopt=Abstract)
+21. Hajak G, Rodenbeck A, Staedt J, et al. Nocturnal plasma melatonin levels in patients suffering from chronic primary insomnia. J Pineal Res. 1995;19(3):116–122.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8750344&dopt=Abstract)[doi:10.1111/j.1600-079X.1995.tb00179.x](http://dx.doi.org/10.1111/j.1600-079X.1995.tb00179.x)
+22. Ferracioli-Oda E, Qawasmi A, Bloch MH. Meta-analysis: melatonin for the treatment of primary sleep disorders. PLoS ONE. 2013;8(5):e63773.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=23691095&dopt=Abstract)[doi:10.1371/journal.pone.0063773](http://dx.doi.org/10.1371/journal.pone.0063773)
+23. Lemoine P, Zisapel N. Prolonged-release formulation of melatonin (Circadin) for the treatment of insomnia. Expert Opin Pharmacother. 2012;13(6):895–905.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=22429105&dopt=Abstract)[doi:10.1517/14656566.2012.667076](http://dx.doi.org/10.1517/14656566.2012.667076)
+24. Sarris J, Byrne GJ. A systematic review of insomnia and complementary medicine. Sleep Med Rev. 2011;15(2):99–106.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=20965131&dopt=Abstract)[doi:10.1016/j.smrv.2010.04.001](http://dx.doi.org/10.1016/j.smrv.2010.04.001)
+25. Gooneratne NS. Complementary and alternative medicine for sleep disturbances in older adults. Clin Geriatr Med. 2008;24(1):121–138, viii.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=18035236&dopt=Abstract)[doi:10.1016/j.cger.2007.08.002](http://dx.doi.org/10.1016/j.cger.2007.08.002)
+26. Taibi DM, Landis CA, Petry H, et al. A systematic review of valerian as a sleep aid: safe but not effective. Sleep Med Rev. 2007;11(3):209–230.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=17517355&dopt=Abstract)[doi:10.1016/j.smrv.2007.03.002](http://dx.doi.org/10.1016/j.smrv.2007.03.002)
 
-23. Stahl MS. Stahl’s Essential Psychopharmacology: Neuroscientific Basis and Practical Applications. 3rd ed. New York, NY: Cambridge University Press; 2008.
-
-24. Krystal AD, Richelson E, Roth T. Review of the histamine system and the clinical effects of H1 antagonists: basis for a new model for understanding the effects of insomnia medications. Sleep Med Rev. 2013;17(4):263–272.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=23357028&dopt=Abstract)[doi:10.1016/j.smrv.2012.08.001](http://dx.doi.org/10.1016/j.smrv.2012.08.001)
-
-25. Kalpaklioglu F, Baccioglu A. Efficacy and safety of H1-antihistamines: an update. Antiinflamm Antiallergy Agents Med Chem. 2012;11(3):230–237.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=23173575&dopt=Abstract)
-
-26. Hajak G, Rodenbeck A, Staedt J, et al. Nocturnal plasma melatonin levels in patients suffering from chronic primary insomnia. J Pineal Res. 1995;19(3):116–122.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8750344&dopt=Abstract)[doi:10.1111/j.1600-079X.1995.tb00179.x](http://dx.doi.org/10.1111/j.1600-079X.1995.tb00179.x)
-
-27. Ferracioli-Oda E, Qawasmi A, Bloch MH. Meta-analysis: melatonin for the treatment of primary sleep disorders. PLoS ONE. 2013;8(5):e63773.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=23691095&dopt=Abstract)[doi:10.1371/journal.pone.0063773](http://dx.doi.org/10.1371/journal.pone.0063773)
-
-28. Lemoine P, Zisapel N. Prolonged-release formulation of melatonin (Circadin) for the treatment of insomnia. Expert Opin Pharmacother. 2012;13(6):895–905.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=22429105&dopt=Abstract)[doi:10.1517/14656566.2012.667076](http://dx.doi.org/10.1517/14656566.2012.667076)
-
-29. Sarris J, Byrne GJ. A systematic review of insomnia and complementary medicine. Sleep Med Rev. 2011;15(2):99–106.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=20965131&dopt=Abstract)[doi:10.1016/j.smrv.2010.04.001](http://dx.doi.org/10.1016/j.smrv.2010.04.001)
-
-30. Gooneratne NS. Complementary and alternative medicine for sleep disturbances in older adults. Clin Geriatr Med. 2008;24(1):121–138, viii.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=18035236&dopt=Abstract)[doi:10.1016/j.cger.2007.08.002](http://dx.doi.org/10.1016/j.cger.2007.08.002)
-
-31. Taibi DM, Landis CA, Petry H, et al. A systematic review of valerian as a sleep aid: safe but not effective. Sleep Med Rev. 2007;11(3):209–230.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=17517355&dopt=Abstract)[doi:10.1016/j.smrv.2007.03.002](http://dx.doi.org/10.1016/j.smrv.2007.03.002)
-
-# Avoid Sleeping Pills
+## <span style="color: #008BB8 ">Avoid Sleeping Pills</span>
 
 Only use prescription sleep aidsas a last resort.
 
@@ -622,11 +645,11 @@ Only use prescription sleep aidsas a last resort. These medicines can worsen sle
 
 To take prescription sleep aids safely, start with the lowest-dose, shortest-acting sleep aid possible. As you get older, your body processes and removes medicine more slowly than it did when you were younger. Also make sure you have the number of hours recommended on the package available to sleep, so you’re not groggy the next morning.
 
-# Over-The-Counter Medications for Insomnia
+## <span style="color: #008BB8 ">Over-The-Counter Medications for Insomnia</span>
 
 Over-the-counter (OTC) agents for insomnia include antihistamines, melatonin, and valerian. According to Dr Benca, the consensus[17](http://www.psychiatrist.com/private/2013/v74s01/v74s0101/v74s0101.htm#ref17)is that OTC sleep aids are not recommended due to their lack of available efficacy and safety data.
 
-## Antihistamines
+### <span style="color: #008BB8 ">Antihistamines</span>
 
 Antihistamines are a common and convenient OTC modality for people with sleep problems. The active ingredient in antihistamine products is usually either diphenhydramine or doxylamine, both of which are FDA-approved as OTC nighttime sleep aids to relieve occasional sleeplessness or to reduce difficulty falling asleep, respectively.
 
@@ -634,19 +657,19 @@ Antihistamines primarily block histamine H1 receptors; however, their sedative e
 
 Although these OTC medications are widely available, few rigorous studies have been conducted on the efficacy of first-generation antihistamines such as diphenhydramine and doxylamine in the treatment of insomnia. Data[24](http://www.psychiatrist.com/private/2013/v74s01/v74s0101/v74s0101.htm#ref24)suggest that sleep maintenance may be more greatly affected by antihistamines than is sleep onset, and tolerance to these agents is likely to develop rapidly. Because older antihistamines are nonselective in their affinity, their efficacy as primary histaminergic antagonists remains uncertain; however, newer second-generation antihistamines may display a greater selectivity for H1 receptors, resulting in fewer side effects.[25](http://www.psychiatrist.com/private/2013/v74s01/v74s0101/v74s0101.htm#ref25)
 
-# Miscellaneous
+# <span style="color: #008BB8 ">Miscellaneous</span>
 
-## Bruxism (teeth grinding)
+### <span style="color: #008BB8 ">Bruxism (teeth grinding)</span>
 
 Night guard custom mouthpiece - typically made by your dentist
 
 Although not nearly as low profile and comfortable as a dentist made night guard, a "boil and bite" mouthguard from your sporting goods store may suffice, and cost far less.
 
-## Obstructive Sleep Apnea
+### <span style="color: #008BB8 ">Obstructive Sleep Apnea</span>
 
 If you suspect that you have sleep apnea, it is imperative that you get tested! Sleep apnea is destructive and deadly. People with significant sleep apnea are suffocating every night, a process that is slowly destroying the most metabolic and important tissues in the body.
 
-# SLEEP PROBLEMS AND SOLUTIONS
+## <span style="color: #008BB8 ">SLEEP PROBLEMS AND SOLUTION</span>
 
 Here are some common sleep problems and how to treat them:
 
@@ -678,7 +701,7 @@ Problem: My heartburn is keeping me awake.
 
 Solution: Try raising the head of the bed 4 to 6 inches. Eat dinner at least two to three hours before bedtime, and don’t eat anything too heavy. Avoid foods that can trigger heartburn, such as chocolate, coffee, caffeinated drinks, spicy foods and fatty foods.
 
-# Optimizing Your Sleep Sanctuary (from Mercola.com)
+## <span style="color: #008BB8 ">Optimizing Your Sleep Sanctuary (from Mercola.com)</span>
 
 Dr. Mercola’s advice:
 
@@ -689,7 +712,7 @@ Dr. Mercola’s advice:
 * Reserve your bed for sleeping. If you are used to watching TV or doing work in bed, you may find it harder to relax and drift off to sleep, so avoid doing these activities in bed.
 * Consider separate bedrooms. Recent studies suggest, for many people, sharing a bed with a partner (or pets) can significantly impair sleep, especially if the partner is a restless sleeper or snores. If bedfellows are consistently interfering with your sleep, you may want to consider a separate bedroom.
 
-## Preparing for Bed
+### <span style="color: #008BB8 ">Preparing for Bed</span>
 
 * Get to bed as early as possible. Your body (particularly your adrenal system) does a majority of its recharging between the hours of 11 p.m. and 1 a.m. In addition, your gallbladder dumps toxins during this same period. If you are awake, the toxins back up into your liver, which can further disrupt your health. Prior to the widespread use of electricity, people would go to bed shortly after sundown, as most animals do, and which nature intended for humans as well.
 * Don't change your bedtime. You should go to bed and wake up at the same times each day, even on the weekends. This will help your body to get into a sleep rhythm and make it easier to fall asleep and get up in the morning.
@@ -703,19 +726,19 @@ Dr. Mercola’s advice:
 * Wear an eye mask to block out light. As discussed earlier, it is very important to sleep in as close to complete darkness as possible. That said, it's not always easy to block out every stream of light using curtains, blinds or drapes, particularly if you live in an urban area (or if your spouse has a different schedule than you do). In these cases, an eye mask can be helpful.
 * Put your work away at least one hour before bed (preferably two hours or more). This will give your mind a chance to unwind so you can go to sleep feeling calm, not hyped up or anxious about tomorrow's deadlines.
 * No TV right before bed. Even better, get the TV out of the bedroom or even completely out of the house. It's too stimulating to the brain, preventing you from falling asleep quickly. TV disrupts your pineal gland function.
-* Listen to relaxation CDs. Some people find the sound of white noise or nature sounds, such as the ocean or forest, to be soothing for sleep. An excellent relaxation/meditation option to listen to before bed is the[Insight audio CD](http://www.mercola.com/forms/insight_focus.htm). Another favorite is the[Sleep Harmony CD](http://products.mercola.com/sleep-cd/), which uses a combination of advanced vibrational technology and guided meditation to help you effortlessly fall into deep delta sleep within minutes. The CD works on the principle of "sleep wave entrainment" to assist your brain in gearing down for sleep.
+* Listen to relaxation CDs. Some people find the sound of white noise or nature sounds, such as the ocean or forest, to be soothing for sleep. An excellent relaxation/meditation option to listen to before bed is the [Insight audio CD](http://www.mercola.com/forms/insight_focus.htm). Another favorite is the [Sleep Harmony CD](http://products.mercola.com/sleep-cd/), which uses a combination of advanced vibrational technology and guided meditation to help you effortlessly fall into deep delta sleep within minutes. The CD works on the principle of "sleep wave entrainment" to assist your brain in gearing down for sleep.
 * Read something spiritual or uplifting. This may help you relax. Don't read anything stimulating, such as a mystery or suspense novel, which has the opposite effect. In addition, if you are really enjoying a suspenseful book, you might be tempted to go on reading for hours, instead of going to sleep!
-* Journaling. If you often lay in bed with your mind racing, it might be helpful to keep a[journal](http://articles.mercola.com/sites/articles/archive/2008/01/02/writing-helps-asthma-arthritis.aspx)and write down your thoughts before bed. Personally, I have been doing this for 15 years, but prefer to do it in the morning when my brain is functioning at its peak and my cortisol levels are high.
+* Journaling. If you often lay in bed with your mind racing, it might be helpful to keep a [journal](http://articles.mercola.com/sites/articles/archive/2008/01/02/writing-helps-asthma-arthritis.aspx) and write down your thoughts before bed. Personally, I have been doing this for 15 years, but prefer to do it in the morning when my brain is functioning at its peak and my cortisol levels are high.
 
-## Lifestyle Suggestions That Enhance Sleep
+## <span style="color: #008BB8 ">Lifestyle Suggestions That Enhance Sleep</span>
 
 * Reduce or avoid as many drugs as possible. Many drugs, both prescription and over-the-counter, may adversely affect sleep. In most cases, the condition causing the drugs to be taken in the first place can be addressed by following guidelines elsewhere on my web site.
-* Lose excess weight. Being overweight can increase your risk of sleep apnea, which can seriously impair your sleep. Please refer to my[nutrition plan](http://www.mercola.com/nutritionplan/index.htm)forrecommendations.
+* Lose excess weight. Being overweight can increase your risk of sleep apnea, which can seriously impair your sleep. Please refer to my [nutrition plan](http://www.mercola.com/nutritionplan/index.htm) forrecommendations.
 * Avoid foods you may be sensitive to. This is particularly true for sugar, grains, and pasteurized dairy. Sensitivity reactions can cause excess congestion, gastrointestinal upset, bloating and gas, and other problems.
 * Have your adrenals checked by a good natural medicine clinician. Scientists have found that insomnia may be caused by adrenal stress.
 * If you are menopausal or perimenopausal, get checked out by a good natural medicine physician. The hormonal changes at this time may cause sleep problems if not properly addressed.
 
-# References
+#### <span style="color: #008BB8 ">References</span>
 
 [Zapped: Why Your Cell Phone Shouldn’t Be Your Alarm Clock and 1,268 Ways to Outsmart the Hazards of Electronic Pollution](http://www.areyouzapped.com/)
 
@@ -737,19 +760,17 @@ Dr. Mercola’s advice:
 
 [www.ncbi.nlm.nih.gov/pmc/articles/PMC2933606/?tool_pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2933606/?tool_pubmed)
 
-
-
-# Hyman’s Top 19 Sleep Strategies
+## <span style="color: #008BB8 ">Hyman’s Top 19 Sleep Strategies</span>
 
 Here’s how restore your natural sleep rhythm. It may take weeks or months, but using these tools in a coordinated way will eventually reset your biological rhythms:
 
-1. 2. Get natural sunlight. Aim for at least 20 minutes of sunshine every day, preferably in the morning, which triggers your brain to release chemicals that regulate sleep cycles. Avoid computers, smart phones, tablets and television one or two hours before bed. You might also try low blue light exposure for about three hours before bed. Low blue spectrum light helps your brain reset for sleep and increase melatonin.
-2. 3. Use an[acupressure mat](http://www.spoonkspace.com/). This helps stimulate your parasympathetic nervous system and create deep relaxation. Lay on it for about 30 or more minutes before bed.
-3. 4. Get grounded. At times, electromagnetic frequencies can impair sleep. I recommend turning off WiFi and keeping all of your electronic devices away from your bed. Create a common area charging station in your home and encourage all your family members to “check in” their devices before bed.
-4. 5. Clear your mind. Everyone knows how something resonating on your mind can hinder sleep. Turning your mind off can become a challenge. Keep a journal or notebook by your bed and write down your to-do list or ruminations before you go to sleep so you can close your eyes and make it less likely for your mind to spin.
-5. 6. Perform light stretching or yoga before bed. This relaxes your mind and body.[Research](http://www.ncbi.nlm.nih.gov/pubmed/15707256)shows daily yoga can improve sleep significantly.
-6. 7. Use herbal therapies. I recommend 300 to 600 milligrams (mg) of passionflower or 320 to 480 mg of valerian root extract before bed. Other natural sleep supplements include[melatonin or magnesium](http://store.drhyman.com/health-concerns/improve-my/sleep.html). Potato starch mixed into a glass of water before bedtime can also help. Start slowly with one teaspoon and gradually build up the dose. This[feeds good gut bacteria](http://drhyman.com/blog/2016/02/18/how-to-fix-your-gut-bacteria-and-lose-weight/)and[improves blood sugar control](http://drhyman.com/blog/2014/12/18/7-ways-reverse-obesity-diabetes/)while helping you drift into sleep. You can find sleep and other quality supplements[in my store](http://store.drhyman.com/).
-7. 8. Use relaxation practices. Guided imagery, meditation or deep breathing calm your mind and help you drift into sleep. Try calming essential oils such as lavender, Roman chamomile or ylang ylang. Many patients get amazing results with my[UltraCalm CD](http://store.drhyman.com/ultracalm-cd-a-six-step-plan-to-reduce-stress-and-eliminate-anxiety.html).
+1. Get natural sunlight. Aim for at least 20 minutes of sunshine every day, preferably in the morning, which triggers your brain to release chemicals that regulate sleep cycles. Avoid computers, smart phones, tablets and television one or two hours before bed. You might also try low blue light exposure for about three hours before bed. Low blue spectrum light helps your brain reset for sleep and increase melatonin.
+2. Use an [acupressure mat](http://www.spoonkspace.com/). This helps stimulate your parasympathetic nervous system and create deep relaxation. Lay on it for about 30 or more minutes before bed.
+3. Get grounded. At times, electromagnetic frequencies can impair sleep. I recommend turning off WiFi and keeping all of your electronic devices away from your bed. Create a common area charging station in your home and encourage all your family members to “check in” their devices before bed.
+4. Clear your mind. Everyone knows how something resonating on your mind can hinder sleep. Turning your mind off can become a challenge. Keep a journal or notebook by your bed and write down your to-do list or ruminations before you go to sleep so you can close your eyes and make it less likely for your mind to spin.
+5. Perform light stretching or yoga before bed. This relaxes your mind and body. [Research](http://www.ncbi.nlm.nih.gov/pubmed/15707256) shows daily yoga can improve sleep significantly.
+6. Use herbal therapies. I recommend 300 to 600 milligrams (mg) of passionflower or 320 to 480 mg of valerian root extract before bed. Other natural sleep supplements include [melatonin or magnesium](http://store.drhyman.com/health-concerns/improve-my/sleep.html). Potato starch mixed into a glass of water before bedtime can also help. Start slowly with one teaspoon and gradually build up the dose. This [feeds good gut bacteria](http://drhyman.com/blog/2016/02/18/how-to-fix-your-gut-bacteria-and-lose-weight/) and [improves blood sugar control](http://drhyman.com/blog/2014/12/18/7-ways-reverse-obesity-diabetes/) while helping you drift into sleep. You can find sleep and other quality supplements [in my store](http://store.drhyman.com/).
+7. Use relaxation practices. Guided imagery, meditation or deep breathing calm your mind and help you drift into sleep. Try calming essential oils such as lavender, Roman chamomile or ylang ylang. Many patients get amazing results with my [UltraCalm CD](http://store.drhyman.com/ultracalm-cd-a-six-step-plan-to-reduce-stress-and-eliminate-anxiety.html).
 
 * Create an aesthetic environment that encourages sleep – use serene and restful colors and eliminate clutter and distraction
 * Create total darkness and quiet – consider using eyeshades and earplugs
@@ -769,7 +790,7 @@ Here’s how restore your natural sleep rhythm. It may take weeks or months, but
 * Try one to three mg of melatonin at night – melatonin helps stabilize your sleep rhythms.
 * Get a relaxation, meditation or guided imagery CD – any of these may help you get to sleep.
 
-# How to Minimize Anxiety and Maximize Sleep
+## <span style="color: #008BB8 ">How to Minimize Anxiety and Maximize Sleep</span>
 
 In order to get to sleep more easily, you can try changing some of your pre-sleep habits to decrease your mental and physical stress levels. Habit-changing takes time and persistence, but if you stick to these changes you will find yourself adapting and feeling less anxious overall in no time.
 
@@ -784,7 +805,5 @@ In order to get to sleep more easily, you can try changing some of your pre-slee
 Avoiding the anxiety that keeps you from getting the sleep you need can be difficult, but following the above all-natural and healthy techniques may be all that you require to take back control over your sleep schedule.
 
 You can also start to make life changes that are specifically designed to help you cure your overall anxiety. Start with my free 7 minute anxiety test. This test is an extremely valuable way to ensure that you're getting exactly what you need to reduce your anxiety and improve your sleep.
-
-
 
 <!--EndFragment-->
