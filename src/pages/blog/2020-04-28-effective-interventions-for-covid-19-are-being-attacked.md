@@ -29,7 +29,7 @@ tags:
 ---
 <!--StartFragment-->
 
-Expect more useless science like this recently published paper (<!--StartFragment--><https://www.medrxiv.org/content/10.1101/2020.04.16.20065920v2#disqus_thread>) <!--EndFragment-->to begin appearing in the medical literature. Pharma's SOP, when low cost, safe, and effective interventions like vitamin C, niacin, vitamin E, chloroquine (CQ), or hydroxychloroquine (HCQ), threaten to erode their markets and revenues, is to execute campaigns of clinical trial sabotage.
+Expect more useless science like this recently published paper <https://www.medrxiv.org/content/10.1101/2020.04.16.20065920v2#disqus_thread> to begin appearing in the medical literature. Pharma's SOP, when low cost, safe, and effective interventions like vitamin C, niacin, vitamin E, chloroquine (CQ), or hydroxychloroquine (HCQ), threaten to erode their markets and revenues, is to execute campaigns of clinical trial sabotage.
 
 This paper will never survive peer-review. It is weak, biased, and multiply confounded.
 
