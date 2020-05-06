@@ -3,9 +3,22 @@
 // Config vars
 
 @font-face
-  font-family: 'Proxima Nova'
-  src: url('../fonts/proximanova-regular-webfont.woff2') format('woff2'),
-  url('../fonts/proximanova-regular-webfont.woff') format('woff')
+  font-family: 'Proxima Nova Regular'
+  src: url('../fonts/proximanova-regular-webfont.woff2') format('woff2')
+  font-style: normal
+@font-face
+  font-family: 'Proxima Nova Bold'
+  src: url('../fonts/proximanova-bold-webfont.woff') format('woff')
+  font-weight: bold
+@font-face
+  font-family: 'Proxima Nova Semibold'
+  src: url('../fonts/proximanova-semibold-webfont.woff2') format('woff2')
+@font-face
+  font-family: 'Proxima Nova Thin'
+  src: url('../fonts/proximanova-thin-webfont.woff2') format('woff2')
+@font-face
+  font-family: 'Proxima Nova Black'
+  src: url('../fonts/proximanova-black-webfont.woff2') format('woff2')
 
 $meehan-blue: #3879F6
 $kaldi-red-invert: #fff
@@ -21,7 +34,7 @@ $dark-green: #558E97
 $light-blue: #A3C2D7
 $gray-20: #727272
 $gray-5: #CECECE
-$family-sans-serif: 'Proxima Nova', 'Helvetica'
+$family-sans-serif: 'Proxima Nova Regular', 'Helvetica'
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -215,8 +228,12 @@ $menu-label-color: $white-ter
     margin: 0 0 1em
 
 // overrides
-.content h3:not(:first-child)
-  margin-top: 0
+.content
+  h3:not(:first-child)
+    margin-top: 0
+  h2
+    margin-bottom: 0
+
 
 // utilities
 .gray-5
