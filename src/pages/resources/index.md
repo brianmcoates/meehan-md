@@ -29,6 +29,27 @@ books:
       This is why this book is so good and you should check it out if you need
       help with x thing.
     url: 'https://google.com'
+  - heading: Testing Vaccines Book
+    category: Vaccines
+    productImage: /img/book-1.jpg
+    description: >-
+      This is why this book is so good and you should check it out if you need
+      help with x thing.
+    url: 'https://google.com'
+  - heading: Testing Vaccines Book 2
+    productImage: /img/book-3.jpg
+    category: Vaccines
+    description: >-
+      This is why this book is so good and you should check it out if you need
+      help with x thing.
+    url: 'https://google.com'
+  - heading: Vaccine Book 3
+    productImage: /img/book-3.jpg
+    category: Vaccines
+    description: >-
+      This is why this book is so good and you should check it out if you need
+      help with x thing.
+    url: 'https://google.com'
 products:
   - heading: testing heading
     productImage: /img/book-3.jpg
