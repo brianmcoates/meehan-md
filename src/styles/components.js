@@ -13,8 +13,14 @@ export const ResourceItem = styled.a`
   }
 `;
 
+export const ResourceCategory = styled.span`
+  margin-left: 8px;
+  font-size: 20px;
+  font-family: 'Proxima Nova Semibold';
+  border-bottom: 2px solid #333;
+`;
+
 export const ResourceHeading = styled.h2`
-  margin-top: 32px;
   margin-bottom: 0;
   display: inline-block;
   color: ${props => props.theme.purple};
@@ -32,7 +38,10 @@ export const ResourceItemDescription = styled.p`
 export const ResourceToolBar = styled.div`
   max-width: 996px;
   margin: auto;
+  margin-top: 32px;
   width: 100%;
+  display: flex;
+  justify-content: space-between;
 `;
 
 export const FlexBox = styled.div`
