@@ -16,7 +16,7 @@ books:
       help with x thing.
     url: 'https://google.com'
   - heading: testing heading
-    productImage: /img/book-2.jpg
+    productImage: /img/book-3.jpg
     category: Nutrition
     description: >-
       This is why this book is so good and you should check it out if you need
