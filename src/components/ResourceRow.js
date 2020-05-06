@@ -18,7 +18,7 @@ const ResourceRow = props => {
   useEffect(() => {
     let listOfCategories = [];
     props.resources.map(resource =>{
-      if(listOfCategories.indexOf(resource.category) && resource.category !== undefined){
+      if(listOfCategories.indexOf(resource.category) === -1 && resource.category !== undefined){
         listOfCategories.push(resource.category)
       }
       setCategories(listOfCategories)
@@ -26,11 +26,12 @@ const ResourceRow = props => {
     })
   }, [])
 
-
   const buildCategories = ()=>{
     return categories.map(category => {
+      const active = category === selectedCategory;
+
       return(
-        <ResourceCategory>{category}</ResourceCategory>
+        <ResourceCategory className={active && 'active'} onClick={()=>{setSelectedCategory(category)}}>{category}</ResourceCategory>
       )
     })
   };
@@ -55,7 +56,7 @@ const ResourceRow = props => {
   };
   return (
     <section>
-      <Container style={{ overflowX: "auto" }}>
+      <Container style={{ overflowX: "auto", transition: 'all 1s'}}>
         <Row>
           <Col xs={12} md={8}>
             <ResourceToolBar>

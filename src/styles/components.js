@@ -1,6 +1,16 @@
 import styled from 'styled-components'
 
 export const ResourceItem = styled.a`
+  @keyframes slidein {
+    from {
+      opacity: 0;
+    }
+
+    to {
+      opacity: 1;
+    }
+  }
+  animation: slidein .85s;
   width: 300px;
   margin-right: 48px;
   transition: .3s;
@@ -15,9 +25,22 @@ export const ResourceItem = styled.a`
 
 export const ResourceCategory = styled.span`
   margin-left: 8px;
+  padding: 4px 8px;
   font-size: 20px;
-  font-family: 'Proxima Nova Semibold';
-  border-bottom: 2px solid #333;
+  cursor: pointer;
+  color: #727272;
+  transition: .3s ease-in;
+  
+  &:first-child {
+    margin-left: 126px;
+  }
+  
+  &.active {
+    color: #363636;
+    font-family: 'Proxima Nova Semibold';
+    border-bottom: 2px solid #363636; 
+  }
+  
 `;
 
 export const ResourceHeading = styled.h2`
