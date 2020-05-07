@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const ResourceItem = styled.a`
   @keyframes slidein {
     from {
-      opacity: 0;
+      opacity: .5;
     }
 
     to {
@@ -68,6 +68,7 @@ export const ResourceToolBar = styled.div`
 `;
 
 export const FlexBox = styled.div`
+  transition: 1s;
   padding: 32px 16px;
   display: flex;
   justify-content: center;
