@@ -37,14 +37,53 @@ books:
     category: Vaccines
     description: This is why Dissolving Illusions so good and you should check it out
     url: https://www.amazon.com/gp/product/1480216895/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1480216895&linkId=20ddd638f71456f5c27c7f4ddadbd7ce
+  - category: Vaccines
+    heading: The Autism Vaccine
+    url: https://www.amazon.com/gp/product/B07SPTD5FX/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SPTD5FX&linkId=2a7dfdfc09f565af920071184366b6d1
+    description: the autism vaccine description
+    productImage: /img/autism-vaccine.jpg
+  - url: https://www.amazon.com/gp/product/0060542349/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0060542349&linkId=2b0ac8364183aa755541621551f7d491
+    description: about sex lies and meno
+    category: Female Hormones
+    productImage: /img/sex-lies-and-meno.jpg
+    heading: Sex, Lies & Menopause
+  - heading: Outliving Your Ovaries
+    url: https://www.amazon.com/gp/product/147832919X/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=147832919X&linkId=5b34705d9b50e9f32e6175b29d8e33e2
+    productImage: /img/outliving-ovaries.jpg
+    category: Female Hormones
+    description: outlive ovar
+  - category: Female Hormones
+    url: https://www.amazon.com/gp/product/0972976736/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0972976736&linkId=0e7a441320a9f7c7db645a28f9c64b49
+    description: hrt answers
+    productImage: /img/hrt-the-answers.jpg
+    heading: "Hormone Replacement Therapy: The Answers"
+  - heading: The Testosterone Optimization Therapy Bible
+    description: The Testosterone Optimization Therapy Bible described here
+    url: https://www.amazon.com/gp/product/1726779688/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1726779688&linkId=1f8d40bce9daaf981c8ad059b458df26
+    category: Male Hormones
+    productImage: /img/tot-bible.jpg
+  - url: https://www.amazon.com/gp/product/0071494804/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0071494804&linkId=20fc42be7cdba9dd83c6abc1e89b7e34
+    productImage: /img/test-for-life.jpg
+    description: describe test for life here
+    category: Male Hormones
+    heading: "Testosterone for Life: Recharge Your Vitality, Sex Drive, Muscle Mass,
+      and Overall Health"
+  - category: Misc
+    heading: "Estrogeneration: How Estrogenics Are Making You Fat, Sick, and Infertile"
+    url: https://www.amazon.com/gp/product/1946546054/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1946546054&linkId=75bf8945dbe77c82109c89e5541a825f
+    productImage: /img/estrogeneration.jpg
+    description: talk about it here
+  - url: https://www.amazon.com/gp/product/B06XGSJBZM/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06XGSJBZM&linkId=f224e9c755808496eff8c7b31a1127d5
+    description: movie
+    category: Vaccines
+    productImage: /img/vaxxed.jpg
+    heading: "Vaxxed: From Cover-Up To Catastrophe"
 products:
-  - heading: testing heading
-    productImage: /img/book-3.jpg
+  - heading: SleepScore Max
+    productImage: /img/sleepscore-max.jpg
     category: Sleep
-    description: This is why this book is so good and you should check it out if you
-      need help with x thing. And here is also some more information than you
-      really need.
-    url: https://google.com
+    description: sleepscore max describe
+    url: https://www.amazon.com/gp/product/B07LB98V5X/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07LB98V5X&linkId=d7c2fdaa1094213f8446ab920c7dea41
   - heading: testing heading
     productImage: /img/book-2.jpg
     category: Sleep
