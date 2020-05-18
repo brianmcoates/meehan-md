@@ -109,4 +109,9 @@ products:
     productImage: /img/dexcom-g6-cgm-system.png
     description: CGM system
     category: Nutrition
+  - url: https://www.amazon.com/gp/product/B00MGN0FE0/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MGN0FE0&linkId=1a85a8fd8b712fb5bf7a486d3f50ba0a
+    description: explain
+    category: Sleep
+    productImage: /img/cooling-pad.jpg
+    heading: " Cooling Pad for Bed"
 ---
