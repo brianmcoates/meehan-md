@@ -94,18 +94,16 @@ products:
     category: Sleep
     description: sleep mask
     url: https://www.amazon.com/gp/product/B00M9BC1M8/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00M9BC1M8&linkId=b0c585d6d6688bb794c2b83c260e3147
-  - heading: New Product
-    productImage: /img/book-1.jpg
+  - heading: Sheex Wicking Pillow Cases
+    productImage: /img/wicking-pillows.jpg
     category: Sleep
-    description: This is why this book is so good and you should check it out if you
-      need help with x thing. And here is also some more information than you
-      really need.
-    url: https://google.com
-  - heading: Testing Product
-    productImage: /img/book-3.jpg
-    category: Nutrition
-    description: This is a description of the product
-    url: https://google.com
+    description: why you should use it
+    url: https://www.amazon.com/gp/product/B07259QYJ2/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07259QYJ2&linkId=80ff73b7e30dadb802dbb7ce3aa8407b
+  - heading: Sheex Wicking Sheets
+    productImage: /img/sheets.jpg
+    category: Sleep
+    description: describe
+    url: https://www.amazon.com/gp/product/B072BQB66K/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072BQB66K&linkId=a2db7bd6cc10d02837ca0827823c4b65
   - heading: Dexcom G6 Continuous Glucose Monitoring System
     url: https://www.amazon.com/gp/product/B07QGH3XMQ/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07QGH3XMQ&linkId=a0b5409a82dfb6130844c777e0bd891c
     productImage: /img/dexcom-g6-cgm-system.png
