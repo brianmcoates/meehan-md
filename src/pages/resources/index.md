@@ -114,4 +114,9 @@ products:
     category: Sleep
     productImage: /img/cooling-pad.jpg
     heading: " Cooling Pad for Bed"
+  - url: https://www.amazon.com/gp/product/B008MVYL7C/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B008MVYL7C&linkId=10658abd9c9e1e6f94ff97bf69cc94e6
+    category: Sleep
+    description: ear plugs
+    productImage: /img/ear-plugs.jpg
+    heading: 3M 1100 Foam Ear Plugs, 200-Pair
 ---
