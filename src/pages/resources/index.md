@@ -78,6 +78,11 @@ books:
     category: Vaccines
     productImage: /img/vaxxed.jpg
     heading: "Vaxxed: From Cover-Up To Catastrophe"
+  - url: https://www.amazon.com/gp/product/1510752242/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1510752242&linkId=81c1b0c29d37f4fa80588b3af81b9f98
+    productImage: /img/plague-of-corruption.jpg
+    heading: "Plague of Corruption: Restoring Faith in the Promise of Science"
+    category: Vaccines
+    description: describe here
 products:
   - heading: SleepScore Max
     productImage: /img/sleepscore-max.jpg
