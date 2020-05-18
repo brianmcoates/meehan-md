@@ -108,4 +108,9 @@ products:
     category: Nutrition
     description: This is a description of the product
     url: https://google.com
+  - heading: Dexcom G6 Continuous Glucose Monitoring System
+    url: https://www.amazon.com/gp/product/B07QGH3XMQ/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07QGH3XMQ&linkId=a0b5409a82dfb6130844c777e0bd891c
+    productImage: /img/dexcom-g6-cgm-system.png
+    description: CGM system
+    category: Nutrition
 ---
