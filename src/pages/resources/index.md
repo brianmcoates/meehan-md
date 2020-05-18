@@ -89,13 +89,11 @@ products:
     category: Sleep
     description: sleepscore max describe
     url: https://www.amazon.com/gp/product/B07LB98V5X/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07LB98V5X&linkId=d7c2fdaa1094213f8446ab920c7dea41
-  - heading: testing heading
-    productImage: /img/book-2.jpg
+  - heading: Nidra Deep Sleep Mask
+    productImage: /img/sleep-mask-nidra.jpg
     category: Sleep
-    description: This is why this book is so good and you should check it out if you
-      need help with x thing. And here is also some more information than you
-      really need.
-    url: https://google.com
+    description: sleep mask
+    url: https://www.amazon.com/gp/product/B00M9BC1M8/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00M9BC1M8&linkId=b0c585d6d6688bb794c2b83c260e3147
   - heading: New Product
     productImage: /img/book-1.jpg
     category: Sleep
