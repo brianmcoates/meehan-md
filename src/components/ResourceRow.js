@@ -7,7 +7,8 @@ import {
   ResourceItem,
   ResourceItemDescription,
   ResourceItemImg,
-  ResourceToolBar
+  ResourceToolBar,
+  ResourceCategoriesWrapper
 } from "../styles/components";
 import Cookies from "js-cookie";
 
@@ -61,7 +62,7 @@ const ResourceRow = props => {
           <Col xs={12} md={8}>
             <ResourceToolBar>
               <ResourceHeading>{props.heading}</ResourceHeading>
-              <div>{buildCategories()}</div>
+              <ResourceCategoriesWrapper>{buildCategories()}</ResourceCategoriesWrapper>
             </ResourceToolBar>
           </Col>
         </Row>

@@ -25,15 +25,11 @@ export const ResourceItem = styled.a`
 
 export const ResourceCategory = styled.span`
   margin-left: 8px;
-  padding: 4px 8px;
+  padding: 4px 8px 0 8px;
   font-size: 20px;
   cursor: pointer;
   color: #727272;
   transition: .3s ease-in;
-  
-  &:first-child {
-    margin-left: 126px;
-  }
   
   &.active {
     color: #363636;
@@ -42,6 +38,11 @@ export const ResourceCategory = styled.span`
   }
   
 `;
+
+export const ResourceCategoriesWrapper = styled.div`
+  text-align: right;
+  padding-bottom: 8px;
+`
 
 export const ResourceHeading = styled.h2`
   margin-bottom: 0;
