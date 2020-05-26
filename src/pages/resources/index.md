@@ -87,36 +87,36 @@ products:
   - heading: SleepScore Max
     productImage: /img/sleepscore-max.jpg
     category: Sleep
-    description: sleepscore max describe
+    description: " "
     url: https://www.amazon.com/gp/product/B07LB98V5X/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07LB98V5X&linkId=d7c2fdaa1094213f8446ab920c7dea41
   - heading: Nidra Deep Sleep Mask
     productImage: /img/sleep-mask-nidra.jpg
     category: Sleep
-    description: sleep mask
+    description: " "
     url: https://www.amazon.com/gp/product/B00M9BC1M8/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00M9BC1M8&linkId=b0c585d6d6688bb794c2b83c260e3147
   - heading: Sheex Wicking Pillow Cases
     productImage: /img/wicking-pillows.jpg
     category: Sleep
-    description: why you should use it
+    description: " "
     url: https://www.amazon.com/gp/product/B07259QYJ2/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07259QYJ2&linkId=80ff73b7e30dadb802dbb7ce3aa8407b
   - heading: Sheex Wicking Sheets
     productImage: /img/sheets.jpg
     category: Sleep
-    description: describe
+    description: " "
     url: https://www.amazon.com/gp/product/B072BQB66K/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072BQB66K&linkId=a2db7bd6cc10d02837ca0827823c4b65
   - heading: Dexcom G6 Continuous Glucose Monitoring System
     url: https://www.amazon.com/gp/product/B07QGH3XMQ/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07QGH3XMQ&linkId=a0b5409a82dfb6130844c777e0bd891c
     productImage: /img/dexcom-g6-cgm-system.png
-    description: CGM system
+    description: " "
     category: Nutrition
   - url: https://www.amazon.com/gp/product/B00MGN0FE0/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MGN0FE0&linkId=1a85a8fd8b712fb5bf7a486d3f50ba0a
-    description: explain
+    description: " "
     category: Sleep
     productImage: /img/cooling-pad.jpg
     heading: " Cooling Pad for Bed"
   - url: https://www.amazon.com/gp/product/B008MVYL7C/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B008MVYL7C&linkId=10658abd9c9e1e6f94ff97bf69cc94e6
     category: Sleep
-    description: ear plugs
+    description: " "
     productImage: /img/ear-plugs.jpg
     heading: 3M 1100 Foam Ear Plugs, 200-Pair
 ---
