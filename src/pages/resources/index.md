@@ -10,7 +10,7 @@ books:
   - heading: The Metabolic Blowtorch Diet
     productImage: /img/metabolic-blowtorch-diet.jpg
     category: Nutrition
-    description: insert description for metabolic blowtorch diet
+    description: " "
     url: https://www.amazon.com/gp/product/1942761872/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1942761872&linkId=3610641e15c8c8f7d5c96ef0b248ce1b
   - heading: The Bulletproof Diet
     productImage: /img/bulletproof-diet.jpg
