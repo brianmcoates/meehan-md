@@ -83,6 +83,12 @@ books:
     heading: "Plague of Corruption: Restoring Faith in the Promise of Science"
     category: Vaccines
     description: " "
+  - heading: "Zapped: Why Your Cell Phone Shouldn't Be Your Alarm Clock and 1,268
+      Ways to Outsmart the Hazards of Electronic Pollution"
+    productImage: /img/zapped.jpg
+    category: Misc
+    url: https://www.amazon.com/gp/product/0061864285/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061864285&linkId=e9f2df608cc9cf79629ba11fbf579f15
+    description: " "
 products:
   - heading: SleepScore Max
     productImage: /img/sleepscore-max.jpg
