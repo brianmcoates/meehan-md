@@ -163,4 +163,11 @@ products:
       Paleo, Grass-fed Collagen, Amino Acid Building Blocks for High Performance
       (17.6 oz)
     url: https://www.amazon.com/gp/product/B00R7FGIWK/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R7FGIWK&linkId=34de3caea79831075d7b8e8e8e54c8f8
+  - url: https://www.amazon.com/gp/product/B0759X2RLL/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0759X2RLL&linkId=4647c14d9018ed528372e523453a9158
+    description: Bulletproof Collagen Peptides Protein Powder, Vanilla Flavored -
+      Hydrolyzed, Keto-Friendly for Ketogenic Diet, Grass-fed, Amino Acid
+      Building Blocks with XCT MCT Oil for High Performance (17.6 Ounces)
+    heading: Bulletproof Collagen Protein Powder, Vanilla Flavored
+    productImage: /img/vanilla-bp.jpg
+    category: Nutrition
 ---
