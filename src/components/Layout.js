@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import { Helmet } from 'react-helmet'
 import { Announcement } from './Announcement'
 import Footer from '../components/Footer'
@@ -11,6 +11,17 @@ import { theme } from '../styles/theme'
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
+  useEffect(()=>{
+    (function(h,o,t,j,a,r){
+      h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+      h._hjSettings={hjid:1821792,hjsv:6};
+      a=o.getElementsByTagName('head')[0];
+      r=o.createElement('script');r.async=1;
+      r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+      a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+  }, []);
+  
   return (
     <ThemeProvider theme={theme}>
       <Helmet>
@@ -49,7 +60,7 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           // content={`${withPrefix('/')}img/og-image.jpg`}
         />
-        <script async="" src="https://static.hotjar.com/c/hotjar-1821792.js?sv=6"></script>
+
         <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5e6d0baec4717a00120d076a&product=inline-share-buttons' async='async'></script>
 
       </Helmet>
