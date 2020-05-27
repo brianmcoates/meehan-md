@@ -90,7 +90,7 @@ books:
     url: https://www.amazon.com/gp/product/0061864285/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061864285&linkId=e9f2df608cc9cf79629ba11fbf579f15
     description: " "
 products:
-  - heading: SleepScore Max
+  - heading: SleepScore Max Bedside Sleep Monitor
     productImage: /img/sleepscore-max.jpg
     category: Sleep
     description: " "
