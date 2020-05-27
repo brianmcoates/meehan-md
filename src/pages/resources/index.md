@@ -151,4 +151,9 @@ products:
     category: Sleep
     heading: Melatonin
     productImage: /img/melatonin.png
+  - heading: Lavender Essential Oil by Young Living
+    productImage: /img/lavender-oil.jpg
+    category: Sleep
+    description: " "
+    url: https://www.amazon.com/gp/product/B00P2OA77A/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00P2OA77A&linkId=5a15a412f63bfcecba47d192e9dd0b16
 ---
