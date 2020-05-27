@@ -146,4 +146,9 @@ products:
     category: Sleep
     heading: Insomnitol™
     productImage: /img/insomnitol.png
+  - url: https://meehanmd.ehealthpro.com/products/melatonin-3mg-60-capsules
+    description: " "
+    category: Sleep
+    heading: Melatonin
+    productImage: /img/melatonin.png
 ---
