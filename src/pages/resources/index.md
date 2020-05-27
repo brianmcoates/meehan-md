@@ -136,8 +136,7 @@ products:
     category: Sleep
     heading: Buckwheat Pillow
     productImage: /img/buckwheat.jpg
-  - heading: YnM Weighted Blanket — Heavy 100% Oeko-Tex Certified Cotton Material
-      with Premium Glass Beads
+  - heading: "Weighted Blanket: 5lbs - 30lbs"
     url: https://www.amazon.com/gp/product/B075F9ST7G/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B075F9ST7G&linkId=0d4123318901c83dbbc61a433fa869a2
     description: " "
     category: Sleep
