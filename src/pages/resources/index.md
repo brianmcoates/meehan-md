@@ -170,4 +170,11 @@ products:
     heading: Bulletproof Collagen Protein Powder, Vanilla Flavored
     productImage: /img/vanilla-bp.jpg
     category: Nutrition
+  - description: Bulletproof The Original Ground Coffee, Premium Medium Roast
+      Gourmet Organic Beans, Rainforest-Alliance, Perfect for Keto Diet,
+      Upgraded Clean Coffee (12 Ounces)
+    productImage: /img/bp-coffee.jpg
+    category: Nutrition
+    url: https://www.amazon.com/gp/product/B00R7FG0DC/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R7FG0DC&linkId=b2210fb55dc4ae3137e16e6b83bc4ed3
+    heading: Bulletproof Ground Coffee
 ---
