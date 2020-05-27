@@ -131,4 +131,15 @@ products:
     heading: "Zapped: Why Your Cell Phone Shouldn't Be Your Alarm Clock and 1,268
       Ways to Outsmart the Hazards of Electronic Pollution"
     description: "  "
+  - url: https://www.amazon.com/gp/product/B007MI13K4/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B007MI13K4&linkId=a90fe0a238d9418f7bfe48bbed9dfa1f
+    description: " "
+    category: Sleep
+    heading: Buckwheat Pillow
+    productImage: /img/buckwheat.jpg
+  - heading: YnM Weighted Blanket — Heavy 100% Oeko-Tex Certified Cotton Material
+      with Premium Glass Beads
+    url: https://www.amazon.com/gp/product/B075F9ST7G/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B075F9ST7G&linkId=0d4123318901c83dbbc61a433fa869a2
+    description: " "
+    category: Sleep
+    productImage: /img/weiughted-blanket.jpg
 ---
