@@ -141,4 +141,9 @@ products:
     description: " "
     category: Sleep
     productImage: /img/weiughted-blanket.jpg
+  - url: https://meehanmd.ehealthpro.com/products/insomnitol-60-capsules
+    description: " "
+    category: Sleep
+    heading: Insomnitol™
+    productImage: /img/insomnitol.png
 ---
