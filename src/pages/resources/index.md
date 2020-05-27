@@ -156,4 +156,11 @@ products:
     category: Sleep
     description: " "
     url: https://www.amazon.com/gp/product/B00P2OA77A/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00P2OA77A&linkId=5a15a412f63bfcecba47d192e9dd0b16
+  - heading: Bulletproof Collagen Protein Powder, Unflavored
+    productImage: /img/bulletproof.jpg
+    category: Nutrition
+    description: Bulletproof Collagen Protein Powder, Unflavored, Keto-Friendly,
+      Paleo, Grass-fed Collagen, Amino Acid Building Blocks for High Performance
+      (17.6 oz)
+    url: https://www.amazon.com/gp/product/B00R7FGIWK/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R7FGIWK&linkId=34de3caea79831075d7b8e8e8e54c8f8
 ---
