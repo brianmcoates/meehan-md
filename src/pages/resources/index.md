@@ -125,12 +125,6 @@ products:
     description: 3M 1100 Foam Ear Plugs, 200-Pair
     productImage: /img/ear-plugs.jpg
     heading: Foam Ear Plugs
-  - url: https://www.amazon.com/gp/product/0061864285/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061864285&linkId=b4f3305384c43bd9ed13e7eea067fffc
-    category: Sleep
-    productImage: /img/zapped.jpg
-    heading: Zapped
-    description: "Zapped: Why Your Cell Phone Shouldn't Be Your Alarm Clock and
-      1,268 Ways to Outsmart the Hazards of Electronic Pollution"
   - url: https://www.amazon.com/gp/product/B007MI13K4/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B007MI13K4&linkId=a90fe0a238d9418f7bfe48bbed9dfa1f
     description: " "
     category: Sleep
