@@ -178,7 +178,12 @@ products:
     productImage: /img/twice-daily-multi.png
   - url: https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules
     description: Vitamin D Complex 60 vegetarian capsules
-    heading: Vitamin D Complex
+    heading: Vitamin D
     productImage: /img/vit-d.png
     category: Nutrition
+  - description: Stellar C™ 90 vegetarian capsules
+    heading: Vitamin C
+    category: Nutrition
+    productImage: /img/vit-c.png
+    url: https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules
 ---
