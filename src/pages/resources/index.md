@@ -171,4 +171,10 @@ products:
     category: Nutrition
     url: https://www.amazon.com/gp/product/B00R7FG0DC/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R7FG0DC&linkId=b2210fb55dc4ae3137e16e6b83bc4ed3
     heading: Bulletproof Ground Coffee
+  - productImage: /img/bp-diet-book.jpg
+    url: https://www.amazon.com/gp/product/1623368383/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1623368383&linkId=c6af24407e3075520b02cbc2964d304f
+    description: "The Bulletproof Diet: Lose Up to a Pound a Day, Reclaim Energy and
+      Focus, Upgrade Your Life"
+    category: Nutrition
+    heading: The Bulletproof Diet
 ---
