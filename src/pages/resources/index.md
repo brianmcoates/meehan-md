@@ -186,4 +186,9 @@ products:
     category: Nutrition
     productImage: /img/vit-c.png
     url: https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules
+  - description: 1 case of 18 bars
+    url: https://meehanmd.ehealthpro.com/products/chocolate-mint-fiber-bar-case-of-18
+    category: Nutrition
+    heading: Chocolate Mint Fiber Bar
+    productImage: /img/mint-fiber-bar.png
 ---
