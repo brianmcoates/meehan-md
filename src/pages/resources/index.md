@@ -176,4 +176,9 @@ products:
     description: Twice Daily Multi™ 120 vegetarian capsules
     heading: Twice Daily Multi™
     productImage: /img/twice-daily-multi.png
+  - url: https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules
+    description: Vitamin D Complex 60 vegetarian capsules
+    heading: Vitamin D Complex
+    productImage: /img/vit-d.png
+    category: Nutrition
 ---
