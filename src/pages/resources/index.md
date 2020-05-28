@@ -191,4 +191,9 @@ products:
     category: Nutrition
     heading: Chocolate Mint Fiber Bar
     productImage: /img/mint-fiber-bar.png
+  - url: https://meehanmd.ehealthpro.com/products/cocommune-40g-case-of-18-kit
+    category: Nutrition
+    productImage: /img/coco-bar.png
+    description: 1 case of 18 bars
+    heading: Cocommune™ Bar
 ---
