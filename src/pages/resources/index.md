@@ -241,4 +241,11 @@ products:
     category: Nutrition
     url: https://www.amazon.com/gp/product/B005JN3R0I/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005JN3R0I&linkId=029c5675ffd4601ee2391dc48a5ab42c
     description: Nature's Sunshine Chewable Vitamin C 250mg 90 Tablets
+  - url: https://www.amazon.com/gp/product/B0743JPDKN/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0743JPDKN&linkId=9ddb1dcd4e8e982c8b444e1901617d61
+    category: Nutrition
+    productImage: /img/lip-vit-c.jpg
+    heading: Liposomal Vitamin C
+    description: Quicksilver Scientific Liposomal Vitamin C - Potent Antioxidant
+      Formula, 1000mg Buffered Ascorbate Liquid with Phospholipids, Immune
+      System Support (4oz / 120ml)
 ---
