@@ -248,4 +248,10 @@ products:
     description: Quicksilver Scientific Liposomal Vitamin C - Potent Antioxidant
       Formula, 1000mg Buffered Ascorbate Liquid with Phospholipids, Immune
       System Support (4oz / 120ml)
+  - url: https://www.amazon.com/gp/product/B00280M12A/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00280M12A&linkId=ede3c13a4c1fdb2299c0bd8a935d8fd1
+    category: Nutrition
+    productImage: /img/b-vit.jpg
+    description: Garden of Life B Vitamin - Vitamin Code Raw B Complex Whole Food
+      Supplement, Vegan, 60 Capsules
+    heading: Vitamin Code Raw B Complex
 ---
