@@ -222,4 +222,11 @@ products:
     productImage: /img/ornithine.jpg
     description: Solgar – L-Arginine/L-Ornithine 500/250 mg, 100 Vegetable Capsules
     heading: Ornithine
+  - url: https://www.amazon.com/gp/product/B00FVWR22Q/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00FVWR22Q&linkId=8096d5cf98c322329abc18a3c3296967
+    category: Nutrition
+    description: Udo's Choice Organic Omega 3-6-9 Oil Blend 32 Oz - Great Vegan
+      Alternative To Fish Oil - Natural & Plant Based Unrefined Oil With Flax,
+      Evening Primrose, Coconut, Sunflower & More - Made In the USA
+    productImage: /img/uod-s-choice.jpg
+    heading: Vegan Fish Oil
 ---
