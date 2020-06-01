@@ -207,4 +207,14 @@ products:
     category: Sleep
     productImage: /img/l-tryptophan.jpg
     heading: L-Tryptophan
+  - url: https://meehanmd.ehealthpro.com/products/magnesium-chelate-120-tablets
+    category: Sleep
+    productImage: /img/mag-chel.png
+    heading: Magnesium Chelate
+    description: Magnesium Chelate 120 tablets
+  - heading: Magnesium Malate
+    description: Magnesium Malate 240 vegetarian capsules
+    productImage: /img/mag-mal.png
+    category: Sleep
+    url: https://meehanmd.ehealthpro.com/products/magnesium-malate-chelate-240-tablets
 ---
