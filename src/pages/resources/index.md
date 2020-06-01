@@ -254,4 +254,9 @@ products:
     description: Garden of Life B Vitamin - Vitamin Code Raw B Complex Whole Food
       Supplement, Vegan, 60 Capsules
     heading: Vitamin Code Raw B Complex
+  - url: https://www.amazon.com/gp/product/B000Z8YM7O/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000Z8YM7O&linkId=368ade41f45bab3e5ed6f6052cb0fb77
+    category: Nutrition
+    productImage: /img/sodium-ascorbate.jpg
+    description: Nutribiotic Sodium Ascorbate Powder, 16 Ounce
+    heading: Sodium Ascorbate Powder
 ---
