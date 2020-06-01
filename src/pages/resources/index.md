@@ -196,4 +196,15 @@ products:
     productImage: /img/coco-bar.png
     description: 1 case of 18 bars
     heading: Cocommune™ Bar
+  - url: https://www.amazon.com/gp/product/B004N8TTBQ/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B004N8TTBQ&linkId=ef9e7bbde178b7196ebd70a16b843e6d
+    description: Nutrigold Food-Sourced Vitamin D3 5000 IU, 120 Capsules (Natural
+      Vitamin D from Lichen, Certified Vegan, Kosher, Non-GMO)
+    category: Nutrition
+    heading: Vitamin D
+    productImage: /img/vitmain-d.jpg
+  - url: https://www.amazon.com/gp/product/B000GFSVS2/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000GFSVS2&linkId=f5d48ec913ec33e27db9b958474833e9
+    description: Source Naturals L-Tryptophan, 500 mg Mood, Relaxation, Sleep - 120 Capsules
+    category: Sleep
+    productImage: /img/l-tryptophan.jpg
+    heading: L-Tryptophan
 ---
