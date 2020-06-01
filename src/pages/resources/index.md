@@ -229,4 +229,11 @@ products:
       Evening Primrose, Coconut, Sunflower & More - Made In the USA
     productImage: /img/uod-s-choice.jpg
     heading: Vegan Fish Oil
+  - url: https://www.amazon.com/gp/product/B001LF39RO/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001LF39RO&linkId=17f286e3a63b35489cb69ca35a8d2ab4
+    category: Nutrition
+    productImage: /img/fish-oil.jpg
+    heading: Carlson's Fish Oil
+    description: Carlson - The Very Finest Fish Oil, 1600 mg Omega-3s, Liquid Fish
+      Oil Supplement, Norwegian Fish Oil, Wild-Caught, Sustainably Sourced Fish
+      Oil Liquid, Lemon, 16.9 Fl Oz
 ---
