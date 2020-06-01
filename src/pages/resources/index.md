@@ -217,4 +217,9 @@ products:
     productImage: /img/mag-mal.png
     category: Sleep
     url: https://meehanmd.ehealthpro.com/products/magnesium-malate-chelate-240-tablets
+  - url: https://www.amazon.com/gp/product/B00020I9SS/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00020I9SS&linkId=419652fc76ad1b01e9c9a0114ed61eea
+    category: Sleep
+    productImage: /img/ornithine.jpg
+    description: Solgar – L-Arginine/L-Ornithine 500/250 mg, 100 Vegetable Capsules
+    heading: Ornithine
 ---
