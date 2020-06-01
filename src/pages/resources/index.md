@@ -236,4 +236,9 @@ products:
     description: Carlson - The Very Finest Fish Oil, 1600 mg Omega-3s, Liquid Fish
       Oil Supplement, Norwegian Fish Oil, Wild-Caught, Sustainably Sourced Fish
       Oil Liquid, Lemon, 16.9 Fl Oz
+  - heading: Vitamin C Chewables
+    productImage: /img/chewable-vit-c.jpg
+    category: Nutrition
+    url: https://www.amazon.com/gp/product/B005JN3R0I/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005JN3R0I&linkId=029c5675ffd4601ee2391dc48a5ab42c
+    description: Nature's Sunshine Chewable Vitamin C 250mg 90 Tablets
 ---
