@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: 'Vaccines: Neither Safe nor Effective'
+title: "Vaccines: Neither Safe nor Effective"
 date: 2020-01-29T21:54:37.295Z
-description: ' '
+description: " "
 featuredpost: false
 tags:
   - vaccine paradox
@@ -92,9 +92,9 @@ Now consider the lessons of a second study from 2017\[2] in which we learned tha
 Stop and think about the critical implications of the science that was missed because we fail to hold vaccines to the same scientific rigors that we require of all other drugs and medical procedures. We missed the fact that universal vaccination with the flu vaccine makes our children sicker, more infectious, and quite possibly the agents of a viral pandemic. We must stop ignoring the real science while allowing the pharmaceutical industry to to get away with contrived pseudoscience. We can't afford to allow the vaccine manufacturers to continue profiting from the untested, unsafe, and ineffective diseases that they create. We must rise against the victimization of American children by industries robbing them of their health while transforming them into the most vaccinated, sickest, and infectious population of children on the planet. We must end this madness before a mutant coronavirus ignites the infectious disease tinderbox that America has become, and burns us to the ground.
 
 \[1] "Increased risk of noninfluenza respiratory virus infections associated with receipt of inactivated influenza vaccine."\
-Cowling BJ1, Fang VJ, Nishiura H, Chan KH, Ng S, Ip DK, Chiu SS, Leung GM, Peiris JS.[https://www.ncbi.nlm.nih.gov/pubmed/22423139/…](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpubmed%2F22423139%2F%3Ffbclid%3DIwAR3xHlx63Qoplco46ZsbKHIQ-27NIQSerudUDs2gnpb6immfoZIa1y2zdJU&h=AT1tNEixM0QVyz20zBX8MOnACcY3JU-AYzfSR3kyLKPiaiBvHNV1nHna8Js5QiRVbmqZVf25-avkUZzJCUdJWEAkJVm2sovuSvGfNKB3W1ndboz_hkMDClNVrhnRz8h3yF7q7GrIKDDV5722C_HXE8hJbQTQeLo)
+Cowling BJ1, Fang VJ, Nishiura H, Chan KH, Ng S, Ip DK, Chiu SS, Leung GM, Peiris JS. [https://www.ncbi.nlm.nih.gov/pubmed/22423139/…](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpubmed%2F22423139%2F%3Ffbclid%3DIwAR3xHlx63Qoplco46ZsbKHIQ-27NIQSerudUDs2gnpb6immfoZIa1y2zdJU&h=AT1tNEixM0QVyz20zBX8MOnACcY3JU-AYzfSR3kyLKPiaiBvHNV1nHna8Js5QiRVbmqZVf25-avkUZzJCUdJWEAkJVm2sovuSvGfNKB3W1ndboz_hkMDClNVrhnRz8h3yF7q7GrIKDDV5722C_HXE8hJbQTQeLo)
 
 Abstract\
 We randomized 115 children to trivalent inactivated influenza vaccine (TIV) or placebo. Over the following 9 months, TIV recipients had an increased risk of virologically-confirmed non-influenza infections (relative risk: 4.40; 95% confidence interval: 1.31-14.8). Being protected against influenza, TIV recipients may lack temporary non-specific immunity that protected against other respiratory viruses.
 
-\[2] "Infectious virus in exhaled breath of symptomatic seasonal influenza cases from a college community."[https://www.ncbi.nlm.nih.gov/pubmed/29348203](https://www.ncbi.nlm.nih.gov/pubmed/29348203?fbclid=IwAR1C18gBKMpOeuFj9prFiiben8yKEO4rwblcRAHwvBdVZVuRQtfi-tDL4oE)
+\[2] "Infectious virus in exhaled breath of symptomatic seasonal influenza cases from a college community." [https://www.ncbi.nlm.nih.gov/pubmed/29348203](https://www.ncbi.nlm.nih.gov/pubmed/29348203?fbclid=IwAR1C18gBKMpOeuFj9prFiiben8yKEO4rwblcRAHwvBdVZVuRQtfi-tDL4oE)
