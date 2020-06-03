@@ -110,11 +110,6 @@ products:
     category: Sleep
     description: " "
     url: https://www.amazon.com/gp/product/B072BQB66K/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072BQB66K&linkId=a2db7bd6cc10d02837ca0827823c4b65
-  - heading: Dexcom G6 Continuous Glucose Monitoring System
-    url: https://www.amazon.com/gp/product/B07QGH3XMQ/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07QGH3XMQ&linkId=a0b5409a82dfb6130844c777e0bd891c
-    productImage: /img/dexcom-g6-cgm-system.png
-    description: " "
-    category: Nutrition
   - url: https://www.amazon.com/gp/product/B00MGN0FE0/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MGN0FE0&linkId=1a85a8fd8b712fb5bf7a486d3f50ba0a
     description: " "
     category: Sleep
