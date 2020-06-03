@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: The War on Sickness
 date: 2020-03-11T02:05:17.447Z
-description: 'How to Win the War Against the Common Cold, Flu, and Other Viral Illnesses'
+description: How to Win the War Against the Common Cold, Flu, and Other Viral Illnesses
 featuredpost: true
 tags:
   - sickness
@@ -20,7 +20,7 @@ At the first signs and symptoms of a cold, flu, or flu-like illness (fever, tire
 
 There is no better place than home to ride out a cold or flu. At home you can focus on resting, sleeping, and conserving your body's energy reserves. Your immune system is the most powerful army in the world. It is waging war against microbial terrorists trying to infect and take over your cells. It needs all the energy it can get to raise your temperature, mobilize and multiply incredible armies of immune cells, and produce a broad range of specialized molecules designed to recognize, target, neutralize, and destroy your invaders.
 
-## Stay away from the infected/sick andrecently vaccinatedindividuals
+## Stay away from the infected/sick and recently vaccinated individuals
 
 There is no better way to prevent becoming infected than to minimize or eliminate contact with those carrying the viral infection. Minimizing exposure and contact with infected individuals is obvious. However, not all infections are readily apparent. As a rule, I recommend minimizing contact with those recently vaccinated.
 
@@ -123,9 +123,9 @@ The cost of vitamin D is about a penny for 1000 IU, so this treatment costs less
 * If you’re severely vitamin D deficient, vitamin D supplementation is 10 times more effective than the flu vaccine
 * Dr. John Cannell, founder of the Vitamin D Council, was one of the first to introduce the idea that vitamin D deficiency may actually be an underlying CAUSE of influenza.
 
-Dr. Cannell’s[hypothesis](https://articles.mercola.com/sites/articles/archive/2017/02/27/vitamin-d-better-than-flu-vaccine.aspx#_edn1)was initially published in the journal Epidemiology and Infection in 2006. It was subsequently followed up with another[study](https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-5-29)published in the Virology Journal in 2008.
+Dr. Cannell’s [hypothesis](https://articles.mercola.com/sites/articles/archive/2017/02/27/vitamin-d-better-than-flu-vaccine.aspx#_edn1) was initially published in the journal Epidemiology and Infection in 2006. It was subsequently followed up with another [study](https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-5-29) published in the Virology Journal in 2008.
 
-The following year, the largest nationally representative[study](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414815)of its kind to date discovered that people with the lowest vitamin D levels indeed reported having significantly more colds or cases of the flu. In conclusion, lead author Dr. Adit Ginde stated:
+The following year, the largest nationally representative [study](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414815) of its kind to date discovered that people with the lowest vitamin D levels indeed reported having significantly more colds or cases of the flu. In conclusion, lead author Dr. Adit Ginde stated:
 
 "The findings of our study support an important role for vitamin D in prevention of common respiratory infections, such as colds and the flu. Individuals with common lung diseases, such as asthma or emphysema, may be particularly susceptible to respiratory infections from vitamin D deficiency."
 
@@ -133,20 +133,20 @@ The following year, the largest nationally representative[study](https://jamanet
 
 Great advice from Dr. Mercola:
 
-While colds and flus are caused by viral infections, compelling research suggests that your ability to "catch" these infections may actually be a symptom of an underlying[vitamin D deficiency](https://articles.mercola.com/sites/articles/archive/2011/11/13/could-a-cup-or-more-of-this-a-day-keep-the-flu-away.aspx). Vitamin D is a potent antimicrobial agent, producing 200 to 300 different antimicrobial peptides in your body that kill bacteria, viruses and fungi. Suboptimal vitamin D levels will significantly impair your immune response, thereby making you far more susceptible to contracting colds, influenza, and other respiratory infections.
+While colds and flus are caused by viral infections, compelling research suggests that your ability to "catch" these infections may actually be a symptom of an underlying [vitamin D deficiency](https://articles.mercola.com/sites/articles/archive/2011/11/13/could-a-cup-or-more-of-this-a-day-keep-the-flu-away.aspx). Vitamin D is a potent antimicrobial agent, producing 200 to 300 different antimicrobial peptides in your body that kill bacteria, viruses and fungi. Suboptimal vitamin D levels will significantly impair your immune response, thereby making you far more susceptible to contracting colds, influenza, and other respiratory infections.
 
-In the largest and most nationally representative[study](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414815#qundefined)of its kind to date, involving about 19,000 Americans, people with the lowest vitamin D levels reported having significantly more recent colds or cases of the flu -- and the risk was even greater for those with chronic respiratory disorders like asthma. At least[five additional studies](https://articles.mercola.com/sites/articles/archive/2009/03/21/Can-Vitamin-D-Cure-the-Common-Cold.aspx)also show an inverse association between lower respiratory tract infections and vitamin D levels.
+In the largest and most nationally representative [study](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414815#qundefined) of its kind to date, involving about 19,000 Americans, people with the lowest vitamin D levels reported having significantly more recent colds or cases of the flu -- and the risk was even greater for those with chronic respiratory disorders like asthma. At least [five additional studies](https://articles.mercola.com/sites/articles/archive/2009/03/21/Can-Vitamin-D-Cure-the-Common-Cold.aspx) also show an inverse association between lower respiratory tract infections and vitamin D levels.
 
-The best source for vitamin D is direct sun exposure. While it may not be possible to get enough sun exposure during the winter, every effort should be made to attain vitamin D from UVB exposure as there are many additional benefits from this route other than vitamin D. The next best option to sunlight is the use of a[safe indoor tanning device](https://articles.mercola.com/sites/articles/archive/2014/05/28/vitamin-d-deficiency-signs-symptoms.aspx). As a last resort, if neither natural nor artificial sunlight is an option, you may take an oral vitamin D3 supplement. However, if you do, you need to be aware of the following:
+The best source for vitamin D is direct sun exposure. While it may not be possible to get enough sun exposure during the winter, every effort should be made to attain vitamin D from UVB exposure as there are many additional benefits from this route other than vitamin D. The next best option to sunlight is the use of a [safe indoor tanning device](https://articles.mercola.com/sites/articles/archive/2014/05/28/vitamin-d-deficiency-signs-symptoms.aspx). As a last resort, if neither natural nor artificial sunlight is an option, you may take an oral vitamin D3 supplement. However, if you do, you need to be aware of the following:
 
-* Make sure you're taking the correct vitamin D supplement. You want[D3, not D2](https://articles.mercola.com/sites/articles/archive/2012/02/23/oral-vitamin-d-mistake.aspx), as the latter may end up doing more harm than good.
+* Make sure you're taking the correct vitamin D supplement. You wan t[D3, not D2](https://articles.mercola.com/sites/articles/archive/2012/02/23/oral-vitamin-d-mistake.aspx), as the latter may end up doing more harm than good.
 * Based on the latest research from GrassrootsHealth, the average adult dose required to reach vitamin D levels of about 40 ng/ml is around 8,000 IU's of vitamin D3 per day.
 * For children, many experts agree they need about 35 IU's of vitamin D per pound of body weight.
 * Consider periodically checking your vitamin D serum level to make sure you're taking the appropriate dose and obtaining therapeutic vitamin D levels in the range of 50-80 ng/ml.
 
 ### Vitamin D should Always be Paired with Vitamin K2
 
-* If you're taking high dose vitamin D supplements you also need to take[vitamin K2](https://articles.mercola.com/sites/articles/archive/2012/12/16/vitamin-k2.aspx)—not K1 that is typically in vegetables as it will not work synergize with vitamin D.
+* If you're taking high dose vitamin D supplements you also need to take [vitamin K2](https://articles.mercola.com/sites/articles/archive/2012/12/16/vitamin-k2.aspx)—not K1 that is typically in vegetables as it will not work synergize with vitamin D.
 * Vitamin K2 deficiency is actually what produces the symptoms of vitamin D toxicity, which includes inappropriate calcification that can lead to hardening of your arteries. The reason for this is when you take vitamin D, your body creates more vitamin K2-dependent proteins that shuttle the calcium into the appropriate areas. Without vitamin K2, those proteins remain inactivated, so the benefits of those proteins remain unrealized.
 
 # Essential Nutrients for Immune System Support
@@ -157,7 +157,7 @@ The best source for vitamin D is direct sun exposure. While it may not be possib
 * In Norway, elderberry syrup was investigated in a double-blind, placebo-controlled study of elderberry syrup. Symptoms were relieved an average of FOUR DAYS EARLIER than placebo. Which is at least 3.5 days better than Tamiflu and without Tamiflu’s adverse events risk (nausea, vomiting, hallucinations, and suicidal behavior).
 * 1. Elderberry has been used in folk medicine for centuries to treat influenza, colds and sinusitis, and has been reported to have antiviral activity against influenza and herpes simplex. We investigated the efficacy and safety of oral elderberry syrup for treating influenza A and B infections.
   2. Sixty patients (aged 18-54 years) suffering from influenza-like symptoms for 48 h or less were enrolled in this randomized, double-blind, placebo-controlled study during the influenza season of 1999-2000 in Norway.
-  3. Patients received15 ml of elderberryor placebo syrupfour times a day for 5 days, and recorded their symptoms using a visual analogue scale.
+  3. Patients received 15 ml of elderberry or placebo syrup four times a day for 5 days, and recorded their symptoms using a visual analogue scale.
   4. Symptoms were relieved on average 4 days earlier.
   5. The use of rescue medication was significantly less in those receiving elderberry extract compared with placebo.
   6. Elderberry extract seems to offer an efficient, safe and cost-effective treatment for influenza
@@ -188,7 +188,7 @@ It's thought that much of garlic's therapeutic effect comes from its sulfur-cont
 
 Research12 has revealed that as allicin digests in your body it produces sulfenic acid, a compound that reacts with dangerous free radicals faster than any other known compound.
 
-This is one of the reasons why I named garlic as one of the[top seven anti-aging foods](https://articles.mercola.com/sites/articles/archive/2010/02/27/top-7-foods-that-slow-your-aging.aspx)you can consume. Garlic is also a triple threat against infections, offering antibacterial, antiviral and antifungal properties.
+This is one of the reasons why I named garlic as one of the [top seven anti-aging foods](https://articles.mercola.com/sites/articles/archive/2010/02/27/top-7-foods-that-slow-your-aging.aspx) you can consume. Garlic is also a triple threat against infections, offering antibacterial, antiviral and antifungal properties.
 
 Not only is it effective at killing antibiotic-resistant bacteria, including MRSA, but it also fights yeast infections, viruses and parasites. Garlic must be fresh to give you optimal health benefits though.
 
@@ -204,13 +204,13 @@ If you develop a socially offensive odor, just decrease the amount of garlic you
 
 I strongly recommend against the use of Tamiflu. It has been shown to be largely ineffective. More concerning, the drug is associated with a high prevalence of adverse events, including psychosis and suicidality.
 
-Garlic may be particularly useful in preparation for the cold and flu season, as it contains compounds capable of killing a wide variety of organisms, including viruses and bacteria that can cause earaches, colds and influenza. The respected research organization Cochrane Database—which has repeatedly reported that the[science does not support the use of flu vaccine](https://articles.mercola.com/sites/articles/archive/2011/10/17/dangerous-new-ineffective-flu-vaccine-released-for-seniors.aspx)as a first-line defense—has also reviewed studies on the alternatives, such as the use of garlic.15
+Garlic may be particularly useful in preparation for the cold and flu season, as it contains compounds capable of killing a wide variety of organisms, including viruses and bacteria that can cause earaches, colds and influenza. The respected research organization Cochrane Database—which has repeatedly reported that the [science does not support the use of flu vaccine](https://articles.mercola.com/sites/articles/archive/2011/10/17/dangerous-new-ineffective-flu-vaccine-released-for-seniors.aspx) as a first-line defense—has also reviewed studies on the alternatives, such as the use of garlic.15
 
 They found that those who took garlic daily for three months had fewer colds than those who took a placebo, and, when they did come down with a cold, the duration of illness was shorter—an average of 4.5 days compared to 5.5 days for the placebo group.
 
-While this may not seem overly impressive, it's still better than the results achieved by the much-advertised flu drug[Tamiflu](https://articles.mercola.com/sites/articles/archive/2012/11/28/science-behind-tamiflu.aspx). If taken within 48 hours of onset of illness, Tamiflu might reduce the duration of flu symptoms by about a day to a day and a half. That's the extent of what this $100-plus treatment will get you. It's virtually identical to just taking garlic on a regular basis!
+While this may not seem overly impressive, it's still better than the results achieved by the much-advertised flu drug [Tamiflu](https://articles.mercola.com/sites/articles/archive/2012/11/28/science-behind-tamiflu.aspx). If taken within 48 hours of onset of illness, Tamiflu might reduce the duration of flu symptoms by about a day to a day and a half. That's the extent of what this $100-plus treatment will get you. It's virtually identical to just taking garlic on a regular basis!
 
-However, some patients with influenza are at increased risk for secondary bacterial infections when on Tamiflu—a risk you won't take by eating garlic... Other[adverse events](https://articles.mercola.com/sites/articles/archive/2008/03/15/tamiflu-s-effects-on-your-brain.aspx)of Tamiflu include pediatric deaths, serious skin reactions, and neuropsychiatric events, including suicide committed while delirious.
+However, some patients with influenza are at increased risk for secondary bacterial infections when on Tamiflu—a risk you won't take by eating garlic... Other[ adverse events](https://articles.mercola.com/sites/articles/archive/2008/03/15/tamiflu-s-effects-on-your-brain.aspx) of Tamiflu include pediatric deaths, serious skin reactions, and neuropsychiatric events, including suicide committed while delirious.
 
 ## Oregano oil - 3 times per day
 
@@ -244,7 +244,7 @@ The Food and Drug Administration warned consumers to stop using Zicam nasal spra
 
 Taking too much zinc can interfere with your body's ability to absorb other minerals, including and especially iron, magnesium and copper. Your body needs a small amount of all the trace minerals for optimal health. Trace mineral needs are found naturally in fresh, organic protein foods, including beef, lamb, turkey, chicken, salmon. Trace minerals are also found in organic fruits and vegetables.
 
-Zinc is an important mineral, especially when you are trying to naturally manage a cold. But you don't need massive doses. The studies reviewed showed the beneficial qualities of zinc in fighting the common cold used[between 50 and 65 mg a day](http://well.blogs.nytimes.com/2011/02/15/for-cold-virus-zinc-may-edge-out-even-chicken-soup/).
+Zinc is an important mineral, especially when you are trying to naturally manage a cold. But you don't need massive doses. The studies reviewed showed the beneficial qualities of zinc in fighting the common cold used [between 50 and 65 mg a day](http://well.blogs.nytimes.com/2011/02/15/for-cold-virus-zinc-may-edge-out-even-chicken-soup/).
 
 Keep in mind that any time you isolate one mineral and ingest it independently of the others, the potential exists for imbalance, or in the worst case, overdose.
 
@@ -270,7 +270,7 @@ If you are healthy and you eat a well-balanced diet, you will rarely need supple
 
 ## Tea
 
-* Tea made from a combination of elderflower,[yarrow](https://articles.mercola.com/herbs-spices/yarrow.aspx), boneset, linden, peppermint and ginger; drink it hot and often for combating a cold or flu.
+* Tea made from a combination of elderflower, [yarrow](https://articles.mercola.com/herbs-spices/yarrow.aspx), boneset, linden, peppermint and ginger; drink it hot and often for combating a cold or flu.
 * Among other benefits, this combination causes you to sweat, which is helpful for eradicating a virus from your system.
 
 ## Chicken soup
@@ -288,7 +288,7 @@ If you are healthy and you eat a well-balanced diet, you will rarely need supple
 
 ## Propolis
 
-* A bee resin and one of the most broad-spectrum antimicrobial compounds in the world;[propolis](https://articles.mercola.com/sites/articles/archive/2009/11/17/this-bee-product-has-enormous-benefits-for-your-health.aspx)is also the richest source of caffeic acid and apigenin, two very important compounds that aid in immune response.
+* A bee resin and one of the most broad-spectrum antimicrobial compounds in the world; [propolis](https://articles.mercola.com/sites/articles/archive/2009/11/17/this-bee-product-has-enormous-benefits-for-your-health.aspx)is also the richest source of caffeic acid and apigenin, two very important compounds that aid in immune response.
 
 ## Olive leaf extract
 
@@ -306,8 +306,6 @@ Don’t wait until you are sick. Support your immune system with daily supplemen
 * Zinc: 20-25 mg daily
 * Selenium: 100 mcg (micrograms) daily
 * Glutathione: 500 mg (liposomal form) daily
-
-Vitamin C[\[1]](https://mail.google.com/mail/u/0/#m_2764905848717677564_m_-6650789451929335013_Ref1), Vitamin D[\[2]](https://mail.google.com/mail/u/0/#m_2764905848717677564_m_-6650789451929335013_Ref2), magnesium[\[3]](https://mail.google.com/mail/u/0/#m_2764905848717677564_m_-6650789451929335013_Ref3), zinc[\[4]](https://mail.google.com/mail/u/0/#m_2764905848717677564_m_-6650789451929335013_Ref4), and selenium[\[5]](https://mail.google.com/mail/u/0/#m_2764905848717677564_m_-6650789451929335013_Ref5)have been shown to strengthen the immune system against viruses.
 
 ### References:
 
@@ -353,7 +351,6 @@ Vitamin C[\[1]](https://mail.google.com/mail/u/0/#m_2764905848717677564_m_-66507
 * Steinbrenner H, Al-Quraishy S, Dkhil MA et al. (2015) Dietary selenium in adjuvant therapy of viral and bacterial infections. Adv Nutr. 6:73-82.[https://www.ncbi.nlm.nih.gov/pubmed/25593145](https://orthomolecular.acemlna.com/lt.php?s=dc88004dacc175d4d0b8841e212361c8&i=130A134A1A5978).
 
 6. Klenner FR. The treatment of poliomyelitis and other virus diseases with vitamin C. J South Med Surg 1949, 111:210-214.[http://www.doctoryourself.com/klennerpaper.html](https://orthomolecular.acemlna.com/lt.php?s=dc88004dacc175d4d0b8841e212361c8&i=130A134A1A5979).
-
 7. Cathcart RF. The method of determining proper doses of vitamin C for treatment of diseases by titrating to bowel tolerance. Australian Nurses J 1980, 9(4):9-13.[http://www.doctoryourself.com/titration.html](https://orthomolecular.acemlna.com/lt.php?s=dc88004dacc175d4d0b8841e212361c8&i=130A134A1A5980)
 
 # Other Essentials
@@ -385,7 +382,7 @@ Avoiding influenza and flu-like illness during the flu season or any season does
 
 ## Use Natural Antibiotics
 
-* Examples include[colloidal silver](https://articles.mercola.com/sites/articles/archive/2009/02/05/new-guidelines-released-for-safe-usage-of-colloidal-silver-supplements.aspx), oil of oregano, and[garlic](https://articles.mercola.com/sites/articles/archive/2004/02/28/garlic-health.aspx). These work like broad-spectrum antibiotics against bacteria, viruses, and protozoa in your body. And unlike pharmaceutical antibiotics, they do not appear to lead to resistance.
+* Examples include [colloidal silver](https://articles.mercola.com/sites/articles/archive/2009/02/05/new-guidelines-released-for-safe-usage-of-colloidal-silver-supplements.aspx), oil of oregano, and [garlic](https://articles.mercola.com/sites/articles/archive/2004/02/28/garlic-health.aspx). These work like broad-spectrum antibiotics against bacteria, viruses, and protozoa in your body. And unlike pharmaceutical antibiotics, they do not appear to lead to resistance.
 
 ## Avoid Hospitals
 
@@ -412,5 +409,3 @@ Start LL-37 at the first sign of any infection, 0.2-0.3 mL twice daily for 7-10 
 ## Pentosan
 
 1mL IM twice a week (usually only requires x1-2) plus TA-1 0.5 mL qd SC with other viral URIs.
-
-## Dihexa
