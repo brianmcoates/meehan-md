@@ -3,7 +3,7 @@ templateKey: blog-post
 title: I Declare Spiritual Warfare
 date: 2019-11-17T18:51:42.580Z
 description: >-
-  The most important part of my \[Dr. Meehan's] speech at the Vaccine Injury
+  The most important part of my [Dr. Meehan's] speech at the Vaccine Injury
   Epidemic Event in Washington, D.C. on November 14, 2019.
 
 
