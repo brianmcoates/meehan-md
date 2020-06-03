@@ -49,6 +49,8 @@ If you think hospitals are hallowed halls of professionalism and ethical behavio
 
 When it comes to the practice of medicine, show me a financial incentive and I'll show you an increase in the incentivized medical procedure.
 
-Full video: https://youtu.be/ZsQpaTrsww0
+Full video: <!--StartFragment-->**[Covid 19 from a respiratory therapist perspective](https://youtu.be/ZsQpaTrsww0)**
+
+<!--EndFragment-->
 
 <!--EndFragment-->
