@@ -7,6 +7,45 @@ featuredpost: true
 tags:
   - sickness
   - coronavirus
+  - common cold
+  - flu
+  - influenza
+  - virus
+  - viral
+  - viral illness
+  - sick
+  - corona
+  - COVID
+  - COVID-19
+  - COVID19
+  - quarantine
+  - isolation
+  - hand washing
+  - vitamins
+  - vitamin A
+  - vitamin C
+  - vitamin D
+  - ACD Hammer
+  - vitamin A hammer
+  - vitamin C hammer
+  - vitamin D hammer
+  - vitamin K2
+  - elderberry syrup
+  - garlic
+  - allicin
+  - tamiflu
+  - oregano oil
+  - zinc
+  - zinc lozenges
+  - fighting the common cold
+  - how to fight off a cold
+  - propolis
+  - immune system
+  - how to strengthen the immune system
+  - magnesium
+  - glutathione
+  - natural antibiotics
+  - peptide therapy
 ---
 # Isolation and Quarantine
 
