@@ -1,14 +1,13 @@
 ---
 templateKey: blog-post
-title: >-
-  Supplementing with Melatonin, Vitamin C, and Nitric Oxide for COVID-19 – A
-  Simple Guide
+title: Supplementing with Melatonin, Vitamin C, and Nitric Oxide for COVID-19 –
+  A Simple Guide
 date: 2020-03-18T19:37:48.365Z
-description: >-
-  "Melatonin, nitric oxide and ascorbic acid can reduce COVID-19 virulence by
-  inhibiting NLRP3 inflammasomes to stop the perpetuation of cytokine storms.
-  Their critical roles in biochemical reactions and biological pathways that
-  involve ACE2 must be fully explored as part of our fight against COVID-19."
+description: '"Melatonin, nitric oxide and ascorbic acid can reduce COVID-19
+  virulence by inhibiting NLRP3 inflammasomes to stop the perpetuation of
+  cytokine storms. Their critical roles in biochemical reactions and biological
+  pathways that involve ACE2 must be fully explored as part of our fight against
+  COVID-19."'
 featuredpost: false
 tags:
   - corona virus
@@ -25,12 +24,11 @@ tags:
   - quarantine
   - infection
   - treatment
-  - ''
+  - ""
 ---
-Read the full article from which this information was taken at:\
-[https://www.evolutamente.it/covid-19-pneumonia-inflammaso…/…](https://www.evolutamente.it/covid-19-pneumonia-inflammasomes-the-melatonin-connection/?fbclid=IwAR2SB90WZuel7rC7W9JPmlF5OrCItkxd6CZwILhdBLd_KQqFsfdv1tRnuks)
+Read the full article from which this information was taken at: <!--Star**tFragment-->[COVID-19, PNEUMONIA & INFLAMMASOMES – THE MELATONIN CONNECTION](https://www.evolutamente.it/covid-19-pneumonia-inflammasomes-the-melatonin-connection/?fbclid=IwAR2SB90WZuel7rC7W9JPmlF5OrCItkxd6CZwILhdBLd_KQqFsfdv1tRnuks)**<!--EndFragment-->
 
-I ([Jim Meehan](https://www.facebook.com/docmeehan?__tn__=%2CdK-R-R&eid=ARASc-kxFcyFaG9wfPjfCHgOVAYHLofUhhKyX35Pw2L4-Rqx5kdr6lddS5NO0Pm0V3WoAqIUS8cPMUQs&fref=mentions "Jim Meehan"), MD) have merely edited, organized, and added links and references to the Healthline article on nitric oxide. The credit for this work goes to Doris Loh ([https://www.evolutamente.it/category/doris-loh/](https://www.evolutamente.it/category/doris-loh/?fbclid=IwAR3r1Kg6s5ucZzFd3M7z4ckn4ccLyzZ17x2WMOmJJwKE-4TCpD6Tl5EOA3o)) and Healthline.
+I ([Jim Meehan](https://www.facebook.com/docmeehan?__tn__=%2CdK-R-R&eid=ARASc-kxFcyFaG9wfPjfCHgOVAYHLofUhhKyX35Pw2L4-Rqx5kdr6lddS5NO0Pm0V3WoAqIUS8cPMUQs&fref=mentions "Jim Meehan"), MD) have merely edited, organized, and added links and references to the Healthline article on nitric oxide. The credit for this work goes to <!--StartFragment-->[Doris Loh](https://www.evolutamente.it/category/doris-loh/?fbclid=IwAR3r1Kg6s5ucZzFd3M7z4ckn4ccLyzZ17x2WMOmJJwKE-4TCpD6Tl5EOA3o)<!--EndFragment--> and Healthline.
 
 Please understand the following is NOT MEDICAL ADVICE. Please consult your trusted physician regarding COVID-19 treatment, especially if you have comorbidities like CVD, hypertension, diabetes, respiratory diseases and cancer.
 
@@ -38,7 +36,13 @@ What follows are two CoVID 19 scenarios, 1. Prevention and 2. Acute/Active Infec
 
 **1. PREVENTIVE AND MAINTENANCE DOSAGES DURING COVID-19 PANDEMIC**
 
-A. Melatonin
+A. Melatonin<!--StartFragment-->
+
+<!--StartFragment-->
+
+**Shop here: [Melatonin](https://meehanmd.ehealthpro.com/products/melatonin-3mg-60-capsules)**
+
+<!--EndFragment-->
 
 Exogenous intake during COVID-19 is recommended only because normal endogenous production for adults may not be adequate for protection against COVID-19. Children under nine are protected from COVID-19 because they have up to TEN TIMES the ‘normal’ amount of adults. Our high tech environment, light pollution at night have already vastly diminished the normally low level of melatonin in adults. Supplementing with a minimum physiological dose during COVID-19 pandemic can provide additional protection against infections.
 
@@ -54,12 +58,25 @@ It is also extremely helpful if you can lower your ambient lighting at night, as
 
 B. Vitamin C (Ascorbic Acid)
 
+**Shop here:**
+
+* **[Vitamin C capsules](https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules)**
+* **[Liquid Vitamin C](https://meehanmd.ehealthpro.com/products/liposomal-vitamin-c)**
+* **[Vitamin C Buffered Powder](https://meehanmd.ehealthpro.com/products/buffered-vitamin-c-powder-240g)**
+
 Again, your age matters because of the level of endogenous melatonin. If you are older or more susceptible to COVID-19 for various reasons, your maintenance dose should be one gram per hour, to total 10-18 grams per day, depending on your tolerance level. You will experience loose stools, or what is known as hitting Bowel Tolerance if you have saturated your system with ascorbic acid.
 
 C. Nitric Oxide
 
-Read and follow this article: "5 Ways to Increase Nitric Oxide Naturally"\
-[https://www.healthline.com/nut…/how-to-increase-nitric-oxide](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.healthline.com%2Fnutrition%2Fhow-to-increase-nitric-oxide%3Ffbclid%3DIwAR2afa-OhbH1Wl6QRKd-YfChiC-FnGGASzbP8ctuWbdorS_OpocfCx5-c9s&h=AT1v7xQ4pQ-v6Ym8X-fVCFLjgGzW3Oskmgx1NM0Nhz08ua_tLjVltJXTVUW5S4BZmmgDSSMkt3_CmRPmtRzEA5tDMLeUqGWBjFvx-s1zw97XmTIAj5iD6s4Zk4f7ARkzf8t-ig8ktzIKjxOrgLaXPMfk2pCV_XU)
+<!--StartFragment-->
+
+**Shop here: [NOx Synergy™](https://meehanmd.ehealthpro.com/products/nox-synergy)**
+
+<!--EndFragment-->
+
+Read and follow this article: <!--StartFragment-->["5 Ways to Increase Nitric Oxide Naturally"](https://www.healthline.com/nutrition/how-to-increase-nitric-oxide?fbclid=IwAR2afa-OhbH1Wl6QRKd-YfChiC-FnGGASzbP8ctuWbdorS_OpocfCx5-c9s)
+
+<!--EndFragment-->
 
 Specific references on CoVID 19 and Nitric Oxide:\
 [https://pubmed.ncbi.nlm.nih.gov/19800091/](https://l.facebook.com/l.php?u=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F19800091%2F%3Ffbclid%3DIwAR2_qznrqAvaBbwH7nX5SkeY4gAHNZ5fROL3Nu1S_TugVXyX9aLbmG5dAvc&h=AT3dAxohh1z5sawAXV217u0FPB_p95Qw1wye5xMyKWOmwBjt8Otq0dRQaH2uvGgZcPu6SpxpQTcUh5-sBUCTWOXnTVzikKLudbq7MsnoTjttI8f4Uyx2-Bcj_h7k-9JSnAgUqwU6L8YOsmtrnqmegZonY5PWKjE)\
@@ -71,7 +88,7 @@ Specific references on CoVID 19 and Nitric Oxide:\
 
 If you suspect infection, notify authorities in charge and your physician immediately. If you are self-quarantined at home, the following dosage applies:
 
-A. Melatonin
+A. **[Melatonin](https://meehanmd.ehealthpro.com/products/melatonin-3mg-60-capsules)**
 
 Melatonin COVID-19 Infection Dosage: 5 milligrams to 50 milligrams
 
@@ -87,7 +104,7 @@ NIGHTTIME – 60% of total daily dose, divided into two portions taken 2-3 hours
 IF you are diabetic, or have insulin resistance, DO NOT TAKE MELATONIN before 3 pm. Melatonin is able to suppress insulin.\
 Please remember that oral dosage higher than physiological concentration is applicable during infections only. Supplementation of high dose melatonin MUST BE SUPPORTED by ascorbic acid. You may not experience full benefits of melatonin in the absence of ascorbic acid.
 
-B. Vitamin C (Ascorbic Acid)
+B. <!--StartFragment-->**[Vitamin C](https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules)**<!--EndFragment--> (Ascorbic Acid)
 
 Ascorbic Acid COVID-19 Infection Dosage: 1 gram every 15 to 30 minutes, depending on severity of symptoms. Increase to 2 grams every 15 to 30 minutes if symptoms are not reversed within 12-24 hours.
 
