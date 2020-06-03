@@ -7,13 +7,7 @@ description: >-
   Epidemic Event in Washington, D.C. on November 14, 2019.
 
 
-  "With a sound mind, spirit of love, and clarity of purpose, I declare war
-  against the vaccine industry's assault upon the mind, body, and spirit of our
-  children. I will relentlessly expose the scientific fallacies, the medical
-  harms, and the spiritual assault perpetrated on almost every child on the
-  planet by the vaccine industry and the cult of evil that lurks beneath its
-  surface. I acknowledge my purpose and accept this mission, at any cost, so
-  others may live."
+  "With a sound mind, spirit of love, and clarity of purpose, I declare war against the vaccine industry's assault upon the mind, body, and spirit of our children. I will relentlessly expose the scientific fallacies, the medical harms, and the spiritual assault perpetrated on almost every child on the planet by the vaccine industry and the cult of evil that lurks beneath its surface. I acknowledge my purpose and accept this mission, at any cost, so others may live."
 featuredpost: false
 tags:
   - informed consent
@@ -117,8 +111,6 @@ The science is one thing, but the spiritual issues are much greater. The spiritu
 
 Given the power, wealth, and reach of the enemy we face, I have no delusions regarding the cost, risk, and sacrifice required to defend my position. Nevertheless, I accept the mission and willingly pay whatever cost must be paid. I will honor my sacred oaths, rise to protect the health and lives of our children, serve others, and serve God with relentless passion and determination. I will play my role and do my part to serve God's greater purpose - SO OTHERS MAY LIVE.
 
-The link to the entire speech from the Vaccine Injury Epidemic Event in Washington, D.C.:<!--StartFragment-->
-
-https://youtu.be/16qhMwJX1SM
+The link to the entire speech from the Vaccine Injury Epidemic Event in Washington, D.C.:<!--StartFragment--> **[Dr James Meehan, MD at The Vaccine Injury Event 2019](https://youtu.be/16qhMwJX1SM)**
 
 <!--EndFragment-->
