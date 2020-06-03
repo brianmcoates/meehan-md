@@ -37,26 +37,33 @@ Understand the ways that viruses spread and avoid the ways they manage to invade
 
 Washing hands with soap and warm water is the best and most effective way to remove viruses, bacteria, and other pathogens trying to hitch a ride on your hands. Washing your hands will decrease your likelihood of spreading a virus to your nose, mouth and other people.
 
-I do not recommend the use of antibacterial soaps -- antibacterial soaps are completely unnecessary, and they cause far more harm than good. Instead, find a non-toxic soap and wash your hands thoroughly under warm water.
+I do not recommend the use of antibacterial soaps -- antibacterial soaps are completely unnecessary, and they cause far more harm than good. Instead, find a non-toxic soap such as <!--StartFragment-->[Everyone Hand Soap](https://www.amazon.com/gp/product/B00KA38GWQ/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00KA38GWQ&linkId=2ef641fbce586ccd45fc94419d455b9b) or [Mrs. Meyer's Hand Soap](https://www.amazon.com/gp/product/B00NU9MJYS/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00NU9MJYS&linkId=35e52228d8585aee2da67c8bb9ade13f)<!--EndFragment--> and wash your hands thoroughly under warm water.
 
-Except in cases where you have no other option, I do not recommend the or alcohol based hand gels. As with the antibacterial soaps, they cause more harm than good.
+Except in cases where you have no other option, I do not recommend alcohol-based hand gels. As with the antibacterial soaps, they cause more harm than good.
 
-Smash viral illnesses with the\
-“ACD Hammer”
+# Smash viral illnesses with the “ACD Hammer”
 
 ## Vitamins A, C, and D are the keys to supporting and strengthening your immune system against microbial pathogens:
 
-* Vitamin A:200,000 IU per day (in divided doses) for older children and adults.
-* Vitamin C:Begin with an initial (loading) dose of 3000 to 4000 mg. Then take 1000 mg per hour at least six times per day for 3 days.
-* Vitamin D3:10,000 IU 5 times per day. Continue for 3 days.
+* <!--StartFragment-->
+
+  [Vitamin A](https://www.amazon.com/gp/product/B084RDGLFD?ie=UTF8&tag=catalystmd-20&camp=1789&linkCode=xm2&creativeASIN=B084RDGLFD)**:**<!--EndFragment--> 200,000 IU per day (in divided doses) for older children and adults.
+* <!--StartFragment-->
+
+  [Vitamin C](https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules):<!--EndFragment--> Begin with an initial (loading) dose of 3000 to 4000 mg. Then take 1000 mg per hour at least six times per day for 3 days.
+* <!--StartFragment-->
+
+  [Vitamin D](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)<!--EndFragment-->: 10,000 IU 5 times per day. Continue for 3 days.
 
 # Vitamin A Hammer
 
-* ## Vitamin A: 200,000 IU per day (in divided doses) for older children and adults.
+* ## <!--StartFragment-->
+
+  ## **[Vitamin A](https://www.amazon.com/gp/product/B084RDGLFD?ie=UTF8&tag=catalystmd-20&camp=1789&linkCode=xm2&creativeASIN=B084RDGLFD)**<!--EndFragment-->: 200,000 IU per day (in divided doses) for older children and adults.
 
 The recommended regimen is 100,000 IU by mouth at the time of diagnosis for infants younger than 12 months of age, and 200,000 IU for older children and adults.
 
-The rationale for vitamin A:Vitamin A is a necessary substrate for preserving epithelial cell integrity and in addition plays a role in immune modulation.
+The rationale for vitamin A: Vitamin A is a necessary substrate for preserving epithelial cell integrity and in addition plays a role in immune modulation.
 
 Multiple clinical investigations have demonstrated the safety and effectiveness of vitamin A in viral illnesses, including the measles. In fact, vitamin A treatment of children with measles in developing countries has been associated with significant reductions in morbidity (illness) and mortality (death) when administered during the acute phase of illness (within 5 days of the onset of rash).
 
@@ -64,13 +71,15 @@ The benefits of vitamin A supplementation are so well recognized that the World 
 
 In the presence of ophthalmologic signs of vitamin A deficiency, such as night blindness, Bitot's spots (grayish white deposits on the bulbar conjunctiva adjacent to the cornea) or xerophthalmia, the WHO recommends the dose be repeated in 24 hours, and again 4 weeks later.\[]
 
-Vitamin A is available in low-cost liquid formulations that can be easily administered to infants and young children.
+<!--StartFragment-->
+
+[Vitamin A](https://www.amazon.com/gp/product/B084RDGLFD?ie=UTF8&tag=catalystmd-20&camp=1789&linkCode=xm2&creativeASIN=B084RDGLFD)<!--EndFragment--> is available in low-cost liquid formulations that can be easily administered to infants and young children.
 
 # The Vitamin C Hammer
 
 * ## Vitamin C: Begin with an initial (loading) dose of 3000 to 4000 mg. Then take 1000 mg per hour at least six times per day for 3 days.
 
-Seek a high quality vitamin C supplement, preferably a balanced formula based on the acerola fruit. Acerola is rich in vitamin C, and also contains vitamin A, thiamine, riboflavin, and niacin.
+Seek a high quality <!--StartFragment-->[Vitamin C](https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules)<!--EndFragment-->, preferably a balanced formula based on the acerola fruit. Acerola is rich in vitamin C, and also contains vitamin A, thiamine, riboflavin, and niacin.
 
 ### Adults
 
@@ -82,7 +91,7 @@ Seek a high quality vitamin C supplement, preferably a balanced formula based on
 
 ### Children
 
-For children, I typically recommend vitamin C[chewables](https://www.amazon.com/gp/product/B005JN3R0I/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=liviwhol-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005JN3R0I&linkId=e6b468e10d15e133b8e1ec24ab0c1e2e), but powdered and liposomal forms are also good options. The amount of Vitamin C in most multivitamins does not come close to required dosing. At the first signs or even concern that your child may have a cold or flu, consider the following intervention:
+For children, I typically recommend vitamin C <!--StartFragment-->[chewables](https://www.amazon.com/gp/product/B005JN3R0I/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005JN3R0I&linkId=6f704889b17dbf5ff79218b8e7cbdd8f)<!--EndFragment--> [](https://www.amazon.com/gp/product/B005JN3R0I/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=liviwhol-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005JN3R0I&linkId=e6b468e10d15e133b8e1ec24ab0c1e2e)but powdered and liposomal forms are also good options. The amount of Vitamin C in most multivitamins does not come close to required dosing. At the first signs or even concern that your child may have a cold or flu, consider the following intervention:
 
 * Dosing- for at least 3 days:
 * * 150 mg daily for Infants less than 6 months.
@@ -103,15 +112,19 @@ For children, I typically recommend vitamin C[chewables](https://www.amazon.com/
 
 #### Adults
 
-* Vitamin D3: 10,000 IU 5 times per day. Continue for 3 days.
-* The results are dramatic, with complete resolution of symptoms in 48 to 72 hours. Vitamin D dosed at these and even higher levels has been used safely and[shown to be safe](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4463890/#b8-0610507).
+* <!--StartFragment-->
+
+  [Vitamin D](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)<!--EndFragment-->: 10,000 IU 5 times per day. Continue for 3 days.
+* The results are dramatic, with complete resolution of symptoms in 48 to 72 hours. Vitamin D dosed at these and even higher levels has been used safely and [shown to be safe](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4463890/#b8-0610507).
 
 #### Children
 
 * The mothers of children young enough to breastfeed should protect themselves with the adult protocol. Boosting your immune system will boost your child’s immune system.
 * Breastfeed if at all possible. Children are protected by antibodies and all the other immune elements that are found in mother’s breast milk.
-* For children, many experts agree they need about35 IU's of vitamin D per pound of body weight.
-* Liquid vitamin D in a liposomal form is a good way to deliver vitamin D to children.
+* For children, many experts agree they need about 35 IU's of vitamin D per pound of body weight.
+* <!--StartFragment-->
+
+  [Liquid vitamin D in a liposomal form](https://meehanmd.ehealthpro.com/products/emulsi-d3-synergy-2oz-liquid) <!--EndFragment-->is a good way to deliver vitamin D to children.
 
 The cost of vitamin D is about a penny for 1000 IU, so this treatment costs less than a dollar.
 
@@ -120,7 +133,7 @@ The cost of vitamin D is about a penny for 1000 IU, so this treatment costs less
 * Mounting research suggests vitamin D deficiency may actually be a major cause of influenza. People with the lowest vitamin D levels reported having significantly more colds or cases of the flu
 * Scientific review confirms vitamin D optimization boosts immunity and cuts rates of cold and flu. Among people vitamin D blood levels below 10 ng/mL, taking a supplement cut risk of respiratory infection by 50 percent
 * To prevent influenza in one person, 40 people must receive the flu vaccine whereas one case of the flu can be prevented for every 33 people taking vitamin D.
-* If you’re severely vitamin D deficient, vitamin D supplementation is 10 times more effective than the flu vaccine
+* If you’re severely vitamin D deficient, vitamin D supplementation is 10 times more effective than the flu vaccine.
 * Dr. John Cannell, founder of the Vitamin D Council, was one of the first to introduce the idea that vitamin D deficiency may actually be an underlying CAUSE of influenza.
 
 Dr. Cannell’s [hypothesis](https://articles.mercola.com/sites/articles/archive/2017/02/27/vitamin-d-better-than-flu-vaccine.aspx#_edn1) was initially published in the journal Epidemiology and Infection in 2006. It was subsequently followed up with another [study](https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-5-29) published in the Virology Journal in 2008.
@@ -133,29 +146,31 @@ The following year, the largest nationally representative [study](https://jamane
 
 Great advice from Dr. Mercola:
 
-While colds and flus are caused by viral infections, compelling research suggests that your ability to "catch" these infections may actually be a symptom of an underlying [vitamin D deficiency](https://articles.mercola.com/sites/articles/archive/2011/11/13/could-a-cup-or-more-of-this-a-day-keep-the-flu-away.aspx). Vitamin D is a potent antimicrobial agent, producing 200 to 300 different antimicrobial peptides in your body that kill bacteria, viruses and fungi. Suboptimal vitamin D levels will significantly impair your immune response, thereby making you far more susceptible to contracting colds, influenza, and other respiratory infections.
+While colds and flus are caused by viral infections, compelling research suggests that your ability to "catch" these infections may actually be a symptom of an underlying [vitamin D deficiency](https://articles.mercola.com/sites/articles/archive/2011/11/13/could-a-cup-or-more-of-this-a-day-keep-the-flu-away.aspx). <!--StartFragment-->**[Vitamin D](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)**<!--EndFragment--> is a potent antimicrobial agent, producing 200 to 300 different antimicrobial peptides in your body that kill bacteria, viruses and fungi. Suboptimal vitamin D levels will significantly impair your immune response, thereby making you far more susceptible to contracting colds, influenza, and other respiratory infections.
 
 In the largest and most nationally representative [study](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414815#qundefined) of its kind to date, involving about 19,000 Americans, people with the lowest vitamin D levels reported having significantly more recent colds or cases of the flu -- and the risk was even greater for those with chronic respiratory disorders like asthma. At least [five additional studies](https://articles.mercola.com/sites/articles/archive/2009/03/21/Can-Vitamin-D-Cure-the-Common-Cold.aspx) also show an inverse association between lower respiratory tract infections and vitamin D levels.
 
-The best source for vitamin D is direct sun exposure. While it may not be possible to get enough sun exposure during the winter, every effort should be made to attain vitamin D from UVB exposure as there are many additional benefits from this route other than vitamin D. The next best option to sunlight is the use of a [safe indoor tanning device](https://articles.mercola.com/sites/articles/archive/2014/05/28/vitamin-d-deficiency-signs-symptoms.aspx). As a last resort, if neither natural nor artificial sunlight is an option, you may take an oral vitamin D3 supplement. However, if you do, you need to be aware of the following:
+The best source for vitamin D is direct sun exposure. While it may not be possible to get enough sun exposure during the winter, every effort should be made to attain vitamin D from UVB exposure as there are many additional benefits from this route other than vitamin D. The next best option to sunlight is the use of a [safe indoor tanning device](https://articles.mercola.com/sites/articles/archive/2014/05/28/vitamin-d-deficiency-signs-symptoms.aspx). As a last resort, if neither natural nor artificial sunlight is an option, you may take an <!--StartFragment-->**[oral vitamin D3 supplement](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)**<!--EndFragment-->. However, if you do, you need to be aware of the following:
 
-* Make sure you're taking the correct vitamin D supplement. You wan t[D3, not D2](https://articles.mercola.com/sites/articles/archive/2012/02/23/oral-vitamin-d-mistake.aspx), as the latter may end up doing more harm than good.
+* Make sure you're taking the correct vitamin D supplement. You want [D3, not D2](https://articles.mercola.com/sites/articles/archive/2012/02/23/oral-vitamin-d-mistake.aspx), as the latter may end up doing more harm than good.
 * Based on the latest research from GrassrootsHealth, the average adult dose required to reach vitamin D levels of about 40 ng/ml is around 8,000 IU's of vitamin D3 per day.
 * For children, many experts agree they need about 35 IU's of vitamin D per pound of body weight.
 * Consider periodically checking your vitamin D serum level to make sure you're taking the appropriate dose and obtaining therapeutic vitamin D levels in the range of 50-80 ng/ml.
 
-### Vitamin D should Always be Paired with Vitamin K2
+### Vitamin D should Always be Paired with <!--StartFragment-->**[Vitamin K2](https://meehanmd.ehealthpro.com/products/tri-k-60-caps)**<!--EndFragment-->
 
 * If you're taking high dose vitamin D supplements you also need to take [vitamin K2](https://articles.mercola.com/sites/articles/archive/2012/12/16/vitamin-k2.aspx)—not K1 that is typically in vegetables as it will not work synergize with vitamin D.
-* Vitamin K2 deficiency is actually what produces the symptoms of vitamin D toxicity, which includes inappropriate calcification that can lead to hardening of your arteries. The reason for this is when you take vitamin D, your body creates more vitamin K2-dependent proteins that shuttle the calcium into the appropriate areas. Without vitamin K2, those proteins remain inactivated, so the benefits of those proteins remain unrealized.
+* <!--StartFragment-->[Vitamin K2](https://meehanmd.ehealthpro.com/products/tri-k-60-caps)<!--EndFragment--> deficiency is actually what produces the symptoms of vitamin D toxicity, which includes inappropriate calcification that can lead to hardening of your arteries. The reason for this is when you take vitamin D, your body creates more vitamin K2-dependent proteins that shuttle the calcium into the appropriate areas. Without vitamin K2, those proteins remain inactivated, so the benefits of those proteins remain unrealized.
 
 # Essential Nutrients for Immune System Support
 
-## Elderberry Syrup - 15 mL, four times a day for 5 days
+## <!--StartFragment-->**[Elderberry Syrup](https://meehanmd.ehealthpro.com/products/immunoberry-liquid)**<!--EndFragment--> - 15 mL, four times a day for 5 days
 
 * [Randomized study of the efficacy and safety of oral elderberry extract in the treatment of influenza A and B virus infections.](https://journals.sagepub.com/doi/abs/10.1177/147323000403200205)
 * In Norway, elderberry syrup was investigated in a double-blind, placebo-controlled study of elderberry syrup. Symptoms were relieved an average of FOUR DAYS EARLIER than placebo. Which is at least 3.5 days better than Tamiflu and without Tamiflu’s adverse events risk (nausea, vomiting, hallucinations, and suicidal behavior).
-* 1. Elderberry has been used in folk medicine for centuries to treat influenza, colds and sinusitis, and has been reported to have antiviral activity against influenza and herpes simplex. We investigated the efficacy and safety of oral elderberry syrup for treating influenza A and B infections.
+* 1. <!--StartFragment-->
+
+     [Elderberry Syrup](https://meehanmd.ehealthpro.com/products/immunoberry-liquid)<!--EndFragment-->has been used in folk medicine for centuries to treat influenza, colds and sinusitis, and has been reported to have antiviral activity against influenza and herpes simplex. We investigated the efficacy and safety of oral elderberry syrup for treating influenza A and B infections.
   2. Sixty patients (aged 18-54 years) suffering from influenza-like symptoms for 48 h or less were enrolled in this randomized, double-blind, placebo-controlled study during the influenza season of 1999-2000 in Norway.
   3. Patients received 15 ml of elderberry or placebo syrup four times a day for 5 days, and recorded their symptoms using a visual analogue scale.
   4. Symptoms were relieved on average 4 days earlier.
@@ -172,7 +187,9 @@ The best source for vitamin D is direct sun exposure. While it may not be possib
 
 ## Garlic
 
-Garlic has long been hailed for its healing powers, especially against infectious diseases like cold and flu.
+<!--StartFragment-->
+
+**[Garlic](https://meehanmd.ehealthpro.com/products/allicillin-60-softgel)**<!--EndFragment--> has long been hailed for its healing powers, especially against infectious diseases like cold and flu.
 
 This is likely due to its immune boosting effects. Fresh garlic is also a potent antibacterial, antiviral and antifungal agent. But its therapeutic effects may go much further than that.
 
@@ -184,11 +201,11 @@ The featured article in Medical News Today1 contains an impressive list of garli
 * Protects against cancer,5, 6 including brain,7 lung,8 and prostate9 cancer
 * Reduces risk of osteoarthritis10
 
-It's thought that much of garlic's therapeutic effect comes from its sulfur-containing compounds, such as allicin, which are also what give it its characteristic smell. Other health-promoting compounds include oligosaccharides, arginine-rich proteins, selenium and flavonoids.11
+It's thought that much of garlic's therapeutic effect comes from its sulfur-containing compounds, such as allicin (<!--StartFragment-->[Allicillin™ softgels](https://meehanmd.ehealthpro.com/products/allicillin-60-softgel))<!--EndFragment-->, which are also what give it its characteristic smell. Other health-promoting compounds include oligosaccharides, arginine-rich proteins, selenium and flavonoids.11
 
 Research12 has revealed that as allicin digests in your body it produces sulfenic acid, a compound that reacts with dangerous free radicals faster than any other known compound.
 
-This is one of the reasons why I named garlic as one of the [top seven anti-aging foods](https://articles.mercola.com/sites/articles/archive/2010/02/27/top-7-foods-that-slow-your-aging.aspx) you can consume. Garlic is also a triple threat against infections, offering antibacterial, antiviral and antifungal properties.
+This is one of the reasons why I named garlic as one of the [top seven anti-aging foods](https://articles.mercola.com/sites/articles/archive/2010/02/27/top-7-foods-that-slow-your-aging.aspx) you can consume. [Garlic](https://meehanmd.ehealthpro.com/products/allicillin-60-softgel) is also a triple threat against infections, offering antibacterial, antiviral and antifungal properties.
 
 Not only is it effective at killing antibiotic-resistant bacteria, including MRSA, but it also fights yeast infections, viruses and parasites. Garlic must be fresh to give you optimal health benefits though.
 
@@ -204,7 +221,7 @@ If you develop a socially offensive odor, just decrease the amount of garlic you
 
 I strongly recommend against the use of Tamiflu. It has been shown to be largely ineffective. More concerning, the drug is associated with a high prevalence of adverse events, including psychosis and suicidality.
 
-Garlic may be particularly useful in preparation for the cold and flu season, as it contains compounds capable of killing a wide variety of organisms, including viruses and bacteria that can cause earaches, colds and influenza. The respected research organization Cochrane Database—which has repeatedly reported that the [science does not support the use of flu vaccine](https://articles.mercola.com/sites/articles/archive/2011/10/17/dangerous-new-ineffective-flu-vaccine-released-for-seniors.aspx) as a first-line defense—has also reviewed studies on the alternatives, such as the use of garlic.15
+[Garlic](https://meehanmd.ehealthpro.com/products/allicillin-60-softgel) may be particularly useful in preparation for the cold and flu season, as it contains compounds capable of killing a wide variety of organisms, including viruses and bacteria that can cause earaches, colds and influenza. The respected research organization Cochrane Database—which has repeatedly reported that the [science does not support the use of flu vaccine](https://articles.mercola.com/sites/articles/archive/2011/10/17/dangerous-new-ineffective-flu-vaccine-released-for-seniors.aspx) as a first-line defense—has also reviewed studies on the alternatives, such as the use of garlic.15
 
 They found that those who took garlic daily for three months had fewer colds than those who took a placebo, and, when they did come down with a cold, the duration of illness was shorter—an average of 4.5 days compared to 5.5 days for the placebo group.
 
@@ -214,9 +231,13 @@ However, some patients with influenza are at increased risk for secondary bacter
 
 ## Oregano oil - 3 times per day
 
-* Oregano contains two powerful compounds of Carvacrol and Thymol that have powerful antibacterial and antifungal properties. The predominant compound, Carvacrol, is arguably the most important component explaining why Oil of oregano is so potent. The higher the carvacrol concentration, the more effective it is.
+* <!--StartFragment-->
 
-## Zinc - 25 mg, 3 times per day
+  [Oregano](https://meehanmd.ehealthpro.com/products/oil-of-oregano-150-mg-60-softgels) <!--EndFragment-->contains two powerful compounds of Carvacrol and Thymol that have powerful antibacterial and antifungal properties. The predominant compound, Carvacrol, is arguably the most important component explaining why Oil of oregano is so potent. The higher the carvacrol concentration, the more effective it is.
+
+## <!--StartFragment-->
+
+## **[Zinc](https://meehanmd.ehealthpro.com/products/zinc-supreme-90-vegetarian-capsules)**<!--EndFragment--> - 25 mg, 3 times per day
 
 ### [Zinc Lozenges May Shorten the Duration of Colds: A Systematic Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3136969/)
 
@@ -224,7 +245,7 @@ Conclusions: This study shows strong evidence that the zinc lozenge effect on co
 
 The results showed that when administering either syrup or lozenges within 24 hours of the onset of symptoms, healthy people taking zinc suffered colds of a shorter duration and of lesser severity.
 
-This confirms what many people have long thought about zinc, that it helps fight the common cold when taken at the onset of symptoms. The review stopped short of recommending any specific dose of zinc, citing the need for further studies to establish optimal formulations and durations of treatment.
+This confirms what many people have long thought about <!--StartFragment-->**[Zinc](https://meehanmd.ehealthpro.com/products/zinc-supreme-90-vegetarian-capsules)**<!--EndFragment-->, that it helps fight the common cold when taken at the onset of symptoms. The review stopped short of recommending any specific dose of zinc, citing the need for further studies to establish optimal formulations and durations of treatment.
 
 Zinc is not recommended for anyone with an underlying health condition, like lowered immune function, asthma or chronic illness.
 
@@ -254,7 +275,7 @@ It's best to get your zinc from a well balanced diet.
 
 ### Zinc dosing for different age groups
 
-For adults, the recommended daily allowance (RDA) for zinc is about 11 milligrams per day for adult men and 8 milligrams for women. Lactating or pregnant women need about 14 mg.
+For adults, the recommended daily allowance (RDA) for <!--StartFragment-->**[zinc](https://meehanmd.ehealthpro.com/products/zinc-supreme-90-vegetarian-capsules)** <!--EndFragment-->is about 11 milligrams per day for adult men and 8 milligrams for women. Lactating or pregnant women need about 14 mg.
 
 For children, infants only need about 3 mg, 4-8 year olds need about 5mg, and 9-13 year olds need 8mg.
 
@@ -262,7 +283,7 @@ For children, infants only need about 3 mg, 4-8 year olds need about 5mg, and 9-
 
 Besides protein rich foods like meats and fish, other good dietary sources of zinc include raw milk, raw cheese, beans, and yogurt or kefir made from raw milk.
 
-If you are healthy and you eat a well-balanced diet, you will rarely need supplements to complete your body's zinc needs. And then again you likely won't ever catch a cold in the first place and require supplemental zinc.
+If you are healthy and you eat a well-balanced diet, you will rarely need <!--StartFragment-->[supplements](https://meehanmd.ehealthpro.com/products/zinc-supreme-90-vegetarian-capsules) <!--EndFragment-->to complete your body's zinc needs. And then again you likely won't ever catch a cold in the first place and require <!--StartFragment-->[supplemental zinc](https://meehanmd.ehealthpro.com/products/zinc-supreme-90-vegetarian-capsules)<!--EndFragment-->.
 
 ## Mushrooms
 
@@ -288,9 +309,9 @@ If you are healthy and you eat a well-balanced diet, you will rarely need supple
 
 ## Propolis
 
-* A bee resin and one of the most broad-spectrum antimicrobial compounds in the world; [propolis](https://articles.mercola.com/sites/articles/archive/2009/11/17/this-bee-product-has-enormous-benefits-for-your-health.aspx)is also the richest source of caffeic acid and apigenin, two very important compounds that aid in immune response.
+* A bee resin and one of the most broad-spectrum antimicrobial compounds in the world; [propolis](https://articles.mercola.com/sites/articles/archive/2009/11/17/this-bee-product-has-enormous-benefits-for-your-health.aspx) is also the richest source of caffeic acid and apigenin, two very important compounds that aid in immune response.
 
-## Olive leaf extract
+## <!--StartFragment-->**[Olive leaf extract](https://meehanmd.ehealthpro.com/products/olive-leaf-extract-500mg-90s)**<!--EndFragment--> 
 
 * Ancient Egyptians and Mediterranean cultures used it for a variety of health-promoting uses and it is widely known as a natural, non-toxic immune system builder.
 
@@ -298,14 +319,16 @@ If you are healthy and you eat a well-balanced diet, you will rarely need supple
 
 Don’t wait until you are sick. Support your immune system with daily supplementation. I recommend the following supplements regular (daily) supplementation in adults; for children reduce these in proportion to body weight:
 
-* Vitamin C: 3,000 milligrams (or more) daily, in divided doses.
-* Vitamin D3 with K2: 2,000 International Units daily. Start with 5,000 IU/day for two weeks, then reduce to 2,000. Check your blood levels using laboratory testing. Increase your dosing until you find a daily dose that maintains your serum vitamin D levels between 60 and 90 ng/dL.
+* [Vitamin C](https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules): 3,000 milligrams (or more) daily, in divided doses.
+* [Vitamin D](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules) with [vitamin K2](https://articles.mercola.com/sites/articles/archive/2012/12/16/vitamin-k2.aspx): 2,000 International Units daily. Start with 5,000 IU/day for two weeks, then reduce to 2,000. Check your blood levels using laboratory testing. Increase your dosing until you find a daily dose that maintains your serum vitamin D levels between 60 and 90 ng/dL.
 * Magnesium glycinate: 400 mg twice daily
 * Magnesium threonate: 100-300 mg in the morning.\
   Magnesium threonate can cross the blood-brain barrier and improve brain levels of magnesium.
-* Zinc: 20-25 mg daily
+* [Zinc](https://meehanmd.ehealthpro.com/products/zinc-supreme-90-vegetarian-capsules): 20-25 mg daily
 * Selenium: 100 mcg (micrograms) daily
-* Glutathione: 500 mg (liposomal form) daily
+* <!--StartFragment-->
+
+  [Glutathione](https://meehanmd.ehealthpro.com/products/glutathione-50-gm-powder)<!--EndFragment-->: 500 mg (liposomal form) daily
 
 ### References:
 
@@ -367,10 +390,16 @@ Avoiding influenza and flu-like illness during the flu season or any season does
 * Good quality sleep is essential to health and especially important to recovering from injury or illness.
 * Just like it becomes harder for you to get your daily tasks done if you're tired, if your body is overly fatigued it will be harder for it to fight the flu.
 
+  <!--StartFragment-->
+
+  View Dr. Meehan's **[Sleep Improvement Techniques and Information](https://www.meehanmd.com/blog/2020-04-15-sleep-improvement-techniques-and-information/)**
+
+  <!--EndFragment-->
+
 ## [Have Effective Tools to Address Stress](https://articles.mercola.com/sites/articles/archive/2004/07/24/stress-immune-system-part-two.aspx)
 
 * We all face some stress every day, but if stress becomes overwhelming then your body will be less able to fight off the flu and other illnesses.
-* If you feel that stress is taking a toll on your health, consider using an energy psychology tool such as[the Emotional Freedom Technique](http://www.mercola.com/forms/eftcourse.htm), which is remarkably effective in relieving stress associated with all kinds of events, from work to family to trauma.
+* If you feel that stress is taking a toll on your health, consider using an energy psychology tool such as [the Emotional Freedom Technique](http://www.mercola.com/forms/eftcourse.htm), which is remarkably effective in relieving stress associated with all kinds of events, from work to family to trauma.
 
 ## [Exercise](http://www.mercola.com/nutritionplan/exercise.htm)
 
@@ -382,7 +411,7 @@ Avoiding influenza and flu-like illness during the flu season or any season does
 
 ## Use Natural Antibiotics
 
-* Examples include [colloidal silver](https://articles.mercola.com/sites/articles/archive/2009/02/05/new-guidelines-released-for-safe-usage-of-colloidal-silver-supplements.aspx), oil of oregano, and [garlic](https://articles.mercola.com/sites/articles/archive/2004/02/28/garlic-health.aspx). These work like broad-spectrum antibiotics against bacteria, viruses, and protozoa in your body. And unlike pharmaceutical antibiotics, they do not appear to lead to resistance.
+* Examples include [colloidal silver](https://articles.mercola.com/sites/articles/archive/2009/02/05/new-guidelines-released-for-safe-usage-of-colloidal-silver-supplements.aspx), <!--StartFragment-->[oil of oregano](https://meehanmd.ehealthpro.com/products/oil-of-oregano-150-mg-60-softgels)<!--EndFragment-->, and <!--StartFragment-->[garlic](https://meehanmd.ehealthpro.com/products/allicillin-60-softgel)<!--EndFragment-->. These work like broad-spectrum antibiotics against bacteria, viruses, and protozoa in your body. And unlike pharmaceutical antibiotics, they do not appear to lead to resistance.
 
 ## Avoid Hospitals
 
