@@ -2,10 +2,9 @@
 templateKey: blog-post
 title: Vaxxed vs. Unvaxxed
 date: 2020-02-08T17:46:46.090Z
-description: >-
-  The CDC knows that vaccines can cause autism, sleep disorders, speech
-  disorders, and neurodevelopmental disorders in susceptible individuals. They
-  just don't want anyone else to know.
+description: The CDC knows that vaccines can cause autism, sleep disorders,
+  speech disorders, and neurodevelopmental disorders in susceptible individuals.
+  They just don't want anyone else to know.
 featuredpost: false
 tags:
   - vaxxed
@@ -81,9 +80,11 @@ tags:
   - Children's Health Defense
   - Hep B vaccine
   - thimerosal
-  - ''
+  - ""
 ---
-This is my response to the "Vaxxed versus Unvaxxed" presentation provided by the Children's Health Defense Fund. [https://childrenshealthdefense.org/…/fully-vaccinated-vs-u…/](https://childrenshealthdefense.org/child-health-topics/exposing-truth/fully-vaccinated-vs-unvaccinated/?fbclid=IwAR3GiqUFJ6-vfyuKpkRe2BWycdJe_LlHsrblWYIBm93WWX7J8N4lUhJe3Ks)
+This is my response to the <!--StartFragment-->["Vaxxed versus Unvaxxed" presentation provided by the Children's Health Defense Fund.](https://childrenshealthdefense.org/child-health-topics/exposing-truth/fully-vaccinated-vs-unvaccinated/?fbclid=IwAR3GiqUFJ6-vfyuKpkRe2BWycdJe_LlHsrblWYIBm93WWX7J8N4lUhJe3Ks)
+
+<!--EndFragment-->
 
 PART 1: CDC’s Verstraeten Study Showed the Thimerosal Preserved Hep B Vaccine Dramatically Increased Risk of Autism (7.6x), Sleep Disorders (5x), Speech Disorders (2.1x), and Neurodevelopmental Disorders (1.8x)
 
@@ -125,7 +126,9 @@ Results: We identified 286 children with degenerative and 3702 with developmenta
 
 Conclusion: This analysis suggests that high exposure to ethyl-mercury from thimerosal-containing vaccines in the first month of life increases the risk of subsequent development of neurologic development impairment, but not of neurologic degenerative or renal impairment. Further confirmatory studies are needed.
 
-\[2] Actual copy of the study abstract obtained by FOIA request:[https://childrenshealthdefense.org/…/Verstraeten-1999-Incre…](https://l.facebook.com/l.php?u=https%3A%2F%2Fchildrenshealthdefense.org%2Fwp-content%2Fuploads%2FVerstraeten-1999-Increased-risk-of-developmental-neurologic-impairment-after-high-exposure-to-thimerosal-containing-vaccine-in-first-month-of-life.pdf%3Ffbclid%3DIwAR3LQIlt1ay2DXBpcWqB5B638L2OyJAiDHfugZTT4Wje1org2N1mukJZ4hM&h=AT2yOwQJFrNtPf7HodfamDeI16ZnPFXO-vnpRBY8tHnlPpQHJJNLpwbbLTwwX8FxE0tFJ2aU7erRJ2_jZwFcxcvw_bBnzwC4vNtojOs_MwF7yUIM01hWbdODigKJnRRJWMhJ2vzF57qvzrJNFQRvhhEqovNMfv8)
+\[2] <!--StartFragment-->[Actual copy of the study abstract obtained by FOIA request](https://childrenshealthdefense.org/wp-content/uploads/Verstraeten-1999-Increased-risk-of-developmental-neurologic-impairment-after-high-exposure-to-thimerosal-containing-vaccine-in-first-month-of-life.pdf?fbclid=IwAR3LQIlt1ay2DXBpcWqB5B638L2OyJAiDHfugZTT4Wje1org2N1mukJZ4hM)
+
+<!--EndFragment-->
 
 \[3] It is worth noting that DeStefano was also the lead author of the infamous 2004 CDC study in which children who received Merck’s MMR vaccine were found to have a significantly increased risk of autism (e.g., 340% increased risk in African American boys). It was not until 2014 that the lead statistician on the study, William Thompson, PhD, (the #CDCwhistleblower) came forward to blow the whistle on how the CDC investigators, lead by DeStefano, gathered to destroy the documented evidence that showed a strong link between the MMR vaccine and autism.
 
