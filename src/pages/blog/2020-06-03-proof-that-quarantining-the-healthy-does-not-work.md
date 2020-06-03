@@ -42,8 +42,8 @@ In fact, the citizens of states that shutdown businesses and locked-down their p
 For example, both "free" Arkansas and "locked-down" Oklahoma have the same population density, 57 people per square mile. We are neighbors, share a long border, similar weather, and similar demographics.
 
 Contrary to the claim that the pandemic lock-downs would save lives, Arkansas showed a much lower percentage of COVID19 deaths compared to total deaths than did Oklahoma:\
-- Arkansas (0.8)
 
+* Arkansas (0.8)
 * Oklahoma (2.1)
 
 And this finding is not a isolated to the comparison of "free" Arkansas and "locked-down" Oklahoma. When Dr. Huber analyzed all 50 states she found that "...COVID19 deaths, as a percentage of total deaths, are over 3 times higher, on average, in locked down states than in free states."
