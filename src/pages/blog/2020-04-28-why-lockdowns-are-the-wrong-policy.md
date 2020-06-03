@@ -48,12 +48,6 @@ The actual fatality rate of Covid-19 is the region of 0.1%.
 
 At least 50% of the population of both the UK and Sweden will be shown to have already had the disease when mass antibody testing becomes available.
 
-
-
-View the full video here: <!--StartFragment-->
-
-<https://www.realclearpolitics.com/video/2020/04/18/swedish_epidemiologist_johan_giesecke_why_lockdowns_are_the_wrong_policy.html?fbclid=IwAR2a_YR_gJvWDaE9yALaMwOZauf6f5q9FG5MGVDgJWMlTHH>
-
-<!--EndFragment-->
+View the full video here: <!--StartFragment-->**[Swedish Epidemiologist Johan Giesecke: Why Lockdowns Are The Wrong Policy](https://www.realclearpolitics.com/video/2020/04/18/swedish_epidemiologist_johan_giesecke_why_lockdowns_are_the_wrong_policy.html?fbclid=IwAR2a_YR_gJvWDaE9yALaMwOZauf6f5q9FG5MGVDgJWMlTHH)**
 
 <!--EndFragment-->
