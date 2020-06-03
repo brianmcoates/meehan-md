@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: The War on Sickness
+title: How to Beat the Common Cold, Flu, and Other Viral Illnesses
 date: 2020-03-11T02:05:17.447Z
-description: How to Win the War Against the Common Cold, Flu, and Other Viral Illnesses
+description: " "
 featuredpost: true
 tags:
   - sickness
