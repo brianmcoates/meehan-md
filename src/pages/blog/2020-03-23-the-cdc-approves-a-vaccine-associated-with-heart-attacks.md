@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: The CDC Approves a Vaccine Associated with Heart Attacks
 date: 2020-01-08T17:41:01.198Z
-description: ' '
+description: " "
 featuredpost: false
 tags:
   - informed consent
@@ -98,8 +98,14 @@ But, no. The ACIP undid the FDA's position, blew caution to the wind, and voted 
 
 This is intolerable. The ACIP committee members demonstrate a level of public safety and precautionary principle negligence that should not be allowed.
 
-Here is the link: [https://www.youtube.com/watch…](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Ftime_continue%3D46%26v%3DFyHcaiActqY%26feature%3Demb_logo%26fbclid%3DIwAR35XMZ3D1AufZ07zbetJro53xG5IZEGD_ABwq13GgJcEVSIitcdf0Ct5Dc&h=AT0bu7sSDHQCSYwG0JcV0EG32s2QwZ2Uaudrlnoh1kmk-QO24fUsvS4pvyvhMdQOYAZWTe2Ux9SbdYlY_T89w0lePQVfKZ9ju4n8xpBeJsQKBdVCfHksxFzXfu74DRcjQ205XRWLbNF6dCCw63Mt9ImjWVdkutY)
+Here is the link to the video: <!--StartFragment-->[CDC approves a vaccine that causes heart attacks](https://www.youtube.com/watch?time_continue=46&v=FyHcaiActqY&feature=emb_logo&fbclid=IwAR35XMZ3D1AufZ07zbetJro53xG5IZEGD_ABwq13GgJcEVSIitcdf0Ct5Dc)
 
-Also this from Del Bigtree and his nonprofit organization, ICAN, the Informed Consent Action Network, that is doing great work to expose the dirty deceptions, fraudulent pseudoscience, and betrayal of public trust by the vaccine industry and the federal agencies responsible for policies that endanger children everywhere. Here is one of the articles in which the very concerning "Heart Attack Issue" that occurred during the pre-clinical trials of Hepislav B is discussed: [https://www.statnews.com/20…/…/04/dynavax-hepatitis-vaccine/](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.statnews.com%2F2017%2F08%2F04%2Fdynavax-hepatitis-vaccine%2F%3Ffbclid%3DIwAR3Z-2Cjp3a1xLWasr4ADSkwaV5zRSn6jMTwbi8KcRNWu7d34K9CGWw3o7M&h=AT03fCM2tWYHjBkI2dNeL2YdZaaVNRc6CFNceISx-Bo4d6cgJCx83mkLymScsnMDYWRmVapfkYNeC5hTcfj2iEwURedH2zi_oCI93GKnIydwaeRieE0OD4qVPKXcvP3AYOZMiq9zO2XMaMb3FP1Z1SmilWMGk6Q)
+
+
+<!--EndFragment-->
+
+Also this from Del Bigtree and his nonprofit organization, ICAN, the Informed Consent Action Network, that is doing great work to expose the dirty deceptions, fraudulent pseudoscience, and betrayal of public trust by the vaccine industry and the federal agencies responsible for policies that endanger children everywhere. <!--StartFragment-->[Here is one of the articles in which the very concerning "Heart Attack Issue" that occurred during the pre-clinical trials of Hepislav B is discussed](https://www.statnews.com/2017/08/04/dynavax-hepatitis-vaccine/?fbclid=IwAR3Z-2Cjp3a1xLWasr4ADSkwaV5zRSn6jMTwbi8KcRNWu7d34K9CGWw3o7M).
+
+<!--EndFragment-->
 
 Del Bigtree also says, "Are you comfortable knowing that doctors know nothing about the heart attack issue but are now giving this to people with the belief that it is safe? Should it be illegal for me and my family to opt out of this vaccine when I have done my research and know that the FDA cardiologist writing this article believes the vaccine could have the potential to cause heart attacks? This is why the Nuremberg Code exists. And this is why I believe I am doing a service by reporting issues like this when the rest of mainstream media turns a blind eye."
