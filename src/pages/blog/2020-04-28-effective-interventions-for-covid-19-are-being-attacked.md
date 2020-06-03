@@ -29,7 +29,7 @@ tags:
 ---
 <!--StartFragment-->
 
-Expect more useless science like this recently published paper <https://www.medrxiv.org/content/10.1101/2020.04.16.20065920v2#disqus_thread> to begin appearing in the medical literature. Pharma's SOP, when low cost, safe, and effective interventions like vitamin C, niacin, vitamin E, chloroquine (CQ), or hydroxychloroquine (HCQ), threaten to erode their markets and revenues, is to execute campaigns of clinical trial sabotage.
+Expect more useless science like <!--StartFragment-->**[this recently published paper](https://www.medrxiv.org/content/10.1101/2020.04.16.20065920v2#disqus_thread)** <!--EndFragment-->to begin appearing in the medical literature. Pharma's SOP, when low cost, safe, and effective interventions like vitamin C, niacin, vitamin E, chloroquine (CQ), or hydroxychloroquine (HCQ), threaten to erode their markets and revenues, is to execute campaigns of clinical trial sabotage.
 
 This paper will never survive peer-review. It is weak, biased, and multiply confounded.
 
@@ -56,6 +56,4 @@ It is critical that poor science like this be properly reviewed and exposed for 
 Let the battle for truth begin.
 
 References:\
-\[1][https://nationalfile.com/busted-media-uses-va-study-to-la…/…](https://nationalfile.com/busted-media-uses-va-study-to-launch-easily-debunked-attack-on-hydroxychloroquine/?fbclid=IwAR0C5jeGIu6YdoevAERN575RRACiN7nk6V-bYInXu8zi1FdqO7khVmbenQ8)
-
-<!--EndFragment-->
+\[1][](https://nationalfile.com/busted-media-uses-va-study-to-launch-easily-debunked-attack-on-hydroxychloroquine/?fbclid=IwAR0C5jeGIu6YdoevAERN575RRACiN7nk6V-bYInXu8zi1FdqO7khVmbenQ8)<!--StartFragment--> **[BUSTED: Media Uses VA ‘Study’ To Launch Easily Debunked Attack On Hydroxychloroquine](https://nationalfile.com/busted-media-uses-va-study-to-launch-easily-debunked-attack-on-hydroxychloroquine/?fbclid=IwAR0C5jeGIu6YdoevAERN575RRACiN7nk6V-bYInXu8zi1FdqO7khVmbenQ8)**<!--EndFragment-->
