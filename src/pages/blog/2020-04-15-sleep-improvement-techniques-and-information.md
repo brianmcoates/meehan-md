@@ -149,7 +149,13 @@ The darker the better. Nighttime light exposure suppresses production of melaton
 * Put anything with a digital readout where you can’t see it
 * Consider a sleeping mask
 
-The Nidra Deep Sleep Mask - $11.95
+<!--StartFragment-->
+
+[The Nidra Deep Sleep Mask - $13.95](https://www.amazon.com/gp/product/B00M9BC1M8/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00M9BC1M8&linkId=c6dd26f91b122842499886fe4a9b598b)
+
+
+
+<!--EndFragment-->
 
 ![](https://lh4.googleusercontent.com/Qf1AaD6eU99R8sJkwJ1Wej0xhL8R7KKS28fSZ54mtOJ7Z1mMeDBq_F6g0i-WDfXHz2lUcjO0D5aqA5grueo4BFktWqBOhvcB0CpZaFXoCvg7KTN5xRG6NY2MiIB6rZ2lX0tZqVhh)
 
@@ -167,7 +173,11 @@ Ear plugs (foam), white noise, ocean sounds, music without words, and music that
 
 ![](https://lh5.googleusercontent.com/Y06aDlwnMFK0sSEuSfv-gUHRnr4D0ZOHGqLaMKuYx1aUxgk5r4sLqJZj5v5UM5CkKHnv86hTEPXzUB-9YT5iDSGuEAqi2ygxBs3x6EcT21hiui3gz605cRJ07TLvjNKa93mnhdiu)
 
-3M 1100 Foam Ear Plugs, 200-Pair - $18.95
+<!--StartFragment-->
+
+**[3M 1100 Foam Ear Plugs, 200-Pair - $22](https://www.amazon.com/gp/product/B008MVYL7C/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B008MVYL7C&linkId=b47394121e0743f5b9e2a58bfd4bd84c)**
+
+<!--EndFragment-->
 
 * White noise
 
@@ -206,6 +216,12 @@ Alternating current (AC) magnetic fields interfere with your body’s production
 * Consider turning off the power at the circuit box.
 
 #### <span style="color: #008BB8 ">Seven Guidelines for Eliminating Electropollution - from Ann Louise Gittleman, Author of “Zapped”</span>
+
+<!--StartFragment-->
+
+**[Zapped: Why Your Cell Phone Shouldn't Be Your Alarm Clock and 1,268 Ways to Outsmart the Hazards of Electronic Pollution](https://www.amazon.com/gp/product/0061864285/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061864285&linkId=6e56bd78896862c8627e28f2f0fabd4c)**
+
+<!--EndFragment-->
 
 Clear the electronic clutter.
 
@@ -256,12 +272,24 @@ Sweat, skin cells, and drool are a feast for the bad stuff
 
 ![Amazon Buckwheat Hull Pillow.PNG](https://lh3.googleusercontent.com/yrtjZChdmr1hxpIvKVUkRxMeMBGdaO1KW_1sYm2XqPPmDyBdm1i2YCHohzV-HqZFscH_yihQ7qC0UZugUxieCH-eh-M76b-VaJnYKBD9C3ucyyhpkkaQQXBaEEgeCy9vHQvNfiSa)
 
+<!--StartFragment-->
+
+**Shop here: [ZEN CHI Organic Queen Size Buckwheat Pillow for Sleeping](https://www.amazon.com/gp/product/B007MI2L1Y/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B007MI2L1Y&linkId=11402d84549ce36a110c86d984083a98)**
+
+<!--EndFragment-->
+
 ### <span style="color: #008BB8 ">Weighted Blankets for Insomnia and Anxiety</span>
 
 * The weight of the blanket acts as deep touch therapy.
 * Filled with plastic poly pellets that are sewn into compartments, distributing the weight properly.
 * Helps the body to relax, feel more grounded and safe.
 * Clinical studies suggest that when these pressure points are triggered, the brain releases serotonin, a neurotransmitter that is known as “the calming chemical.”
+
+<!--StartFragment-->
+
+**Shop here: [Weighted Blanket 5lbs-30lbs](https://www.amazon.com/gp/product/B07V81Y4CC/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07V81Y4CC&linkId=3b972e28875649b97604d1486a2e2756)**
+
+<!--EndFragment-->
 
 In an era of continuous over-stimulation and high stress, a good night’s sleep is becoming increasingly hard to come by. More and more individuals are developing sleep apnea, chronic insomnia, and other sleep disorders, creating a “[sleep market](https://blog.marketresearch.com/top-6-things-to-know-about-the-28-billion-sleep-market)” — worth $28.6 billion in 2017 — focused on curing sleepless Americans. Over-the-counter and non-prescription drugs are on the rise, while sedatives such as Ambien and Lunesta remain as the most commonly prescribed drugs for insomnia.
 
@@ -312,7 +340,11 @@ The bed is for sleeping and having sex, and that's it. If you suffer from insomn
 
 SleepScore Max provides the most accurate sleep tracking next to clinical sleep measures. Without requiring you to wear a device or place anything on your bed, the SleepScore Max sensor can be placed on your bedside table. The sensor measures the quality and quantity of your sleep. Every morning, the companion app allows you to view your quality scores, personalized insights, and actionable advice.
 
-[https://www.sleepscore.com/sleepscore-max-sleep-tracker](https://www.sleepscore.com/sleepscore-max-sleep-tracker/)
+<!--StartFragment-->
+
+**Shop here: [SleepScore Max Sleep Monitor](https://www.amazon.com/gp/product/B07LB98V5X/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07LB98V5X&linkId=f7966ea2d6ebc6d59b564b5b0032aec3)**
+
+<!--EndFragment-->
 
 ![](/img/sleepscore.png)
 
@@ -325,6 +357,16 @@ SleepScore Max provides the most accurate sleep tracking next to clinical sleep 
 * One time cost of $149.99, no subscription needed
 * Bonus: You get the premium version of the SleepScore Official App for free.
 
+# <span style="color: #008BB8 ">The Oura Ring</span>
+
+<!--StartFragment-->
+
+**Shop here: [Oura Ring measures the physiological signals of your body, understands your lifestyle, and guides you to make your own optimal daily choices. The ring features scientifically validated sleep tracking and personalized guidance](https://ouraring.com/product/heritage-silver).**
+
+<!--EndFragment-->
+
+![](/img/oura-ring.jpg)
+
 # <span style="color: #008BB8 ">Daily bedtime routine</span>
 
 * Prepare your mind and body for sleep
@@ -334,7 +376,7 @@ SleepScore Max provides the most accurate sleep tracking next to clinical sleep 
 
 ![](/img/bedtime-routine.png)
 
-Establish a bedtime routine. This could include meditation, deep breathing, using [aromatherapy](http://articles.mercola.com/sites/articles/archive/2004/03/13/essential-oils.aspx) or essential oils or indulging in a massage from your partner. The key is to find something that makes you feel relaxed, then repeat it each night to help you release the tensions of the day. (Mercola)
+Establish a bedtime routine. This could include meditation, deep breathing, using [aromatherapy](http://articles.mercola.com/sites/articles/archive/2004/03/13/essential-oils.aspx) or <!--StartFragment-->[essential oils](https://www.amazon.com/gp/product/B00P2OA77A/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00P2OA77A&linkId=44cfe5c2342679ed338c48a350a3d82b)<!--EndFragment--> or indulging in a massage from your partner. The key is to find something that makes you feel relaxed, then repeat it each night to help you release the tensions of the day. (Mercola)
 
 Try to keep the same sleep schedule on weeknights and weekends. Limit the difference to no more than about an hour. Staying up late and sleeping late on weekends can disrupt your body clock's sleep–wake rhythm.
 
@@ -488,6 +530,12 @@ Supplement analysis from [Sleep Quality](https://examine.com/topics/Sleep+Qualit
 
 ### [Melatonin](https://examine.com/supplements/Melatonin/)
 
+<!--StartFragment-->
+
+**Shop here: [Melatonin Supplement](https://meehanmd.ehealthpro.com/products/melatonin-3mg-60-capsules)** and **[Insomnitol™](https://meehanmd.ehealthpro.com/products/insomnitol-60-capsules)**
+
+<!--EndFragment-->
+
 Recommended dosage: 3 mg to 6 mg at bedtime. Limit use to one to two days per week.
 
 Melatonin is a hormone secreted by the pineal gland. Under the influence of light, melatonin regulates circadian rhythms (the day-night cycle) and the sleep-wake cycle. Melatonin secretion and activity is strongly influenced by the amount of light energy entering the eye. As the sun and light energy entering the eye goes down in the evening, melatonin levels increase. Levels stay high throughout the night, and then decrease in the morning. In people with insomnia, nocturnal melatonin secretion may be blunted, which negatively affects normal sleep patterns.26
@@ -520,6 +568,12 @@ If you decide to have your melatonin levels tested, be sure to do it at night. P
 
 ## [Glycine](https://examine.com/supplements/Glycine/)
 
+<!--StartFragment-->
+
+**Shop here: [Glycine Powder](https://meehanmd.ehealthpro.com/products/glycine-powder)**
+
+<!--EndFragment-->
+
 Recommended dosage: 3g of glycine an hour prior to sleep
 
 In persons undergoing mild sleep deprivation, 3g of glycine an hour prior to sleep is able to increase sleep quality and improve self-reports of fatigue and well being the next day due to better sleep.
@@ -538,9 +592,21 @@ Caution Notice: Kava and Kava containing products are suspected to interact adve
 
 Recommended dosage: 80 mg Silexan (Lavender oil) at bedtime or aromatherapy exposure at bedtime.
 
+<!--StartFragment-->
+
+**Shop here: [Young Living Lavender Oil](https://www.amazon.com/gp/product/B00P2OA77A/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00P2OA77A&linkId=f6053265b08b224b5c3098432b566e9b)**
+
+<!--EndFragment-->
+
 Improvements in sleep quality have been noted in insomniacs and persons with generalized anxiety disorder mostly, with some limited evidence suggesting this may benefit generally healthy persons. Both oral supplements and aromatherapy are implicated in these benefits, but overall the quality of the studies is somewhat less than desirable. The parameters that see benefit are less waking up during the night and reduction in insomnia symptoms.
 
 ## [Red Clover Extract](https://examine.com/supplements/Red+Clover+Extract/)
+
+<!--StartFragment-->
+
+**Shop here: [Red Clover Extract](https://www.amazon.com/gp/product/B000Z95EZC/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000Z95EZC&linkId=c803ca35544bdb1cb6428f53d639c90c)**
+
+<!--EndFragment-->
 
 Recommended dosage: 80 mg daily
 
@@ -566,6 +632,12 @@ L-theanine is an amino acid found in green tea, and it's known to reduce stress 
 
 ## [Magnesium](https://examine.com/supplements/Magnesium/) Threonate or Glycinate
 
+<!--StartFragment-->
+
+**Shop here: [Magnesium Chelate 120 Tablets](https://meehanmd.ehealthpro.com/products/magnesium-chelate-120-tablets)** and **[Magnesium Malate 240 vegetarian capsules](https://meehanmd.ehealthpro.com/products/magnesium-malate-chelate-240-tablets)**
+
+<!--EndFragment-->
+
 Recommended dosage: 400 to 800 milligrams (mg) daily
 
 The best forms of magnesium all have chelates that end in -ate. For example, threonate, glycinate, citrate, malate, aspartate, and others.
@@ -582,7 +654,11 @@ Along with contributing to a good night’s sleep, this essential mineral is an 
 
 Having enough makes the body more resilient to stress.
 
-## [L-Tryptophan](http://www.amazon.com/gp/product/B000GFSVS2/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000GFSVS2&linkCode=as2&tag=rodnew0c-20&linkId=G75WLVIYGWPRUAOR)
+<!--StartFragment-->
+
+### **[L-Tryptophan](https://www.amazon.com/gp/product/B000GFSVS2/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000GFSVS2&linkId=51c8d12c9959b432961eb3d927bde2f0)**
+
+<!--EndFragment-->
 
 Recommended dosage: 500 mg to 1500 mg taken at bedtime.
 
@@ -594,19 +670,33 @@ Take caution with amounts when using this supplement, as too much of it can caus
 
 ## [Vitamin D](http://www.amazon.com/gp/product/B005G73N3I/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005G73N3I&linkCode=as2&tag=rodnew0c-20&linkId=KQAYFNDSK2RQCGY4)
 
+<!--StartFragment-->
+
+**Shop here: [Vitamin D Complex 60 capsules](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)**
+
+<!--EndFragment-->
+
+<!--EndFragment-->
+
 Recommended dosage: Heavily based on weight, roughly 5,000 International Units per day for adults
 
 Some sleep disorders are tied to vitamin D deficiency, which hurts the amount of sleep you get, the quality of your sleep, and your mood upon waking up. Since most of us work indoors, wear clothes, and use sunscreen, those modern life realities take away from our inherent vitamin D synthesis.
 
-## [Ornithine](http://www.amazon.com/gp/product/B000Z8VD08/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000Z8VD08&linkCode=as2&tag=rodnew0c-20&linkId=GD5K3PQWXK4HIX4F)
+<!--StartFragment-->
+
+**[Ornithine](https://www.amazon.com/gp/product/B00020I9SS/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00020I9SS&linkId=419652fc76ad1b01e9c9a0114ed61eea)**
+
+### <!--EndFragment-->
 
 Recommended dosage: 500 to 1,000 mg
 
-"This relaxing amino acid helps the body eliminate ammonia in the gut, and excess ammonia causes feelings of stress," author Dave Asprey explains in[The Bulletproof Diet](http://www.orderbulletproofdietbook.com/?utm_source=rodalenews&utm_medium=article&utm_campaign=preorder). "Ammonia is a cellular toxin, and eliminating it can improve your long- and short-term memories."
+"This relaxing amino acid helps the body eliminate ammonia in the gut, and excess ammonia causes feelings of stress," author Dave Asprey explains in [](http://www.orderbulletproofdietbook.com/?utm_source=rodalenews&utm_medium=article&utm_campaign=preorder)<!--StartFragment-->**[The Bulletproof Diet](https://www.amazon.com/gp/product/1623368383/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1623368383&linkId=487d60381e384b9c26f2086c30e34bf9)**<!--EndFragment-->. Ammonia is a cellular toxin, and eliminating it can improve your long- and short-term memories."
 
 Ornithine is especially beneficial when taken to counter the adverse effects of alcohol consumption.
 
 ## GABA
+
+Shop here: <!--StartFragment-->**[GABA](https://meehanmd.ehealthpro.com/products/pharmagaba-60-chewables)**<!--EndFragment-->
 
 Recommended dosage: 500 mg at bedtime
 
