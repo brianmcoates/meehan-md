@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Sleep Improvement Techniques and Information
+title: Sleep Improvement Techniques
 date: 2020-04-15T20:58:32.084Z
 description: If you are suffering from insomnia, it’s time for you to take
   control and address the underlying causes. There are many steps you can take
@@ -152,8 +152,6 @@ The darker the better. Nighttime light exposure suppresses production of melaton
 <!--StartFragment-->
 
 [The Nidra Deep Sleep Mask - $13.95](https://www.amazon.com/gp/product/B00M9BC1M8/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00M9BC1M8&linkId=c6dd26f91b122842499886fe4a9b598b)
-
-
 
 <!--EndFragment-->
 
@@ -463,12 +461,6 @@ The 4-7-8 Breathing Exercise is simple, quick, requires no equipment, and can be
 
 The absolute time you spend on each phase is not important; the ratio of 4:7:8 is important.
 
-##### <span style="color: #008BB8 ">Progressive Muscle Relaxation</span>
-
-##### <span style="color: #008BB8 ">Guided Imagery and Meditation</span>
-
-##### <span style="color: #008BB8 ">Biofeedback</span>
-
 # <span style="color: #008BB8 ">Stimulus Control Therapy</span>
 
 ##### <span style="color: #008BB8 ">Avoid a negative sleep mindset</span>
@@ -758,142 +750,3 @@ Although not nearly as low profile and comfortable as a dentist made night guard
 ### <span style="color: #008BB8 ">Obstructive Sleep Apnea</span>
 
 If you suspect that you have sleep apnea, it is imperative that you get tested! Sleep apnea is destructive and deadly. People with significant sleep apnea are suffocating every night, a process that is slowly destroying the most metabolic and important tissues in the body.
-
-## <span style="color: #008BB8 ">SLEEP PROBLEMS AND SOLUTION</span>
-
-Here are some common sleep problems and how to treat them:
-
-Problem: I’m tired, but I just can’t fall asleep.
-
-Solution: Try lifestyle changes. Limit caffeine and alcohol, especially before bedtime; make sure your bedroom is cool, dark and comfortable; and turn off all electronics (including the book you’re reading on your tablet computer) one hour before bed.
-
-Problem: I get seven or eight hours of sleep a night, but when I wake up I’m exhausted. Also, my partner says I snore.
-
-Solution: See your doctor, who might order a sleep study to test you for sleep apnea.
-
-Problem: My joints ache so much that I can’t fall asleep.
-
-Solution: Ask your doctor about arthritis pain relievers, such as non-steroidal anti-inflammatory drugs (NSAIDs) and corticosteroids.
-
-Problem: I’m too stressed out to sleep.
-
-Solution: Try stress-relieving techniques, such as meditating, taking a warm bath, or listening to music. Joffe suggests writing down a “worry list” of everything that’s on your mind before you go to bed. Once the worries are on paper, it can be easier to put them aside.
-
-Problem: My legs twitch, tingle, and itch so uncontrollably that I can’t fall asleep, and once I do fall asleep I keep waking up.
-
-Solution: You could have restless legs syndrome. Your doctor might suggest stretching or massaging your legs before bed. You can also take a warm bath. If lifestyle interventions don’t work, there are medicines available.
-
-Problem: I keep waking up in the middle of the night to use the bathroom.
-
-Solution: Limit caffeine and alcohol, which can increase the urge to urinate. Stop drinking fluids a few hours before bedtime. And use the bathroom right before you get into bed. If you’re taking diuretic medicines, talk to your doctor, because they could be contributing to the problem.
-
-Problem: My heartburn is keeping me awake.
-
-Solution: Try raising the head of the bed 4 to 6 inches. Eat dinner at least two to three hours before bedtime, and don’t eat anything too heavy. Avoid foods that can trigger heartburn, such as chocolate, coffee, caffeinated drinks, spicy foods and fatty foods.
-
-## <span style="color: #008BB8 ">Optimizing Your Sleep Sanctuary (from Mercola.com)</span>
-
-Dr. Mercola’s advice:
-
-* Keep the temperature in your bedroom no higher than 70 degrees F. Many people keep their homes and particularly their upstairs bedrooms too warm. Studies show that the optimal room temperature for sleep is quite cool, between 60 to 68 degrees. Keeping your room cooler or hotter can lead to restless sleep. When you sleep, your body's internal temperature drops to its lowest level, generally about four hours after you fall asleep. Scientists believe a cooler bedroom may therefore be most conducive to sleep, since it mimics your body's natural temperature drop.
-* Check your bedroom for electro-magnetic fields (EMFs). These can disrupt the pineal gland and the production of melatonin and serotonin, and may have other negative effects as well. To do this, you need a gauss meter. You can find various models online, starting around $50 to $200. Some experts even recommend pulling your circuit breaker before bed to kill all power in your house.
-* Move alarm clocks and other electrical devices away from your bed. If these devices must be used, keep them as far away from your bed as possible, preferably at least 3 feet. Remove the clock from view. It will only add to your worry when you stare at it all night... 2 a.m. ...3 a.m. ... 4:30 a.m.
-* Avoid using loud alarm clocks. It is very stressful on your body to be suddenly jolted awake. If you are regularly getting enough sleep, an alarm may even be unnecessary. I gave up my alarm clock years ago and now use a sun alarm clock, an alarm that combines the features of a traditional alarm clock (digital display, AM/FM radio, beeper, snooze button, etc.) with a special built-in light that gradually increases in intensity, simulating sunrise.
-* Reserve your bed for sleeping. If you are used to watching TV or doing work in bed, you may find it harder to relax and drift off to sleep, so avoid doing these activities in bed.
-* Consider separate bedrooms. Recent studies suggest, for many people, sharing a bed with a partner (or pets) can significantly impair sleep, especially if the partner is a restless sleeper or snores. If bedfellows are consistently interfering with your sleep, you may want to consider a separate bedroom.
-
-### <span style="color: #008BB8 ">Preparing for Bed</span>
-
-* Get to bed as early as possible. Your body (particularly your adrenal system) does a majority of its recharging between the hours of 11 p.m. and 1 a.m. In addition, your gallbladder dumps toxins during this same period. If you are awake, the toxins back up into your liver, which can further disrupt your health. Prior to the widespread use of electricity, people would go to bed shortly after sundown, as most animals do, and which nature intended for humans as well.
-* Don't change your bedtime. You should go to bed and wake up at the same times each day, even on the weekends. This will help your body to get into a sleep rhythm and make it easier to fall asleep and get up in the morning.
-* Don't drink any fluids within 2 hours of going to bed. This will reduce the likelihood of needing to get up and go to the bathroom, or at least minimize the frequency.
-* Go to the bathroom right before bed. This will reduce the chances that you'll wake up to go in the middle of the night.
-* Eat a high-protein snack several hours before bed. This can provide the L-tryptophan needed for your melatonin and serotonin production.
-* Also eat a small piece of fruit. This can help the tryptophan cross your blood-brain barrier.
-* Avoid before-bed snacks, particularly grains and sugars. These will raise your blood sugar and delay sleep. Later, when blood sugar drops too low (hypoglycemia), you may wake up and be unable to fall back asleep.
-* Take a hot bath, shower or sauna before bed. When your body temperature is raised in the late evening, it will fall at bedtime, facilitating slumber. The temperature drop from getting out of the bath signals your body it's time for bed.
-* Wear socks to bed. Feet often feel cold before the rest of the body because they have the poorest circulation. A study has shown that[wearing socks](http://articles.mercola.com/sites/articles/archive/2008/01/02/warm-feet.aspx)to bed reduces night waking. As an alternative, you could place a hot water bottle near your feet at night.
-* Wear an eye mask to block out light. As discussed earlier, it is very important to sleep in as close to complete darkness as possible. That said, it's not always easy to block out every stream of light using curtains, blinds or drapes, particularly if you live in an urban area (or if your spouse has a different schedule than you do). In these cases, an eye mask can be helpful.
-* Put your work away at least one hour before bed (preferably two hours or more). This will give your mind a chance to unwind so you can go to sleep feeling calm, not hyped up or anxious about tomorrow's deadlines.
-* No TV right before bed. Even better, get the TV out of the bedroom or even completely out of the house. It's too stimulating to the brain, preventing you from falling asleep quickly. TV disrupts your pineal gland function.
-* Listen to relaxation CDs. Some people find the sound of white noise or nature sounds, such as the ocean or forest, to be soothing for sleep. An excellent relaxation/meditation option to listen to before bed is the [Insight audio CD](http://www.mercola.com/forms/insight_focus.htm). Another favorite is the [Sleep Harmony CD](http://products.mercola.com/sleep-cd/), which uses a combination of advanced vibrational technology and guided meditation to help you effortlessly fall into deep delta sleep within minutes. The CD works on the principle of "sleep wave entrainment" to assist your brain in gearing down for sleep.
-* Read something spiritual or uplifting. This may help you relax. Don't read anything stimulating, such as a mystery or suspense novel, which has the opposite effect. In addition, if you are really enjoying a suspenseful book, you might be tempted to go on reading for hours, instead of going to sleep!
-* Journaling. If you often lay in bed with your mind racing, it might be helpful to keep a [journal](http://articles.mercola.com/sites/articles/archive/2008/01/02/writing-helps-asthma-arthritis.aspx) and write down your thoughts before bed. Personally, I have been doing this for 15 years, but prefer to do it in the morning when my brain is functioning at its peak and my cortisol levels are high.
-
-## <span style="color: #008BB8 ">Lifestyle Suggestions That Enhance Sleep</span>
-
-* Reduce or avoid as many drugs as possible. Many drugs, both prescription and over-the-counter, may adversely affect sleep. In most cases, the condition causing the drugs to be taken in the first place can be addressed by following guidelines elsewhere on my web site.
-* Lose excess weight. Being overweight can increase your risk of sleep apnea, which can seriously impair your sleep. Please refer to my [nutrition plan](http://www.mercola.com/nutritionplan/index.htm) forrecommendations.
-* Avoid foods you may be sensitive to. This is particularly true for sugar, grains, and pasteurized dairy. Sensitivity reactions can cause excess congestion, gastrointestinal upset, bloating and gas, and other problems.
-* Have your adrenals checked by a good natural medicine clinician. Scientists have found that insomnia may be caused by adrenal stress.
-* If you are menopausal or perimenopausal, get checked out by a good natural medicine physician. The hormonal changes at this time may cause sleep problems if not properly addressed.
-
-#### <span style="color: #008BB8 ">References</span>
-
-[Zapped: Why Your Cell Phone Shouldn’t Be Your Alarm Clock and 1,268 Ways to Outsmart the Hazards of Electronic Pollution](http://www.areyouzapped.com/)
-
-[www.buildingbiology.net/](http://www.buildingbiology.net/)
-
-[www.ncbi.nlm.nih.gov/pubmed/20857868](http://www.ncbi.nlm.nih.gov/pubmed/20857868)
-
-[www.ncbi.nlm.nih.gov/pubmed/20857861](http://www.ncbi.nlm.nih.gov/pubmed/20857861)
-
-[www.ncbi.nlm.nih.gov/pubmed/20707632](http://www.ncbi.nlm.nih.gov/pubmed/20707632)
-
-[www.ncbi.nlm.nih.gov/pubmed/20712395](http://www.ncbi.nlm.nih.gov/pubmed/20712395)
-
-[www.ncbi.nlm.nih.gov/pubmed/20696138](http://www.ncbi.nlm.nih.gov/pubmed/20696138)
-
-[www.ncbi.nlm.nih.gov/pubmed/20683768](http://www.ncbi.nlm.nih.gov/pubmed/20683768)
-
-[www.ncbi.nlm.nih.gov/pubmed/20549340](http://www.ncbi.nlm.nih.gov/pubmed/20549340)
-
-[www.ncbi.nlm.nih.gov/pmc/articles/PMC2933606/?tool_pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2933606/?tool_pubmed)
-
-## <span style="color: #008BB8 ">Hyman’s Top 19 Sleep Strategies</span>
-
-Here’s how restore your natural sleep rhythm. It may take weeks or months, but using these tools in a coordinated way will eventually reset your biological rhythms:
-
-1. Get natural sunlight. Aim for at least 20 minutes of sunshine every day, preferably in the morning, which triggers your brain to release chemicals that regulate sleep cycles. Avoid computers, smart phones, tablets and television one or two hours before bed. You might also try low blue light exposure for about three hours before bed. Low blue spectrum light helps your brain reset for sleep and increase melatonin.
-2. Use an [acupressure mat](http://www.spoonkspace.com/). This helps stimulate your parasympathetic nervous system and create deep relaxation. Lay on it for about 30 or more minutes before bed.
-3. Get grounded. At times, electromagnetic frequencies can impair sleep. I recommend turning off WiFi and keeping all of your electronic devices away from your bed. Create a common area charging station in your home and encourage all your family members to “check in” their devices before bed.
-4. Clear your mind. Everyone knows how something resonating on your mind can hinder sleep. Turning your mind off can become a challenge. Keep a journal or notebook by your bed and write down your to-do list or ruminations before you go to sleep so you can close your eyes and make it less likely for your mind to spin.
-5. Perform light stretching or yoga before bed. This relaxes your mind and body. [Research](http://www.ncbi.nlm.nih.gov/pubmed/15707256) shows daily yoga can improve sleep significantly.
-6. Use herbal therapies. I recommend 300 to 600 milligrams (mg) of passionflower or 320 to 480 mg of valerian root extract before bed. Other natural sleep supplements include [melatonin or magnesium](http://store.drhyman.com/health-concerns/improve-my/sleep.html). Potato starch mixed into a glass of water before bedtime can also help. Start slowly with one teaspoon and gradually build up the dose. This [feeds good gut bacteria](http://drhyman.com/blog/2016/02/18/how-to-fix-your-gut-bacteria-and-lose-weight/) and [improves blood sugar control](http://drhyman.com/blog/2014/12/18/7-ways-reverse-obesity-diabetes/) while helping you drift into sleep. You can find sleep and other quality supplements [in my store](http://store.drhyman.com/).
-7. Use relaxation practices. Guided imagery, meditation or deep breathing calm your mind and help you drift into sleep. Try calming essential oils such as lavender, Roman chamomile or ylang ylang. Many patients get amazing results with my [UltraCalm CD](http://store.drhyman.com/ultracalm-cd-a-six-step-plan-to-reduce-stress-and-eliminate-anxiety.html).
-
-* Create an aesthetic environment that encourages sleep – use serene and restful colors and eliminate clutter and distraction
-* Create total darkness and quiet – consider using eyeshades and earplugs
-* Avoid caffeine – it may seem to help you stay awake but actually makes your sleep worse
-* Avoid alcohol – it helps you get to sleep but causes interruptions in sleep and poor-quality sleep
-* Get regular exposure to daylight for at least 20 minutes daily – the light from the sun enters your eyes and triggers your brain to release specific chemicals and hormones like melatonin that are vital to healthy sleep, mood, and aging
-* Eat no later than three hours before bed – eating a heavy meal prior to bed will lead to a bad night’s sleep
-* Don’t exercise vigorously after dinner – it excites the body and makes it more difficult to get to sleep
-* Write your worries down – one hour before bed, write down the things that are causing you anxiety and make plans for what you might have to do the next day to reduce your worry. It will free up your mind and energy to move into deep and restful sleep
-* Take a hot salt/soda aromatherapy bath – raising your body temperature before bed helps to induce sleep. A hot bath also relaxes your muscles and reduces tension physically and psychically. By adding one-and-a-half to one cup of Epsom salt (magnesium sulfate) and one-and-a-half to one cup of baking soda (sodium bicarbonate) to your bath, you will gain the benefits of magnesium absorbed through your skin and the alkaline-balancing effects of the baking soda, both of which help with sleep
-* Get a massage or stretch before bed – this helps relax the body making it easier to fall asleep
-* Warm your middle – this raises your core temperature and helps trigger the proper chemistry for sleep. Either a hot water bottle, heating pad, or warm body can do the trick
-* Avoid medications that interfere with sleep – these include sedatives (these are used to treat insomnia, but ultimately lead to dependence and disruption of normal sleep rhythms and architecture), antihistamines, stimulants, cold medication, steroids, and headache medication that contains caffeine (such as Fioricet)
-* Use herbal therapies – try passionflower, or 320 mg to 480 mg of valerian (valeriana officinalis) root extract standardized to 0.2 percent valerenic acid one hour before bed
-* Take 200 to 400 mg of magnesium citrate or glycinate before bed – this relaxes the nervous system and muscles.
-* Other supplements and herbs can be helpful in getting some shuteye – try calcium, theanine (an amino acid from green tea), GABA, 5-HTP, melatonin, and magnolia.
-* Try one to three mg of melatonin at night – melatonin helps stabilize your sleep rhythms.
-* Get a relaxation, meditation or guided imagery CD – any of these may help you get to sleep.
-
-## <span style="color: #008BB8 ">How to Minimize Anxiety and Maximize Sleep</span>
-
-In order to get to sleep more easily, you can try changing some of your pre-sleep habits to decrease your mental and physical stress levels. Habit-changing takes time and persistence, but if you stick to these changes you will find yourself adapting and feeling less anxious overall in no time.
-
-* Time Travel This is a fancy way of saying that at least an hour before you want to get to bed, you should try to turn everything off and do something that engages more of your mind than, for example, gazing at your computer or the television screen. Dimming the lights helps alert your brain to the idea that it should be sleeping soon, and doing something casual that still forces your mind to engage such as reading, drawing, or playing cards will help occupy your brain with something other than the worries of the day when it is time to lay down your head (pictures on Tumblr and funny scenes on screen fade in comparison to real-life experiences, but the real-life experience of either winning or losing that hand at cards will stick more prominently in your mind and provide a longer-term distraction from your troubles).
-* Pick a Bedtime Deciding on a particular hour that you want to be in bed by will relax your body by providing it with a comforting, familiar routine to follow. It will also train your brain to get tired at a certain time of night, which will help you fall asleep sooner after you lay down to do so.
-* Keep a Journal - Writing in a journal is another routine you can follow (and a good one to incorporate into your pre-bedtime time travel, as it doesn't involve any technology). Sometime before bed, jot down some thoughts about your day. If any worries or problems come up, be sure to write down possible solutions to accompany them. Once you do this, shut the book and imagine you are symbolically shutting away all the cares and thoughts from the day until you next want to open the journal and look at them.
-* Consciously Relax Your Body - Once you are lying down in bed, try relaxing your body one piece at a time. You can start wherever your toes, for example but relax each toe individually. Then move up to your ankles, your calves, your thighs, and so on. Make sure each part is thoroughly relaxed before moving on to the next. You may start to feel tingly and almost numb. This is good: it means your body is getting ready to sleep. Once you are completely relaxed, focus on breathing comfortably until you fall asleep.
-* Reserve Your Bed For Sleep - Avoid doing non-bed-related things on your bed: for instance, texting, going online or doing homework. The more you reserve your bed for sleep, the more your mind will associate it with sleep, and the easier it will be to fall asleep on.
-* Get Up and Walk Around - If you find that your anxiety is too strong, don't keep trying to sleep. Distract yourself for a while by cleaning the house or reading a book. Falling asleep when your anxiety is that strong is very difficult, so giving yourself a chance to relax may be beneficial.
-* White Noise - Some type of white noise, calming music, or easy to ignore radio may also be helpful. Often these things can distract your senses, making it harder for you to focus on your anxious thoughts. Try something like talk radio, with a volume so low that you can only hear what they're saying if you try extremely hard. The noise and talking will make it much more difficult to focus on your anxious thoughts.
-
-Avoiding the anxiety that keeps you from getting the sleep you need can be difficult, but following the above all-natural and healthy techniques may be all that you require to take back control over your sleep schedule.
-
-You can also start to make life changes that are specifically designed to help you cure your overall anxiety. Start with my free 7 minute anxiety test. This test is an extremely valuable way to ensure that you're getting exactly what you need to reduce your anxiety and improve your sleep.
-
-<!--EndFragment-->
