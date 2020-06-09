@@ -2,11 +2,10 @@
 templateKey: blog-post
 title: Fighting for Medical Freedom
 date: 2019-11-18T16:07:15.623Z
-description: >-
-  We MUST RISE and RESIST any and all attempts by government or industry to
-  force us or our children to submit to mandatory medical procedures...of any
-  kind. Prepare to fight for the right and freedom to reject any medical
-  procedure that you deem unsafe or otherwise objectionable.
+description: We MUST RISE and RESIST any and all attempts by government or
+  industry to force us or our children to submit to mandatory medical
+  procedures...of any kind. Prepare to fight for the right and freedom to reject
+  any medical procedure that you deem unsafe or otherwise objectionable.
 featuredpost: false
 tags:
   - informed consent
@@ -79,7 +78,7 @@ tags:
   - America
   - Nuremberg Code
   - human rights
-  - ''
+  - ""
 ---
 <!--StartFragment-->
 
@@ -100,3 +99,13 @@ We must remain free to choose what medical procedures we receive. We must be fre
 Jim Meehan, MD
 
 <!--EndFragment-->
+
+
+
+**Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins.***
+
+* **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
+* **[GI Revive Powder](https://meehanmd.ehealthpro.com/products/gi-revive-1)**
+* **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
+* **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
+* **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
