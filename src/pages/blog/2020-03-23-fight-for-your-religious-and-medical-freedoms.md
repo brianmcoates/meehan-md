@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Fight for your Religious and Medical Freedoms
 date: 2020-01-16T02:03:41.771Z
-description: ' '
+description: " "
 featuredpost: true
 tags:
   - medical freedom
@@ -49,7 +49,7 @@ tags:
   - bias
   - fraudulent
   - vaccine manufacturers
-  - ''
+  - ""
   - diseases
   - mumps
   - measles
@@ -62,7 +62,7 @@ tags:
   - human DNA
   - viruses
   - bad medicine
-  - ''
+  - ""
   - vaccine industry
   - sued
   - vaccine safety
@@ -109,3 +109,13 @@ We must recognize and expose the dark and sinister, physical and spiritual defil
 If you think I am being hyperbolic, watch and listen to the testimony of Dr. Stanley Plotkin, the father of modern vaccines, recorded during his deposition by attorney Aaron Siri). The man literally says, "I would be happy to go to Hell...", admits to experimenting on orphans and disabled children, and the tissues of at least 76 abortions obtained in the horrific manner described above.
 
 We must remain free to choose what medical procedures we receive. We must be free to exempt ourselves and our children from any medical procedure that could harm or kill. We must remain free to reject the untested and unsafe products of the unaccountable vaccine industry.
+
+
+
+**Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins*.**
+
+* **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
+* **[GI Revive Powder](https://meehanmd.ehealthpro.com/products/gi-revive-1)**
+* **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
+* **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
+* **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
