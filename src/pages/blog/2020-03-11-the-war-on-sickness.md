@@ -84,21 +84,13 @@ Except in cases where you have no other option, I do not recommend alcohol-based
 
 ## Vitamins A, C, and D are the keys to supporting and strengthening your immune system against microbial pathogens:
 
-* <!--StartFragment-->
-
-  [Vitamin A](https://www.amazon.com/gp/product/B084RDGLFD?ie=UTF8&tag=catalystmd-20&camp=1789&linkCode=xm2&creativeASIN=B084RDGLFD)**:**<!--EndFragment--> 200,000 IU per day (in divided doses) for older children and adults.
-* <!--StartFragment-->
-
-  [Vitamin C](https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules):<!--EndFragment--> Begin with an initial (loading) dose of 3000 to 4000 mg. Then take 1000 mg per hour at least six times per day for 3 days.
-* <!--StartFragment-->
-
-  [Vitamin D](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)<!--EndFragment-->: 10,000 IU 5 times per day. Continue for 3 days.
-
 # Vitamin A Hammer
 
 * ## <!--StartFragment-->
 
-  ## **[Vitamin A](https://www.amazon.com/gp/product/B084RDGLFD?ie=UTF8&tag=catalystmd-20&camp=1789&linkCode=xm2&creativeASIN=B084RDGLFD)**<!--EndFragment-->: 200,000 IU per day (in divided doses) for older children and adults.
+  ## **[Vitamin A](https://meehanmd.ehealthpro.com/products/acnutrol-capsules-180-ct)**<!--EndFragment-->: 200,000 IU per day (in divided doses) for older children and adults.
+
+Shop here: **[Vitamin A capsules](https://meehanmd.ehealthpro.com/products/acnutrol-capsules-180-ct)**
 
 The recommended regimen is 100,000 IU by mouth at the time of diagnosis for infants younger than 12 months of age, and 200,000 IU for older children and adults.
 
@@ -112,7 +104,7 @@ In the presence of ophthalmologic signs of vitamin A deficiency, such as night b
 
 <!--StartFragment-->
 
-[Vitamin A](https://www.amazon.com/gp/product/B084RDGLFD?ie=UTF8&tag=catalystmd-20&camp=1789&linkCode=xm2&creativeASIN=B084RDGLFD)<!--EndFragment--> is available in low-cost liquid formulations that can be easily administered to infants and young children.
+**[Vitamin A](https://meehanmd.ehealthpro.com/products/acnutrol-capsules-180-ct)**[](https://www.amazon.com/gp/product/B084RDGLFD?ie=UTF8&tag=catalystmd-20&camp=1789&linkCode=xm2&creativeASIN=B084RDGLFD)<!--EndFragment--> is available in low-cost liquid formulations that can be easily administered to infants and young children.
 
 # The Vitamin C Hammer
 
@@ -130,7 +122,7 @@ Seek a high quality <!--StartFragment-->[Vitamin C](https://meehanmd.ehealthpro.
 
 ### Children
 
-For children, I typically recommend vitamin C <!--StartFragment-->[chewables](https://www.amazon.com/gp/product/B005JN3R0I/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005JN3R0I&linkId=6f704889b17dbf5ff79218b8e7cbdd8f)<!--EndFragment--> [](https://www.amazon.com/gp/product/B005JN3R0I/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=liviwhol-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005JN3R0I&linkId=e6b468e10d15e133b8e1ec24ab0c1e2e)but powdered and liposomal forms are also good options. The amount of Vitamin C in most multivitamins does not come close to required dosing. At the first signs or even concern that your child may have a cold or flu, consider the following intervention:
+For children, I typically recommend vitamin C chewables but **[powdered](https://meehanmd.ehealthpro.com/products/buffered-vitamin-c-powder-240g)** and **[liposomal forms](https://meehanmd.ehealthpro.com/products/liposomal-vitamin-c)** are also good options. The amount of Vitamin C in most multivitamins does not come close to required dosing. At the first signs or even concern that your child may have a cold or flu, consider the following intervention:
 
 * Dosing- for at least 3 days:
 * * 150 mg daily for Infants less than 6 months.
@@ -141,9 +133,15 @@ For children, I typically recommend vitamin C <!--StartFragment-->[chewables](ht
 * <https://www.ncbi.nlm.nih.gov/pubmed/24426232>
 * <https://www.ncbi.nlm.nih.gov/pubmed/23440782>
 
+###### Shop here: **[Vitamin C capsules](https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules),** [Liposomal Vitamin C](https://meehanmd.ehealthpro.com/products/liposomal-vitamin-c), **&** [Powdered Vitamin C](https://meehanmd.ehealthpro.com/products/buffered-vitamin-c-powder-240g)
+
+
+
+
+
 # Vitamin D Hammer
 
-* ## Vitamin D3: 10,000 IU 5 times per day. Continue for 3 days.
+* ## **[Vitamin D](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)**: 10,000 IU 5 times per day. Continue for 3 days.
 
 ### The Vitamin D Hammer
 
@@ -151,9 +149,6 @@ For children, I typically recommend vitamin C <!--StartFragment-->[chewables](ht
 
 #### Adults
 
-* <!--StartFragment-->
-
-  [Vitamin D](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)<!--EndFragment-->: 10,000 IU 5 times per day. Continue for 3 days.
 * The results are dramatic, with complete resolution of symptoms in 48 to 72 hours. Vitamin D dosed at these and even higher levels has been used safely and [shown to be safe](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4463890/#b8-0610507).
 
 #### Children
@@ -161,11 +156,20 @@ For children, I typically recommend vitamin C <!--StartFragment-->[chewables](ht
 * The mothers of children young enough to breastfeed should protect themselves with the adult protocol. Boosting your immune system will boost your child’s immune system.
 * Breastfeed if at all possible. Children are protected by antibodies and all the other immune elements that are found in mother’s breast milk.
 * For children, many experts agree they need about 35 IU's of vitamin D per pound of body weight.
-* <!--StartFragment-->
-
-  [Liquid vitamin D in a liposomal form](https://meehanmd.ehealthpro.com/products/emulsi-d3-synergy-2oz-liquid) <!--EndFragment-->is a good way to deliver vitamin D to children.
 
 The cost of vitamin D is about a penny for 1000 IU, so this treatment costs less than a dollar.
+
+### Shop here: 
+
+#### [Liposomal Vitamin D3](https://meehanmd.ehealthpro.com/products/liposomal-d-supreme)
+
+#### [Liquid Vitamin D3](https://meehanmd.ehealthpro.com/products/emulsi-d3-synergy-2oz-liquid)
+
+#### [Vitamin D3](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)
+
+
+
+
 
 ## Discussion
 
@@ -199,7 +203,6 @@ The best source for vitamin D is direct sun exposure. While it may not be possib
 ### Vitamin D should Always be Paired with <!--StartFragment-->**[Vitamin K2](https://meehanmd.ehealthpro.com/products/tri-k-60-caps)**<!--EndFragment-->
 
 * If you're taking high dose vitamin D supplements you also need to take [vitamin K2](https://articles.mercola.com/sites/articles/archive/2012/12/16/vitamin-k2.aspx)—not K1 that is typically in vegetables as it will not work synergize with vitamin D.
-* <!--StartFragment-->[Vitamin K2](https://meehanmd.ehealthpro.com/products/tri-k-60-caps)<!--EndFragment--> deficiency is actually what produces the symptoms of vitamin D toxicity, which includes inappropriate calcification that can lead to hardening of your arteries. The reason for this is when you take vitamin D, your body creates more vitamin K2-dependent proteins that shuttle the calcium into the appropriate areas. Without vitamin K2, those proteins remain inactivated, so the benefits of those proteins remain unrealized.
 
 # Essential Nutrients for Immune System Support
 
@@ -207,14 +210,11 @@ The best source for vitamin D is direct sun exposure. While it may not be possib
 
 * [Randomized study of the efficacy and safety of oral elderberry extract in the treatment of influenza A and B virus infections.](https://journals.sagepub.com/doi/abs/10.1177/147323000403200205)
 * In Norway, elderberry syrup was investigated in a double-blind, placebo-controlled study of elderberry syrup. Symptoms were relieved an average of FOUR DAYS EARLIER than placebo. Which is at least 3.5 days better than Tamiflu and without Tamiflu’s adverse events risk (nausea, vomiting, hallucinations, and suicidal behavior).
-* 1. <!--StartFragment-->
-
-     [Elderberry Syrup](https://meehanmd.ehealthpro.com/products/immunoberry-liquid)<!--EndFragment-->has been used in folk medicine for centuries to treat influenza, colds and sinusitis, and has been reported to have antiviral activity against influenza and herpes simplex. We investigated the efficacy and safety of oral elderberry syrup for treating influenza A and B infections.
-  2. Sixty patients (aged 18-54 years) suffering from influenza-like symptoms for 48 h or less were enrolled in this randomized, double-blind, placebo-controlled study during the influenza season of 1999-2000 in Norway.
-  3. Patients received 15 ml of elderberry or placebo syrup four times a day for 5 days, and recorded their symptoms using a visual analogue scale.
-  4. Symptoms were relieved on average 4 days earlier.
-  5. The use of rescue medication was significantly less in those receiving elderberry extract compared with placebo.
-  6. Elderberry extract seems to offer an efficient, safe and cost-effective treatment for influenza
+* 1. Sixty patients (aged 18-54 years) suffering from influenza-like symptoms for 48 h or less were enrolled in this randomized, double-blind, placebo-controlled study during the influenza season of 1999-2000 in Norway.
+  2. Patients received 15 ml of elderberry or placebo syrup four times a day for 5 days, and recorded their symptoms using a visual analogue scale.
+  3. Symptoms were relieved on average 4 days earlier.
+  4. The use of rescue medication was significantly less in those receiving elderberry extract compared with placebo.
+  5. Elderberry extract seems to offer an efficient, safe and cost-effective treatment for influenza
 * Studies showing the efficacy of elderberry syrup
 * 1. Inhibitory activity of a standardized elderberry liquid extract against clinically-relevant human respiratory bacterial pathogens and influenza A and B viruses.[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3056848/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3056848/?fbclid=IwAR0CGQs31LmbkZ3UBRFaLJnX_1hq8lr1mw1LgIyfbMxHhIaCOoNpQRMYWIo)
   2. Anti-influenza virus effects of elderberry juice and its fractions.[https://www.ncbi.nlm.nih.gov/pubmed/22972323](https://www.ncbi.nlm.nih.gov/pubmed/22972323?fbclid=IwAR2rfYa33a6rn_p27pUIrgiINYAs8QuSmordLFBAdD4hDgnbuivZWB4zKM8)
@@ -269,10 +269,6 @@ While this may not seem overly impressive, it's still better than the results ac
 However, some patients with influenza are at increased risk for secondary bacterial infections when on Tamiflu—a risk you won't take by eating garlic... Other[ adverse events](https://articles.mercola.com/sites/articles/archive/2008/03/15/tamiflu-s-effects-on-your-brain.aspx) of Tamiflu include pediatric deaths, serious skin reactions, and neuropsychiatric events, including suicide committed while delirious.
 
 ## Oregano oil - 3 times per day
-
-* <!--StartFragment-->
-
-  [Oregano](https://meehanmd.ehealthpro.com/products/oil-of-oregano-150-mg-60-softgels) <!--EndFragment-->contains two powerful compounds of Carvacrol and Thymol that have powerful antibacterial and antifungal properties. The predominant compound, Carvacrol, is arguably the most important component explaining why Oil of oregano is so potent. The higher the carvacrol concentration, the more effective it is.
 
 ## <!--StartFragment-->
 
@@ -350,7 +346,7 @@ If you are healthy and you eat a well-balanced diet, you will rarely need <!--St
 
 * A bee resin and one of the most broad-spectrum antimicrobial compounds in the world; [propolis](https://articles.mercola.com/sites/articles/archive/2009/11/17/this-bee-product-has-enormous-benefits-for-your-health.aspx) is also the richest source of caffeic acid and apigenin, two very important compounds that aid in immune response.
 
-## <!--StartFragment-->**[Olive leaf extract](https://meehanmd.ehealthpro.com/products/olive-leaf-extract-500mg-90s)**<!--EndFragment--> 
+## <!--StartFragment-->**[Olive leaf extract](https://meehanmd.ehealthpro.com/products/olive-leaf-extract-500mg-90s)**<!--EndFragment-->
 
 * Ancient Egyptians and Mediterranean cultures used it for a variety of health-promoting uses and it is widely known as a natural, non-toxic immune system builder.
 
@@ -365,9 +361,6 @@ Don’t wait until you are sick. Support your immune system with daily supplemen
   Magnesium threonate can cross the blood-brain barrier and improve brain levels of magnesium.
 * [Zinc](https://meehanmd.ehealthpro.com/products/zinc-supreme-90-vegetarian-capsules): 20-25 mg daily
 * Selenium: 100 mcg (micrograms) daily
-* <!--StartFragment-->
-
-  [Glutathione](https://meehanmd.ehealthpro.com/products/glutathione-50-gm-powder)<!--EndFragment-->: 500 mg (liposomal form) daily
 
 ### References:
 
@@ -429,11 +422,7 @@ Avoiding influenza and flu-like illness during the flu season or any season does
 * Good quality sleep is essential to health and especially important to recovering from injury or illness.
 * Just like it becomes harder for you to get your daily tasks done if you're tired, if your body is overly fatigued it will be harder for it to fight the flu.
 
-  <!--StartFragment-->
-
   View Dr. Meehan's **[Sleep Improvement Techniques and Information](https://www.meehanmd.com/blog/2020-04-15-sleep-improvement-techniques-and-information/)**
-
-  <!--EndFragment-->
 
 ## [Have Effective Tools to Address Stress](https://articles.mercola.com/sites/articles/archive/2004/07/24/stress-immune-system-part-two.aspx)
 
@@ -447,6 +436,8 @@ Avoiding influenza and flu-like illness during the flu season or any season does
 ## [Take a Good Source of Animal-Based Omega-3 Fats](http://products.mercola.com/krill)
 
 * Increase your intake of healthy and essential fats like the omega-3 found in krill oil, which is crucial for maintaining health. It is also crucial to avoid excessive and/or oxidized omega-6 fatty acids, as well as trans fatty acids commonly found in processed foods, as they will seriously damage your immune response.
+
+#### Shop here: **[Omega 3](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
 
 ## Use Natural Antibiotics
 
