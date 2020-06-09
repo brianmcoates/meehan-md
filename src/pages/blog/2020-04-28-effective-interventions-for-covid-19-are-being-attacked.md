@@ -57,3 +57,13 @@ Let the battle for truth begin.
 
 References:\
 \[1][](https://nationalfile.com/busted-media-uses-va-study-to-launch-easily-debunked-attack-on-hydroxychloroquine/?fbclid=IwAR0C5jeGIu6YdoevAERN575RRACiN7nk6V-bYInXu8zi1FdqO7khVmbenQ8)<!--StartFragment--> **[BUSTED: Media Uses VA ‘Study’ To Launch Easily Debunked Attack On Hydroxychloroquine](https://nationalfile.com/busted-media-uses-va-study-to-launch-easily-debunked-attack-on-hydroxychloroquine/?fbclid=IwAR0C5jeGIu6YdoevAERN575RRACiN7nk6V-bYInXu8zi1FdqO7khVmbenQ8)**<!--EndFragment-->
+
+
+
+**Dr. Meehan’s top supplement recommendations for boosting your immune system:**
+
+* **[Vitamin D3](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)**
+* **[Vitamin E](https://meehanmd.ehealthpro.com/products/annatto-e-300)**
+* **[Vitamin C](https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules)**
+* **[Melatonin](https://meehanmd.ehealthpro.com/products/melatonin-3mg-60-capsules)**
+* **[Zinc](https://meehanmd.ehealthpro.com/products/zinc-supreme-90-vegetarian-capsules)**
