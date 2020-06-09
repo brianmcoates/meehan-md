@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: The Vaccine Injury Epidemic
 date: 2020-03-05T20:38:35.050Z
-description: ' '
+description: " "
 featuredpost: false
 tags:
   - informed consent
@@ -28,7 +28,7 @@ tags:
   - unvaccinated
   - vaccinated
   - placebo
-  - ''
+  - ""
   - CDC whistle blower
   - whistle blower
   - CDC
@@ -87,3 +87,13 @@ Despite the overwhelming evidence from hundreds of peer-reviewed independent sci
 To be clear, the vaccine industry has contrived a few epidemiology studies, some of them overtly fraudulent (e.g., [\#CDCwhistleblower](https://www.facebook.com/hashtag/cdcwhistleblower?source=feed_text&epa=HASHTAG)), that they rely upon to deceive the public, doctors, and politicians. However, experienced scientists and former medical journal editors will attest to the fact that EPIDEMIOLOGY studies lack the power and evidence that can only be provided by prospective, randomized, blinded, placebo controlled EXPERIMENTAL studies.
 
 Biased, corrupt, and fraudulent vaccine industry sponsored epidemiology studies are the fraudulent facades hiding the truth of the [\#VaccineInjuryEpidemic](https://www.facebook.com/hashtag/vaccineinjuryepidemic?source=feed_text&epa=HASHTAG). Pediatric cancers and any other vaccine injury will continue to perplex the scientific and medical communities until the necessary science is conducted. [\#DoTheStudy](https://www.facebook.com/hashtag/dothestudy?source=feed_text&epa=HASHTAG)
+
+
+
+**Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins*.**
+
+* **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
+* **[GI Revive Powder](https://meehanmd.ehealthpro.com/products/gi-revive-1)**
+* **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
+* **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
+* **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
