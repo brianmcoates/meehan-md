@@ -26,7 +26,7 @@ tags:
   - treatment
   - ""
 ---
-Read the full article from which this information was taken at: <!--Star\*\*tFragment-->[COVID-19, PNEUMONIA & INFLAMMASOMES – THE MELATONIN CONNECTION](https://www.evolutamente.it/covid-19-pneumonia-inflammasomes-the-melatonin-connection/?fbclid=IwAR2SB90WZuel7rC7W9JPmlF5OrCItkxd6CZwILhdBLd_KQqFsfdv1tRnuks)\*\*<!--EndFragment-->
+Read the full article from which this information was taken at: <!--Star\\*\\*tFragment-->[COVID-19, PNEUMONIA & INFLAMMASOMES – THE MELATONIN CONNECTION](https://www.evolutamente.it/covid-19-pneumonia-inflammasomes-the-melatonin-connection/?fbclid=IwAR2SB90WZuel7rC7W9JPmlF5OrCItkxd6CZwILhdBLd_KQqFsfdv1tRnuks)\*\*<!--EndFragment-->
 
 I ([Jim Meehan](https://www.facebook.com/docmeehan?__tn__=%2CdK-R-R&eid=ARASc-kxFcyFaG9wfPjfCHgOVAYHLofUhhKyX35Pw2L4-Rqx5kdr6lddS5NO0Pm0V3WoAqIUS8cPMUQs&fref=mentions "Jim Meehan"), MD) have merely edited, organized, and added links and references to the Healthline article on nitric oxide. The credit for this work goes to <!--StartFragment-->[Doris Loh](https://www.evolutamente.it/category/doris-loh/?fbclid=IwAR3r1Kg6s5ucZzFd3M7z4ckn4ccLyzZ17x2WMOmJJwKE-4TCpD6Tl5EOA3o)<!--EndFragment--> and Healthline.
 
@@ -125,7 +125,9 @@ References:\
 \[100] ALAN Various Taxa Review!! Light Pollution, Circadian Photoreception, and Melatonin in Vertebrates | HTML [https://www.mdpi.com/2071-1050/11/22/6400/htm](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mdpi.com%2F2071-1050%2F11%2F22%2F6400%2Fhtm%3Ffbclid%3DIwAR0CrtxhSdFAVGrZoLlvhgRlrGmDSZUKagDyz9q6Qw0m2ySNHWTUWbyCPR4&h=AT3Aond6IPDXljOuyGk-T4XmR8EQNigf7LIbojHgIu1lZwMs27qxeupde2B8OVxrN6-h3NwhCqAsbutxDUaVFJSmCdxAvbxy6nOiAV2No-xzKo75fxImQWDROPOGjQYrDSuSS7R0DAL2ojYWdizBnnOFpTKnDJc)\
 \[101] Mitophagy plays a central role in mitochondrial ageing [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4935730/](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4935730%2F%3Ffbclid%3DIwAR3LVJd0uko8RuxlqPorpCBFkMbv6IO3pzOO4ExMZIfm6Cp9xlNGMkdvZc0&h=AT0vYij3tMrGN-oeVGW3P3VMwyZEbxRxbkUw5Q-ksNR1lQ7c0uKwTSoCulmJ-j0uYO3x77RQnGMRxp7E2IM83SuxNPIWzblqRnUeTxG9ILwpPxe0Xc6kJWhhJY4X7hgGUtw8b9WheApPX7uVHWrPLInUWDr5TFc)
 
-**Boost your own immune system with Dr. Meehan’s top supplement recommendations:**
+
+
+**Dr. Meehan’s top supplement recommendations for boosting your immune system:**
 
 * **[Vitamin D3](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)**
 * **[Vitamin E](https://meehanmd.ehealthpro.com/products/annatto-e-300)**
