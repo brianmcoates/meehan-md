@@ -463,7 +463,7 @@ Start LL-37 at the first sign of any infection, 0.2-0.3 mL twice daily for 7-10 
 
 
 
-**Boost your own immune system with Dr. Meehan’s top supplement recommendations:**
+**Dr. Meehan’s top supplement recommendations for boosting your immune system:**
 
 * **[Vitamin D3](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)**
 * **[Vitamin E](https://meehanmd.ehealthpro.com/products/annatto-e-300)**
