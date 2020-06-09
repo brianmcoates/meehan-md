@@ -100,8 +100,6 @@ This is intolerable. The ACIP committee members demonstrate a level of public sa
 
 Here is the link to the video: <!--StartFragment-->[CDC approves a vaccine that causes heart attacks](https://www.youtube.com/watch?time_continue=46&v=FyHcaiActqY&feature=emb_logo&fbclid=IwAR35XMZ3D1AufZ07zbetJro53xG5IZEGD_ABwq13GgJcEVSIitcdf0Ct5Dc)
 
-
-
 <!--EndFragment-->
 
 Also this from Del Bigtree and his nonprofit organization, ICAN, the Informed Consent Action Network, that is doing great work to expose the dirty deceptions, fraudulent pseudoscience, and betrayal of public trust by the vaccine industry and the federal agencies responsible for policies that endanger children everywhere. <!--StartFragment-->[Here is one of the articles in which the very concerning "Heart Attack Issue" that occurred during the pre-clinical trials of Hepislav B is discussed](https://www.statnews.com/2017/08/04/dynavax-hepatitis-vaccine/?fbclid=IwAR3Z-2Cjp3a1xLWasr4ADSkwaV5zRSn6jMTwbi8KcRNWu7d34K9CGWw3o7M).
@@ -109,3 +107,13 @@ Also this from Del Bigtree and his nonprofit organization, ICAN, the Informed Co
 <!--EndFragment-->
 
 Del Bigtree also says, "Are you comfortable knowing that doctors know nothing about the heart attack issue but are now giving this to people with the belief that it is safe? Should it be illegal for me and my family to opt out of this vaccine when I have done my research and know that the FDA cardiologist writing this article believes the vaccine could have the potential to cause heart attacks? This is why the Nuremberg Code exists. And this is why I believe I am doing a service by reporting issues like this when the rest of mainstream media turns a blind eye."
+
+
+
+**Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins*.**
+
+* **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
+* **[GI Revive Powder](https://meehanmd.ehealthpro.com/products/gi-revive-1)**
+* **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
+* **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
+* **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
