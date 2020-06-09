@@ -117,3 +117,13 @@ Q fever
 If we were all more aware of the extraordinary body of science supporting CQ and HCQ, the promise these dirt cheap drugs hold, and the way safe, effective, and inexpensive drugs in general may be being ignored so that pharma could push forward a more profitable alternative, we would storm the gates of the CDC, NIH, and WHO with torches and pitchforks demanding better. Well, now you know. Grab your torches and pitchforks. It’s time to demand better
 
 <!--EndFragment-->
+
+
+
+**Dr. Meehan’s top supplement recommendations for boosting your immune system:**
+
+* **[Vitamin D3](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)**
+* **[Vitamin E](https://meehanmd.ehealthpro.com/products/annatto-e-300)**
+* **[Vitamin C](https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules)**
+* **[Melatonin](https://meehanmd.ehealthpro.com/products/melatonin-3mg-60-capsules)**
+* **[Zinc](https://meehanmd.ehealthpro.com/products/zinc-supreme-90-vegetarian-capsules)**
