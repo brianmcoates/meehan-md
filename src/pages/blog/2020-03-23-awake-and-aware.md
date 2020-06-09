@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Awake and Aware about Vaccines
 date: 2020-03-18T15:23:34.278Z
-description: ' '
+description: " "
 featuredpost: false
 tags:
   - informed consent
@@ -76,3 +76,13 @@ tags:
 ...because I have met so many families whose children were stolen from them by the battery of vaccines administered at pediatric vaccine visits.\
 ...because I believe the U.S. vaccination program has become a progressively dangerous assault on the health and lives of the children of America.\
 ...because I am awake and aware, I will not vaccinate, nor will I remain silent as the pharmaceutical and medical industries pretend that vaccines are safe and effective."
+
+
+
+**Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins*.**
+
+* **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
+* **[GI Revive Powder](https://meehanmd.ehealthpro.com/products/gi-revive-1)**
+* **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
+* **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
+* **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
