@@ -98,3 +98,13 @@ Abstract\
 We randomized 115 children to trivalent inactivated influenza vaccine (TIV) or placebo. Over the following 9 months, TIV recipients had an increased risk of virologically-confirmed non-influenza infections (relative risk: 4.40; 95% confidence interval: 1.31-14.8). Being protected against influenza, TIV recipients may lack temporary non-specific immunity that protected against other respiratory viruses.
 
 \[2] "Infectious virus in exhaled breath of symptomatic seasonal influenza cases from a college community." [https://www.ncbi.nlm.nih.gov/pubmed/29348203](https://www.ncbi.nlm.nih.gov/pubmed/29348203?fbclid=IwAR1C18gBKMpOeuFj9prFiiben8yKEO4rwblcRAHwvBdVZVuRQtfi-tDL4oE)
+
+
+
+**Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins*.**
+
+* **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
+* **[GI Revive Powder](https://meehanmd.ehealthpro.com/products/gi-revive-1)**
+* **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
+* **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
+* **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
