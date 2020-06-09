@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Sleep Improvement Techniques
+title: Sleep Improvement Techniques & Supplements
 date: 2020-04-15T20:58:32.084Z
 description: If you are suffering from insomnia, it’s time for you to take
   control and address the underlying causes. There are many steps you can take
@@ -102,6 +102,26 @@ High quality sleep is comprised of complex brain wave pattern changes that cycle
 It’s important that the brain cycle in and out of these stages. In particular, time spent in deep sleep (stage 3 and 4) is of considerable importance, as it is in deep sleep that the brain stimulates the production of growth hormone.
 
 These cycles create an architecture of sleep that must be respected, not disrupted, as so many sleep medications and bad habits will do. the deep, restorative sleep that promotes growth hormone release, memory consolidation, and the. A lack of high quality sleep increases your risk of heart disease, cancer, and raises your risk of death significantly.
+
+## <span style="color: #008BB8 ">Shop here for Dr. Meehan's sleep supplement recommendations:</span>
+
+[Melatonin Supplement](https://meehanmd.ehealthpro.com/products/melatonin-3mg-60-capsules)[](https://meehanmd.ehealthpro.com/products/insomnitol-60-capsules)
+
+[Insomnitol™](https://meehanmd.ehealthpro.com/products/insomnitol-60-capsules)
+
+[Glycine Powder](https://meehanmd.ehealthpro.com/products/glycine-powder)
+
+[Magnesium Chelate 120 Tablets](https://meehanmd.ehealthpro.com/products/magnesium-chelate-120-tablets)
+
+[Magnesium Malate 240 vegetarian capsules](https://meehanmd.ehealthpro.com/products/magnesium-malate-chelate-240-tablets)
+
+[Vitamin D Complex 60 capsules](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)
+
+[GABA](https://meehanmd.ehealthpro.com/products/pharmagaba-60-chewables)
+
+
+
+
 
 ## <span style="color: #008BB8 ">Wake Up Time</span>
 
