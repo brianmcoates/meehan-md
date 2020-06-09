@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Man and Measles
 date: 2020-01-04T20:13:02.384Z
-description: ' '
+description: " "
 featuredpost: false
 tags:
   - informed consent
@@ -75,7 +75,7 @@ tags:
   - highly infectious
   - mutable
   - immunocompromised
-  - ''
+  - ""
 ---
 How and why did the measles virus, one of the most rapidly mutating and human specific pathogens on the planet, a single-stranded RNA virus, mutate and evolve to a point of relative genetic stability and relatively mild disease in its primary host, humans? Why would such a highly transmissible and infectious pathogen evolve to the point at which its incredible propensity for mutation essentially slows to an almost complete stop and it spends a century being little more than a relatively mild disease of childhood? The most important question for humanity today is, why is that all changing now? What has awakened the measles virus, caused it to genetically drift to more virulent and dangerous mutations?
 
@@ -90,3 +90,13 @@ Unfortunately, when the pride, arrogance, and hubris of the modern acolytes of s
 The measles virus is mutating to escape the vaccines designed to eradicate it. Humans may no longer enjoy the relative balance with measles that the interaction between our two species had fought hard to achieve. The universal vaccination program intended to eradicate measles is an epic failure. The measles virus is mutating, its genome is shifting, and it is becoming vaccine resistant. As a direct result of the measles vaccine, the measles virus is mutating to increasingly virulent and vaccine resistant strains, such as B3, D4, and D8 strains that are increasingly responsible for the outbreaks and deaths we hear about on the news. What we don’t hear on the news is the truth. The truth is, the measles virus is mutating to avoid suppression and eradication by our poorly conceived universal vaccination programs. The measles virus, like all forms of life, is driven by its genetic code which contains the means by which it can fulfill its biological imperative to propagate and continue to exist. The measles virus is supremely equipped with the ability to evolve, escape suppression, and avoid extinction. If we fail to recognize and respect the divine design and power of nature, it may very well be our species that is driven to extinction.
 
 Now, because of vaccines, we are all at increased risk, not only from the more virulent escape mutants evolving within almost every species of pathogen for which we vaccinate, but also from the untested and unsafe vaccines manufactured by the unaccountable vaccine industry.
+
+
+
+**Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins*.**
+
+* **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
+* **[GI Revive Powder](https://meehanmd.ehealthpro.com/products/gi-revive-1)**
+* **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
+* **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
+* **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
