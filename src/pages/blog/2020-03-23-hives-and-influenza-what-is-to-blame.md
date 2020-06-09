@@ -77,8 +77,6 @@ Not only is the flu vaccine ineffective at preventing the flu, it may actually b
 
 [Increased Risk of Noninfluenza Respiratory Virus Infections Associated With Receipt of Inactivated Influenza Vaccine](https://academic.oup.com/cid/article/54/12/1778/455098?fbclid=IwAR2njIz5Gjf035gTk_B2r9WOOwFyOR8UzjV8e4_DngcUP-k2CF4es5JqBJA)
 
-
-
 <!--EndFragment-->
 
 As a direct result of the U.S. universal vaccination program, these hypersensitivity reactions are becoming ridiculously and intolerably common in American children today. American children are the most highly vaccinated children on the planet. Thus, their immune systems are increasingly "TH2 shifted" into a hyperactive state of immune dysregulation. It is this vaccine induced immune dysregulation that is driving the enormous epidemic of childhood autoimmune diseases.
@@ -113,10 +111,18 @@ And let's not forget that the rubella vaccine is grown on human cells derived fr
 
 [A Critical Look at the Evidence for a Universal Flu Vaccine](https://www.medscape.com/viewarticle/855937?fbclid=IwAR1rXTdbwHaUXKYiCi0ipqnvNBmjBFVkKWNYm4xCg1A9U0h40UQcax62eqA)
 
-
-
 <!--EndFragment-->
 
 \[1] <!--StartFragment-->[](https://www.popsugar.com/family/Hives-Symptom-Flu-44540741?fbclid=IwAR2hnlBafQ116QNcG697ukv92_7SUjcmGQPeaCwIwiWtyHbTFPKWad_Jmbw)[Hives: The Flu Symptom You Aren't Looking For but Need to Know About](https://www.popsugar.com/family/Hives-Symptom-Flu-44540741?fbclid=IwAR2hnlBafQ116QNcG697ukv92_7SUjcmGQPeaCwIwiWtyHbTFPKWad_Jmbw)
 
 <!--EndFragment-->
+
+
+
+**Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins*.**
+
+* **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
+* **[GI Revive Powder](https://meehanmd.ehealthpro.com/products/gi-revive-1)**
+* **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
+* **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
+* **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
