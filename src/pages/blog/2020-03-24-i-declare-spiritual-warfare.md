@@ -114,3 +114,13 @@ Given the power, wealth, and reach of the enemy we face, I have no delusions reg
 The link to the entire speech from the Vaccine Injury Epidemic Event in Washington, D.C.:<!--StartFragment--> **[Dr James Meehan, MD at The Vaccine Injury Event 2019](https://youtu.be/16qhMwJX1SM)**
 
 <!--EndFragment-->
+
+
+
+**Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins.***
+
+* **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
+* **[GI Revive Powder](https://meehanmd.ehealthpro.com/products/gi-revive-1)**
+* **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
+* **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
+* **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
