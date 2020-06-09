@@ -1,12 +1,10 @@
 ---
 templateKey: blog-post
-title: >-
-  Pro-Science, Pro-Informed Consent, Pro-Parental Rights, Pro-Medical Freedom
-  EX-VAXXER
+title: Pro-Science, Pro-Informed Consent, Pro-Parental Rights, Pro-Medical
+  Freedom EX-VAXXER
 date: 2020-02-11T17:30:20.479Z
-description: >-
-  I am a pro-science, pro-informed consent, pro-parental rights, and pro-medical
-  freedom EX-VAXXER.
+description: I am a pro-science, pro-informed consent, pro-parental rights, and
+  pro-medical freedom EX-VAXXER.
 featuredpost: true
 tags:
   - informed consent
@@ -48,7 +46,7 @@ tags:
   - neurodevelopmental disorders
   - National Vaccine Injury Compensation System
   - inflammation
-  - ''
+  - ""
 ---
 I am also a physician and former medical journal editor. I come to my conclusions and positions only after a great amount of research, deep understanding, and very careful consideration. I have no financial interests in my vaccine positions. Despite the fallacious attacks and claims of my detractors, I do not treat vaccine injuries, nor do I sell products for those injured by vaccines. Unlike my physician colleagues profiting from administering vaccines in their clinics (or shares of Merck stock), my thoughts are my own, they are not conflicted, financially biased, or owned by the pharmaceutical industry.
 
@@ -63,3 +61,13 @@ The government agencies created to protect the public are not only negligent, th
 The scientific and research evidence, the Vaccine Adverse Event Reporting System (VAERS), the testimony of experts, $4 BILLION payouts from the National Vaccine Injury Compensation System, and the epidemic of children with neurodevelopmental disorders flooding and overwhelming the school systems, are more than enough evidence to demand action. The conclusion that vaccines can inflame and damage brain tissue and they can and do harm and kill their recipients is undeniable. We know, medical science and the vaccine court system has confirmed, that certain subsets of children are clearly more susceptible to this damage - and the subset is not a small percentage. But nothing is being done to identify and protect these children, because doing so would require admitting BigPharma, the CDC, and doctors were wrong, ignorant, and lying.
 
 Thus, the vaccine manufacturers and their medical doctor mouthpieces are guilty of harming our children with their untested, fraudulent, toxic products. For these reasons and many more, I am an ex-vaxxer. I will protect as many as I can.
+
+
+
+**Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins*.**
+
+* **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
+* **[GI Revive Powder](https://meehanmd.ehealthpro.com/products/gi-revive-1)**
+* **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
+* **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
+* **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
