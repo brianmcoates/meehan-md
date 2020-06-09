@@ -135,10 +135,6 @@ For children, I typically recommend vitamin C chewables but **[powdered](https:/
 
 ###### Shop here: **[Vitamin C capsules](https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules),** [Liposomal Vitamin C](https://meehanmd.ehealthpro.com/products/liposomal-vitamin-c), **&** [Powdered Vitamin C](https://meehanmd.ehealthpro.com/products/buffered-vitamin-c-powder-240g)
 
-
-
-
-
 # Vitamin D Hammer
 
 * ## **[Vitamin D](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)**: 10,000 IU 5 times per day. Continue for 3 days.
@@ -159,17 +155,13 @@ For children, I typically recommend vitamin C chewables but **[powdered](https:/
 
 The cost of vitamin D is about a penny for 1000 IU, so this treatment costs less than a dollar.
 
-### Shop here: 
+### Shop here:
 
 #### [Liposomal Vitamin D3](https://meehanmd.ehealthpro.com/products/liposomal-d-supreme)
 
 #### [Liquid Vitamin D3](https://meehanmd.ehealthpro.com/products/emulsi-d3-synergy-2oz-liquid)
 
 #### [Vitamin D3](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)
-
-
-
-
 
 ## Discussion
 
@@ -468,3 +460,13 @@ Start LL-37 at the first sign of any infection, 0.2-0.3 mL twice daily for 7-10 
 ## Pentosan
 
 1mL IM twice a week (usually only requires x1-2) plus TA-1 0.5 mL qd SC with other viral URIs.
+
+
+
+**Boost your own immune system with Dr. Meehan’s top supplement recommendations:**
+
+* **[Vitamin D3](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)**
+* **[Vitamin E](https://meehanmd.ehealthpro.com/products/annatto-e-300)**
+* **[Vitamin C](https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules)**
+* **[Melatonin](https://meehanmd.ehealthpro.com/products/melatonin-3mg-60-capsules)**
+* **[Zinc](https://meehanmd.ehealthpro.com/products/zinc-supreme-90-vegetarian-capsules)**
