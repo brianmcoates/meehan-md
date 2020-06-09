@@ -2,10 +2,9 @@
 templateKey: blog-post
 title: Measles in Samoa
 date: 2019-12-01T02:39:29.163Z
-description: >-
-  My letter in support of Edwin Tamasese, a holistic practitioner in Samoa
-  trying to help children suffering from measles, and possibly their medical
-  mistreatment at the hands of Samoan physicians.
+description: My letter in support of Edwin Tamasese, a holistic practitioner in
+  Samoa trying to help children suffering from measles, and possibly their
+  medical mistreatment at the hands of Samoan physicians.
 featuredpost: false
 tags:
   - informed consent
@@ -90,12 +89,10 @@ You are doing the Lord's work to protect these children. My prayers and those of
 
 I am currently working on a document to support your correct assessment that Samoan children are more likely to be harmed or killed by medical interventions that include any one or any combination of the following medical interventions:
 
-1) Vaccinating a measles infected child with any live virus vaccine, including the live virus measles vaccine.\
-If these children are being vaccinated with Merck's MMR II vaccine, their risk of harm and death is, in my professional opinion, dramatically increased. In addition to the live attenuated vaccine strain of measles, the MMR II vaccine delivers two additional live vaccine strain viruses (mumps and rubella). In my opinion, administering the MMR II vaccine or any other live virus vaccine to a child infected with measles (or ANY other infectious disease) is medically contraindicated and negligent. The last thing these children need is to have their already struggling and suppressed immune system challenged with additional live viruses.
-
-2) Antibiotic treatment without clear and precise evidence of a serious bacterial infection is medically negligent. Furthermore, there is no indication for the use of an antibiotic in viral disease.
-
-3) Treatment with glutathione depleting drugs such as Panadol, or any other acetaminophen containing medication, is associated with increased morbidity and mortality. This is especially true of nutritionally deficient children. Glutathione is the master antioxidant in the body. It is critical to decreasing inflammatory and toxic damage that occurs during infection and inflammation. The independent clinical research in the United States indicts the use of acetaminophen.
+1. Vaccinating a measles infected child with any live virus vaccine, including the live virus measles vaccine.\
+   If these children are being vaccinated with Merck's MMR II vaccine, their risk of harm and death is, in my professional opinion, dramatically increased. In addition to the live attenuated vaccine strain of measles, the MMR II vaccine delivers two additional live vaccine strain viruses (mumps and rubella). In my opinion, administering the MMR II vaccine or any other live virus vaccine to a child infected with measles (or ANY other infectious disease) is medically contraindicated and negligent. The last thing these children need is to have their already struggling and suppressed immune system challenged with additional live viruses.
+2. Antibiotic treatment without clear and precise evidence of a serious bacterial infection is medically negligent. Furthermore, there is no indication for the use of an antibiotic in viral disease.
+3. Treatment with glutathione depleting drugs such as Panadol, or any other acetaminophen containing medication, is associated with increased morbidity and mortality. This is especially true of nutritionally deficient children. Glutathione is the master antioxidant in the body. It is critical to decreasing inflammatory and toxic damage that occurs during infection and inflammation. The independent clinical research in the United States indicts the use of acetaminophen.
 
 \
 Glutathione is commonly deficient in individuals with poor nutritional status. Which, as I understand it, is exactly the situation among many of the measles infected children in Samoa. Glutathione is an important antioxidant. It helps scavenge free radicals, deal with oxidative stress, and the pro-oxidant state of individuals suffering from infectious disease. Acetaminophen (the active ingredient in Tylenol, Panadol, and many other over the counter (OTC) drugs, rapidly and deeply depletes glutathione levels in the liver (where it is made and stored). This depletion exacerbates the damage of the infectious disease.
@@ -119,3 +116,13 @@ You may call me at any time. God be with you and the children of Samoa,
 Jim Meehan, MD
 
 <!--EndFragment-->
+
+
+
+**Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins.***
+
+* **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
+* **[GI Revive Powder](https://meehanmd.ehealthpro.com/products/gi-revive-1)**
+* **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
+* **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
+* **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
