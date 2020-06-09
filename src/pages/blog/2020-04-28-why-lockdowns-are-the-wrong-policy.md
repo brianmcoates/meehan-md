@@ -51,3 +51,13 @@ At least 50% of the population of both the UK and Sweden will be shown to have a
 View the full video here: <!--StartFragment-->**[Swedish Epidemiologist Johan Giesecke: Why Lockdowns Are The Wrong Policy](https://www.realclearpolitics.com/video/2020/04/18/swedish_epidemiologist_johan_giesecke_why_lockdowns_are_the_wrong_policy.html?fbclid=IwAR2a_YR_gJvWDaE9yALaMwOZauf6f5q9FG5MGVDgJWMlTHH)**
 
 <!--EndFragment-->
+
+
+
+**Dr. Meehan’s top supplement recommendations for boosting your immune system:**
+
+* **[Vitamin D3](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)**
+* **[Vitamin E](https://meehanmd.ehealthpro.com/products/annatto-e-300)**
+* **[Vitamin C](https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules)**
+* **[Melatonin](https://meehanmd.ehealthpro.com/products/melatonin-3mg-60-capsules)**
+* **[Zinc](https://meehanmd.ehealthpro.com/products/zinc-supreme-90-vegetarian-capsules)**
