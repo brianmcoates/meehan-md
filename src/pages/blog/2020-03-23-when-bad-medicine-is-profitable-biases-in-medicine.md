@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
-title: 'When Bad Medicine is Profitable: Biases in Medicine'
+title: "When Bad Medicine is Profitable: Biases in Medicine"
 date: 2020-03-01T03:07:50.148Z
-description: >-
-  Cognitive biases in medicine are dangerous. Financial bias and confirmation
-  bias are two of the most common dangers with the potential to allow bad
-  medicine to persist in causing tremendous harm. I'm going to explain why these
-  two biases are rampant in the vaccine debate and why physicians, scientists,
-  and experts are so polarized in their view of the science of vaccines.
+description: Cognitive biases in medicine are dangerous. Financial bias and
+  confirmation bias are two of the most common dangers with the potential to
+  allow bad medicine to persist in causing tremendous harm. I'm going to explain
+  why these two biases are rampant in the vaccine debate and why physicians,
+  scientists, and experts are so polarized in their view of the science of
+  vaccines.
 featuredpost: false
 tags:
   - vaccine
@@ -41,3 +41,13 @@ Now, take a look at the bill below from an Oklahoma medical practice providing v
 ![Vaccine Bill](/img/88166286_10221436510759546_76055448381292544_n.jpg "Vaccine Bill")
 
 The next time a pediatrician or other vaccine profiteer rattles off their cognitive bias cover stories about the "greater good", vaccines are "safe and effective," the "science is settled," etc., know with absolute certainty that they are deeply financially biased, confirmation biased, and dangerously ignorant of the truth.
+
+
+
+**Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins.***
+
+* **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
+* **[GI Revive Powder](https://meehanmd.ehealthpro.com/products/gi-revive-1)**
+* **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
+* **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
+* **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
