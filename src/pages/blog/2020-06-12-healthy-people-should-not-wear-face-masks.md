@@ -16,7 +16,7 @@ tags:
 ---
 # The Pandemic of Bad Science and Public Health Misinformation on Community Wearing of Masks
 
-By Jim Meehan, MD
+By Jim Meehan, MD, June 12, 2020
 
 # Introduction
 
@@ -134,7 +134,7 @@ Much of the recommendation for community wearing of masks was based on the belie
 
 Contact tracing has determined that asymptomatic cases are not causing secondary transmission:
 
-[Asymptomatic spread of coronavirus is "very rare," WHO says](<https://www.cnbc.com/2020/06/08/asymptomatic-coronavirus-patients-arent-spreading-new-infections-who-says.html>)
+[Asymptomatic spread of coronavirus is "very rare," WHO says](https://www.cnbc.com/2020/06/08/asymptomatic-coronavirus-patients-arent-spreading-new-infections-who-says.html)
 
 > “We have a number of reports from countries who are doing very detailed contact tracing," she \[Dr. Maria Van Kerkhove, head of WHO’s emerging diseases and zoonosis unit], said. "They’re following asymptomatic cases. They’re following contacts. And they’re not finding secondary transmission onward. It’s very rare.”
 
@@ -189,7 +189,7 @@ There is no reasonable scientific evidence to support healthy people wearing mas
 
 > As for the scientific support for the use of face mask, a recent careful examination of the literature, in which 17 of the best studies were analyzed, concluded that,“None of the studies established a conclusive relationship between mask/respirator use and protection against influenza infection.”[[R](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5779801/)] Keep in mind, no studies have been done to demonstrate that either a cloth mask or the N95 mask has any effect on transmission of the COVID-19 virus. Any recommendations, therefore, have to be based on studies of influenza virus transmission. The fact is, there is no conclusive evidence of their efficiency in controlling flu virus transmission.[[R](https://www.technocracy.news/blaylock-face-masks-pose-serious-risks-to-the-healthy/)]
 
-Here's what a group of physicians wrote regarding [Universal Masking in Hospitals in the CoVID-19 Era](<https://www.nejm.org/doi/full/10.1056/NEJMp2006372?rfr_dat=cr_pub%3dpubmed>) wrote in the New England Journal of Medicine:
+Here's what a group of physicians wrote regarding [Universal Masking in Hospitals in the CoVID-19 Era](https://www.nejm.org/doi/full/10.1056/NEJMp2006372?rfr_dat=cr_pub%3dpubmed) wrote in the New England Journal of Medicine:
 
 > We know that wearing a mask outside health care facilities offers little, if any, protection from infection.Public health authorities define a significant exposure to CoVID-19 as face-to-face contact within 6 feet with a patient with symptomatic CoVID-19 that is sustained for at least a few minutes (and some say more than 10 minutes or even 30 minutes). The chance of catching CoVID-19 from a passing interaction in a public space is therefore minimal. In many cases, the desire for widespread masking is a reflexive reaction to anxiety over the pandemic.
 
@@ -217,7 +217,7 @@ The hamsters did not wear little hamster surgical masks, thus, their arterial ox
 
 # Public Health Experts Are Confused and Contradictory on Masks
 
-Fauci, Birx, the CDC, and the WHO have been flipping, flopping, confusing, contradicting themselves, and each other, and ultimately providing the public with confusing, unevidenced, bad advice.[[R](<* <https://www.politico.com/news/2020/03/30/coronavirus-masks-trump-administration-156327>>)][[R](<* <https://www.breitbart.com/politics/2020/05/29/nolte-the-science-turns-against-americas-mask-fascists/>>)] Their lack of evidence and clarity was subverted to the belief that any level of protection was better than none. However, no one seemed to be fully considering the downsides of masks as I have presented them above.
+Fauci, Birx, the CDC, and the WHO have been flipping, flopping, confusing, contradicting themselves, and each other, and ultimately providing the public with confusing, unevidenced, bad advice.\[[R](<* <https://www.politico.com/news/2020/03/30/coronavirus-masks-trump-administration-156327>>)]\[[R](<* <https://www.breitbart.com/politics/2020/05/29/nolte-the-science-turns-against-americas-mask-fascists/>>)] Their lack of evidence and clarity was subverted to the belief that any level of protection was better than none. However, no one seemed to be fully considering the downsides of masks as I have presented them above.
 
 ### Early in the pandemic - “masks are unnecessary”
 
@@ -225,7 +225,7 @@ In the early onset of the pandemic, nearly all organizations and specialists, [i
 
 > “There’s no reason to be walking around with a mask," infectious disease expert Dr. Anthony Fauci told 60 Minutes.
 
-While masks may block some droplets, Fauci said, they do not provide the level of protection people think they do. Wearing a mask may also have unintended consequences: People who wear masks tend to touch their face more often to adjust them, which can spread germs from their hands.”[[R](<https://www.cbsnews.com/news/preventing-coronavirus-facemask-60-minutes-2020-03-08/>)]
+While masks may block some droplets, Fauci said, they do not provide the level of protection people think they do. Wearing a mask may also have unintended consequences: People who wear masks tend to touch their face more often to adjust them, which can spread germs from their hands.”[[R](https://www.cbsnews.com/news/preventing-coronavirus-facemask-60-minutes-2020-03-08/)]
 
 Fauci later walked back those comments and tried to explain his comments were taken out of context. Instead of saying he was wrong and pointing to scientific evidence that caused him to change his mind, he obfuscated.
 
@@ -328,7 +328,7 @@ In April, Dr. Brosseau, a national expert on respiratory protection and infectio
 
 ## Top immunologist, Prof. Dolores Cahill
 
-Top immunologist, Prof. Dolores Cahill, who has studied coronaviruses for years explains: once you’ve had the novel Coronavirus, you are immune; masks & social distancing do not affect coronavirus transmission; and how this lockdown was a mistake. Watch the [full Dr. Dolores Cahill interview on the Highwire with Del Bigtree](<https://www.facebook.com/HighWireTalk/videos/vb.409037702805561/551012122274478/?type=2&theater>)
+Top immunologist, Prof. Dolores Cahill, who has studied coronaviruses for years explains: once you’ve had the novel Coronavirus, you are immune; masks & social distancing do not affect coronavirus transmission; and how this lockdown was a mistake. Watch the [full Dr. Dolores Cahill interview on the Highwire with Del Bigtree](https://www.facebook.com/HighWireTalk/videos/vb.409037702805561/551012122274478/?type=2&theater)
 
 ### Covid-19: important potential side effects of wearing face masks that we should bear in mind
 
@@ -432,7 +432,7 @@ References
 
 ## Dr. Pamela Popper
 
-Here’s what Dr. Pamela Popper said on her YouTube discussion of “[What the Research Shows About Masks](<https://www.youtube.com/watch?v=YQo7bV2hzBY&feature=share&fbclid=IwAR32ekm3h5tyt4_WGE3N_dOWpcyEPISKZUp--NGuhxrgPn6a2z3lbZ06iX4>)”
+Here’s what Dr. Pamela Popper said on her YouTube discussion of “[What the Research Shows About Masks](https://www.youtube.com/watch?v=YQo7bV2hzBY&feature=share&fbclid=IwAR32ekm3h5tyt4_WGE3N_dOWpcyEPISKZUp--NGuhxrgPn6a2z3lbZ06iX4)”
 
 # Masking the public was never about science...
 
