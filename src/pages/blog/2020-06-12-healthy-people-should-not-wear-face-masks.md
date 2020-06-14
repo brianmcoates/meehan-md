@@ -197,17 +197,15 @@ The clinical research on this topic is clear: even when handled and worn properl
 
 ## The "Hamster Study" is an example of weak science used to support bad recommendations
 
-Here’s an example of one of the ridiculous studies that public health authorities used to support wearing masks in the community:
+Here’s an example of one of the experimental studies used by some public health authorities to support wearing masks in the community:
 
 > [Wearing a mask can significantly reduce coronavirus transmission, study on hamsters claims](https://www.cnbc.com/2020/05/19/coronavirus-wearing-a-mask-can-reduce-transmission-by-75percent-new-study-claims.html?__source=sharebar%7Cfacebook&par=sharebar&fbclid=IwAR0RQ962FzgmUuaL2o8epSm9gf2J8iXZttwZzH4gfDwDcPXon54Fn-nho7A)
 
-Apparently, little bitty hamster masks were on back-order so the researchers substituted mask-like barriers over the cages...and then they conflated the findings to reach a conclusion the study methodology does not support. But, in the "age of CoVID", this is what passes for "science."
+Does this study of “masking” hamster cages sound like the kind of solid scientific evidence that supports recommendations or mandates for everyone to wear masks during the CoVID-19 pandemic? No. The hamsters were not forced to wear tiny hamster surgical masks, their cages were covered with a barrier made of mask-like material. **The experiment was more about walls or barriers than it was masks**. 
 
-Does this study of “masking” hamster cages sound like the kind of scientific evidence that supports the wearing of masks during a pandemic?! No. This hamster study does NOT show that masking humans reduces transmission of SARS CoV-2. Anyone that uses this study to justify community wearing of masks is extrapolating well beyond the conditions and methodologies of the study. Let's just use logic.
+The experiment did not create the same conditions experienced by masked humans. Placing a cloth barrier on hamster cages is nothing like masking the mouth and nose of humans. The way this experiment was set up, inhalations were unimpeded, therefore, arterial oxygen levels would not be expected to lower. Likewise, exhalations were not trapped in a way that would force the hamsters to suffer [re-breathing their own carbon-dioxide](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2044.2006.04767.x) or subject them to the dangers of re-inhaling the infectious viral particles release with each exhalation. 
 
-The hamsters were not masked, their cages were "masked." The researchers placed barriers between infected and uninfected rodents. The experiment was more about walls or barriers than it was masks.
-
-The hamsters did not wear little hamster surgical masks, thus, their arterial oxygen saturation was not lowered, nor were they[ re-breathing their own carbon-dioxide](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2044.2006.04767.x) and infectious viral particles.
+This study is does not provide support for the recommendation for masking all members of the public to reduce transmission of SARS CoV-2. Those citing this study to support wearing masks in the community are inappropriately extrapolating and conflating the experiment's findings to contrive a conclusion the experimental methodology does not allow. 
 
 ## Some studies even question the efficacy of surgical masks in the operating room
 
