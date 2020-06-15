@@ -338,46 +338,44 @@ Top immunologist, Prof. Dolores Cahill, who has studied coronaviruses for years 
 
 This is the letter Dr. Cahill wrote to the British Medical Journal:
 
-In their editorial to the BMJ,\[1] Greenhalgh et al. advise that surgical masks should be worn in public to prevent some transmission of covid-19, adding that we should sometimes act without definitive evidence, just in case, according to the precautionary principle. The Authors quote a definition of the precautionary principle found on Wikipedia, “a strategy for approaching issues of potential harm when extensive scientific knowledge on the matter is lacking.”
+In their editorial to the BMJ,[[1](https://www.bmj.com/content/369/bmj.m1435)] Greenhalgh et al. advise that surgical masks should be worn in public to prevent some transmission of covid-19, adding that we should sometimes act without definitive evidence, just in case, according to the precautionary principle. The Authors quote a definition of the precautionary principle found on Wikipedia, “a strategy for approaching issues of potential harm when extensive scientific knowledge on the matter is lacking.”
 
-However, while no single formulation of that principle has been universally adopted,\[2] the precautionary principle aims at preventing researchers and policy makers from neglecting potentially-harmful side effects of interventions. Before implementing clinical and public health interventions, one must actively hypothesise and describe potential side effects and only then decide whether they are worth being quantified or not.
+However, while no single formulation of that principle has been universally adopted,[[2](https://www.bmj.com/content/369/bmj.m1435/rr-40)] the precautionary principle aims at preventing researchers and policy makers from neglecting potentially-harmful side effects of interventions. Before implementing clinical and public health interventions, one must actively hypothesise and describe potential side effects and only then decide whether they are worth being quantified or not.
 
 Most scientific articles and guidelines in the context of the covid-19 pandemic highlight two potential side effects of wearing surgical face masks in the public, but we believe that there are other ones that are worth considering before any global public health policy is implemented involving billions of people.
 
 ### The two potential side effects that have already been acknowledged are:
 
-1. Wearing a face mask may give a false sense of security and make people adopt a reduction in compliance with other infection control measures, including social distancing and hands washing.\[3]
-2. Inappropriate use of face mask: people must not touch their masks, must change their single-use masks frequently or wash them regularly, dispose them correctly and adopt other management measures, otherwise their risks and those of others may increase.\[3,4]
+1. Wearing a face mask may give a false sense of security and make people adopt a reduction in compliance with other infection control measures, including social distancing and hands washing.[[3](https://www.who.int/publications/i/item/advice-on-the-use-of-masks-in-the-community-during-home-care-and-in-healthcare-settings-in-the-context-of-the-novel-coronavirus-(2019-ncov)-outbreak)]
+2. Inappropriate use of face mask: people must not touch their masks, must change their single-use masks frequently or wash them regularly, dispose them correctly and adopt other management measures, otherwise their risks and those of others may increase.[[3](https://www.who.int/publications/i/item/advice-on-the-use-of-masks-in-the-community-during-home-care-and-in-healthcare-settings-in-the-context-of-the-novel-coronavirus-(2019-ncov)-outbreak),[4](https://jamanetwork.com/journals/jama/fullarticle/2764955)]
 
 ### Other potential side effects that we must consider are:
 
 3. The quality and the volume of speech between two people wearing masks is considerably compromised and they may unconsciously come closer. While one may be trained to counteract side effect n.1, this side effect may be more difficult to tackle.
 4. Wearing a face mask makes the exhaled air go into the eyes. This generates an uncomfortable feeling and an impulse to touch your eyes. If your hands are contaminated, you are infecting yourself.
-5. Face masks make breathing more difficult. For people with COPD, face masks are in fact intolerable to wear as they worsen their breathlessness.\[5] Moreover, a fraction of carbon dioxide previously exhaled is inhaled at each respiratory cycle. Those two phenomena increase breathing frequency and deepness, and hence they increase the amount of inhaled and exhaled air. This may worsen the burden of covid-19 if infected people wearing masks spread more contaminated air. This may also worsen the clinical condition of infected people if the enhanced breathing pushes the viral load down into their lungs.
-6. * The effects described at point 5 are amplified if face masks are heavily contaminated (see point 2)
-7. While impeding person-to-person transmission is key to limiting the outbreak, so far little importance has been given to the events taking place after a transmission has happened, when innate immunity plays a crucial role. The main purpose of the innate immune response is to immediately prevent the spread and movement of foreign pathogens throughout the body.\[6] The innate immunity’s efficacy is highly dependent on the viral load. If face masks determine a humid habitat where the SARS-CoV-2 can remain active due to the water vapour continuously provided by breathing and captured by the mask fabric, they determine an increase in viral load and therefore they can cause a defeat of the innate immunity and an increase in infections. This phenomenon may also interact with and enhance previous points.
+5. Face masks make breathing more difficult. For people with COPD, face masks are in fact intolerable to wear as they worsen their breathlessness.[[5](https://pubmed.ncbi.nlm.nih.gov/31992666/)] Moreover, a fraction of carbon dioxide previously exhaled is inhaled at each respiratory cycle. Those two phenomena increase breathing frequency and deepness, and hence they increase the amount of inhaled and exhaled air. This may worsen the burden of covid-19 if infected people wearing masks spread more contaminated air. This may also worsen the clinical condition of infected people if the enhanced breathing pushes the viral load down into their lungs.
+6. The effects described at point 5 are amplified if face masks are heavily contaminated (see point 2)
+7. While impeding person-to-person transmission is key to limiting the outbreak, so far little importance has been given to the events taking place after a transmission has happened, when innate immunity plays a crucial role. The main purpose of the innate immune response is to immediately prevent the spread and movement of foreign pathogens throughout the body.[[6](https://pubmed.ncbi.nlm.nih.gov/30405440/)] The innate immunity’s efficacy is highly dependent on the viral load. If face masks determine a humid habitat where the SARS-CoV-2 can remain active due to the water vapour continuously provided by breathing and captured by the mask fabric, they determine an increase in viral load and therefore they can cause a defeat of the innate immunity and an increase in infections. This phenomenon may also interact with and enhance previous points.
 
-In conclusion, as opposed to Greenhalgh et al., we believe that the context of the current covid-19 pandemic is very different from that of the “parachutes for jumping out of aeroplanes”,\[7] in which the dynamics of harm and prevention are easy to define and even to quantify without the need of research studies. It is necessary to quantify the complex interactions that may well be operating between positive and negative effects of wearing surgical masks at population level. It is not time to act without evidence.
+In conclusion, as opposed to Greenhalgh et al., we believe that the context of the current covid-19 pandemic is very different from that of the “parachutes for jumping out of aeroplanes”,[[7](https://www.bmj.com/content/333/7570/701)] in which the dynamics of harm and prevention are easy to define and even to quantify without the need of research studies. It is necessary to quantify the complex interactions that may well be operating between positive and negative effects of wearing surgical masks at population level. It is not time to act without evidence.
 
 ### References
 
-1 Greenhalgh T, Schmid MB, Czypionka T, et al. Face masks for the public during the covid-19 crisis. BMJ 2020;:m1435. doi:10.1136/bmj.m1435
+1 [Greenhalgh T, Schmid MB, Czypionka T, et al. Face masks for the public during the covid-19 crisis. BMJ 2020;:m1435. doi:10.1136/bmj.m1435](https://www.bmj.com/content/369/bmj.m1435)
 
-2 Vu YA, London WM, Vu YA, et al. Precautionary Principle. 2013;:9780199756797–0046. doi:10.1093/obo/9780199756797-0046
+2 [Vu YA, London WM, Vu YA, et al. Precautionary Principle. 2013;:9780199756797–0046. doi:10.1093/obo/9780199756797-0046](https://www.bmj.com/content/369/bmj.m1435/rr-40)
 
-3 Advice on the use of masks in the community, during home care and in healthcare settings in the context of the novel coronavirus (COVID-19) outbreak.[https://www.who.int/publications-detail/advice-on-the-use-of-masks-in-th...](https://www.who.int/publications-detail/advice-on-the-use-of-masks-in-the-community-during-home-care-and-in-healthcare-settings-in-the-context-of-the-novel-coronavirus-)(2019-ncov)-outbreak (accessed 18 Apr 2020).
+3 [Advice on the use of masks in the community, during home care and in healthcare settings in the context of the novel coronavirus (COVID-19)](https://www.who.int/publications/i/item/advice-on-the-use-of-masks-in-the-community-during-home-care-and-in-healthcare-settings-in-the-context-of-the-novel-coronavirus-(2019-ncov)-outbreak)
 
-4 Desai AN, Aronoff DM. Masks and Coronavirus Disease 2019 (COVID-19). JAMA Published Online First: 17 April 2020. doi:10.1001/jama.2020.6437
+4 [Desai AN, Aronoff DM. Masks and Coronavirus Disease 2019 (COVID-19). JAMA Published Online First: 17 April 2020. doi:10.1001/jama.2020.6437](https://jamanetwork.com/journals/jama/fullarticle/2764955)
 
-5 Kyung SY, Kim Y, Hwang H, et al. Risks of N95 Face Mask Use in Subjects With COPD. Respir Care 2020;:respcare.06713. doi:10.4187/respcare.06713
+5 [Kyung SY, Kim Y, Hwang H, et al. Risks of N95 Face Mask Use in Subjects With COPD. Respir Care 2020;:respcare.06713. doi:10.4187/respcare.06713](https://pubmed.ncbi.nlm.nih.gov/31992666/)
 
-6 Chen Y, Zhou Z, Min W. Mitochondria, Oxidative Stress and Innate Immunity. Front Physiol 2018;9:1487. doi:10.3389/fphys.2018.01487
+6 [Chen Y, Zhou Z, Min W. Mitochondria, Oxidative Stress and Innate Immunity. Front Physiol 2018;9:1487. doi:10.3389/fphys.2018.01487](https://pubmed.ncbi.nlm.nih.gov/30405440/)
 
-7 Potts M, Prata N, Walsh J, et al. Parachute approach to evidence based medicine. BMJ 2006;333:701–3. doi:10.1136/bmj.333.7570.701
+7 [Potts M, Prata N, Walsh J, et al. Parachute approach to evidence based medicine. BMJ 2006;333:701–3. doi:10.1136/bmj.333.7570.701](https://www.bmj.com/content/333/7570/701)
 
-## Blaylock: Face Masks Pose Serious Risks To The Healthy
-
-<https://www.technocracy.news/blaylock-face-masks-pose-serious-risks-to-the-healthy/?fbclid=IwAR1ukQjaRQ1kjKDMjvPFqo5UgtR9W650QUGvEmtpyJsBIRN4tyIFONDZlFk>
+## [Blaylock: Face Masks Pose Serious Risks To The Health](<https://www.technocracy.news/blaylock-face-masks-pose-serious-risks-to-the-healthy/?fbclid=IwAR1ukQjaRQ1kjKDMjvPFqo5UgtR9W650QUGvEmtpyJsBIRN4tyIFONDZlFk>)
 
 * Dr. Russell Blaylock warns that not only do face masks fail to protect the healthy from getting sick, but they also create serious health risks to the wearer. The bottom line is that if you are not sick, you should not wear a face mask.
 * As businesses reopen, many are requiring shoppers and employees to wear a face mask. Costco, for instance, will not allow shoppers into the store without wearing a face mask. Many employers are requiring all employees to wear a face mask while at work. In some jurisdictions, all citizens must wear a face mask if they are outside of their own home. ⁃ TN Editor
