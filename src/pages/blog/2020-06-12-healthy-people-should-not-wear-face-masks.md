@@ -215,11 +215,11 @@ This study does not provide support for the recommendation for masking all membe
 
 # Public Health Experts Are Confused and Contradictory on Masks
 
-Fauci, Birx, the CDC, and the WHO have been flipping, flopping, confusing, contradicting themselves, and each other, and ultimately providing the public with confusing, unevidenced, bad advice.\[[R](<* <https://www.politico.com/news/2020/03/30/coronavirus-masks-trump-administration-156327>>)]\[[R](<* <https://www.breitbart.com/politics/2020/05/29/nolte-the-science-turns-against-americas-mask-fascists/>>)] Their lack of evidence and clarity was subverted to the belief that any level of protection was better than none. However, no one seemed to be fully considering the downsides of masks as I have presented them above.
+Since the first days of the pandemic, Fauci, Birx, the CDC, and the WHO have been confusing the public as they flipped, flopped, and contradicted each other on the community wearing of medical masks. We should expect more from than confusing, contradictory, unevidenced advice from our public health experts.[[R](https://www.politico.com/news/2020/03/30/coronavirus-masks-trump-administration-156327)][[R](https://www.breitbart.com/politics/2020/05/29/nolte-the-science-turns-against-americas-mask-fascists/)] Their lack of evidence and clarity was subverted to the belief that any level of protection was better than none. However, no one seemed to be fully considering the downsides of masks as I have presented them above.
 
 ### Early in the pandemic - “masks are unnecessary”
 
-In the early onset of the pandemic, nearly all organizations and specialists, [including Dr. Anthony Fauci](https://www.youtube.com/watch?v=FRUYcMCtQT0&fbclid=IwAR1-tQr3rQ9wj80fCmWkVxRp1AvSLjp3PNdhtTOeVqSrcjB-uWhBwP1O04s)( March 8, 2020), advised against wearing a mask. The science simply did not support community wearing of masks:
+In the early onset of the pandemic, nearly all organizations and specialists, [including Dr. Anthony Fauci](https://www.youtube.com/watch?v=FRUYcMCtQT0&fbclid=IwAR1-tQr3rQ9wj80fCmWkVxRp1AvSLjp3PNdhtTOeVqSrcjB-uWhBwP1O04s) (March 8, 2020), advised against wearing a mask. The science simply did not support community wearing of masks:
 
 > “There’s no reason to be walking around with a mask," infectious disease expert Dr. Anthony Fauci told 60 Minutes.
 
