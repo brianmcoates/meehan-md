@@ -281,19 +281,25 @@ Tennessee bought 5 million cloth masks[[R](https://www.newschannel5.com/news/new
 
 ## Public health agencies made recommendations but failed to provide guidance on proper handling and wear
 
-The Public is Untrained in the Sterile Techniques Required to Make Mask Wear Effective
+The public is untrained in the sterile techniques required to make medical mask wear effective. Medical masks, worn and handled improperly, will not protect the wearer or those with whom they come in contact, instead, they will increase the spread of disease. The public health agencies and experts failed to anticipate how the public might not understand the principles of sterility essential to proper mask wear. And they failed to provide adequate resources, guidance, and instruction to the public. 
 
-After seeing masks used in the real world, I see how absolutely dangerous this recommendation from the CDC was. People are driving with them, walking down the street alone with them, going to the bathroom with them! And the science on cloth and even regular paper masks nails it. People have no idea how to safely cover their faces or wear gloves in a way that might actually make a difference. In fact, they are increasing odds of asymptomatic spreading.
+After seeing the public mis-wearing and mis-handling masks in the real world, it is absolutely clear how misguided and dangerous was this recommendation from the CDC.
 
-In stores, employees will pull a mask down from their mouths and noses and rest it on their chin or neck — these cloth or cheap paper masks have collected breath and are moist warm breeding grounds for bacteria. What would have safely dissipated into the air has collected in moisture on the mask, transferred to their fingers, their gloves, their chin, their necks. They do that all day long. They have turned themselves into virus and bacteria accumulators, and if they don’t have COVID-19, they are collecting whatever else they may have on the masks and spreading that joy. It's so ridiculous.
+I have watched as people continuously touch and fidget with their masks. I watch them pull them down from their mouths and noses and rest it on their chin or neck. In doing so they contaminate the mask and themselves and then increase the spread of disease. The public simply has no idea how to safely cover their faces or wear gloves in a way that might slow the spread of disease. 
 
-What I am clear on is that the way masks are improperly being handled and used in the public is a prescription for disease, and disaster.
+Medical masks must be **properly fit and sealed** around the mouth and nose. Masks must not be touched. Every touch has the potential to contaminate the mask and the hands, thus increasing the spread of disease. 
+
+Medical masks are **single use devices** designed to be worn for a relatively short period of time. Once the mask becomes **saturated with moisture** from breath, which, if properly fit, takes about an hour, they should be replaced. The more moisture saturated the mask becomes, the more it blocks oxygen, increases re-breathing of carbon dioxide, re-breathing of viral particles, and becomes a breeding ground for other pathogens. 
+
+The longer masks are worn, the more they are touched, the more contaminated they become. In addition to capturing pathogens on their outer surface, masks also quickly become moist, warm breeding grounds for bacteria and fungi. Thus, these opportunistic pathogens increase the risk of disease as they are inhaled into the airways, transferred to the hands, and end up on anything touched. 
+
+Unless medical masks are worn and handled properly, with strict adherence to sterility practices, medical masks worn by the community are prescriptions for disease, and disaster.
 
 # What the CDC and WHO should have said about when and how to wear medical masks
 
 * If you are healthy, you only need to wear a mask if you are taking care of a person with COVID-19.
 * Wear a mask if you are infected with CoVID-19 or another infectious disease.
-* Wear a mask if you are coughing or sneezing.Better yet, STAY HOME.
+* Wear a mask if you are coughing or sneezing. Better yet, STAY HOME.
 * If you wear a mask, then you must know how to use it and dispose of it properly.
 * Mask type matters
 * * Medical grade surgical masks should be handled properly, never touched, and never reused
