@@ -34,8 +34,6 @@ tags:
 ---
 # The Pandemic of Bad Science and Public Health Misinformation on Community Wearing of Masks
 
-
-
 Renowned neurosurgeon, Russell Blaylock, MD had this to say about the science of masks:
 
 > As for the scientific support for the use of face masks, a recent careful examination of the literature, in which 17 of the best studies were analyzed, concluded that, “None of the studies established a conclusive relationship between mask/respirator use and protection against influenza infection.”[[R](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1750-2659.2011.00307.x)] Keep in mind, no studies have been done to demonstrate that either a cloth mask or the N95 mask has any effect on transmission of the COVID-19 virus. Any recommendations, therefore, have to be based on studies of influenza virus transmission. The fact is, there is no conclusive evidence of their efficiency in controlling flu virus transmission. - Russell Blaylock, MD
@@ -459,3 +457,11 @@ Community wearing of face [](https://www.facebook.com/hashtag/masks?__eep__=6&so
 ![](https://i2.wp.com/www.exopermaculture.com/wp-content/uploads/2020/06/the_masks_speak-768x606-1.jpg?resize=640%2C505&ssl=1)
 
 <!--EndFragment-->
+
+**Instead of wearing a face mask, boost your immune system! Here are some of Dr. Meehan’s top supplement recommendations for supporting your immune system:**
+
+* **[Vitamin D3](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)**
+* **[Vitamin E](https://meehanmd.ehealthpro.com/products/annatto-e-300)**
+* **[Vitamin C](https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules)**
+* **[Melatonin](https://meehanmd.ehealthpro.com/products/melatonin-3mg-60-capsules)**
+* **[Zinc](https://meehanmd.ehealthpro.com/products/zinc-supreme-90-vegetarian-capsules)**
