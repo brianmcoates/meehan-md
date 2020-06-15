@@ -324,7 +324,7 @@ If you don't believe me, listen to what these experts have to say:
 
 In April, Dr. Brosseau, a national expert on respiratory protection and infectious diseases at the University of Illinois at Chicago published an article titled [“Masks-for-all for COVID-19 not based on sound data”](https://www.cidrap.umn.edu/news-perspective/2020/04/commentary-masks-all-covid-19-not-based-sound-data). She wrote:
 
-> “Sweeping mask recommendations—as many have proposed—will not reduce SARS-CoV-2 transmission, as evidenced by the widespread practice of wearing such masks in Hubei province, China, before and during its mass COVID-19 transmission experience earlier this year. Our review of relevant studies indicates thatcloth masks will be ineffective at preventing SARS-CoV-2 transmission, whether worn as source control or as PPE.
+> “Sweeping mask recommendations—as many have proposed—will not reduce SARS-CoV-2 transmission, as evidenced by the widespread practice of wearing such masks in Hubei province, China, before and during its mass COVID-19 transmission experience earlier this year. Our review of relevant studies indicates that cloth masks will be ineffective at preventing SARS-CoV-2 transmission, whether worn as source control or as PPE.
 >
 > Surgical masks likely have some utility as source control (meaning the wearer limits virus dispersal to another person) from a symptomatic patient in a healthcare setting to stop the spread of large cough particles and limit the lateral dispersion of cough particles. They may also have very limited utility as source control or PPE in households.
 >
