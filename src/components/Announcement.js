@@ -22,25 +22,20 @@ export const Announcement = () => {
   return (
     showModal && (
       <div className="announcement">
-        <h1>Exciting News!</h1>
-        <p>
-          Jim Meehan MD is part of the largest gathering of professionals and
-          experts in history for the cause of Liberty Against Medical Tyranny.
-          Health Freedom Summit will feature in-depth discussions and
-          presentations by doctors and researchers who are literally curing
-          cancer, and breaking the cycle of chronic illness. These speakers will
-          be sharing uncensored information and real strategies on effective
-          treatments and preventative measures for COVID-19 as they also blow
-          the whistle on medical fraud, government overstep, and misinformation.
+        <h3 className='font-size-m m-b-1 font-weight-bold'>Support Your Immune System</h3>
+        <p className='m-b-1'>
+          Shop for high quality supplements recommended by Dr. Meehan at a discount. Receive 15% OFF your first order
+          <b className='font-weight-bold'> Promo Code:  FIRST15</b>
         </p>
         <a
-          className="btn"
-          href="https://healthfreedomsummit.mykajabi.com/a/25486/F6V6ayzF"
+          className="btn m-b-1-half"
+          href="https://meehanmd.ehealthpro.com/"
           target="_blank"
           onClick={turnModalOff}
         >
-          Find out more.
+          Shop Now
         </a>
+        <p className='font-size-xxs gray-20 text-center'>Shipping is FREE on all orders and should arrive within 2-3 business days.</p>
         <a className="close-modal" onClick={turnModalOff}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
