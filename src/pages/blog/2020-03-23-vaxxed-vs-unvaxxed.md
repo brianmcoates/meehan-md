@@ -138,8 +138,6 @@ Unfortunately, the CDC continues to use legal loopholes to obstruct demands that
 
 Watch **[Vaxxed: From Cover-up to Catastrophe](https://www.amazon.com/gp/product/B06XGSJBZM/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06XGSJBZM&linkId=f224e9c755808496eff8c7b31a1127d5)** for a full understanding of the fraud and corruption perpetrated by CDC scientists when the 2004 CDC study found an increased risk of autism in children vaccinated with Merck's MMR vaccine.
 
-
-
 **Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins*.**
 
 * **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
@@ -147,3 +145,12 @@ Watch **[Vaxxed: From Cover-up to Catastrophe](https://www.amazon.com/gp/product
 * **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
 * **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
 * **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
+
+
+
+> Support your immune system!\
+> [https://meehanmd.ehealthpro.​com/](https://meehanmd.ehealthpro.com/)\
+> Shop for high quality supplements recommended by Dr. Meehan at a discount.\
+> Receive 15% OFF your first order:\
+> USE PROMO CODE: **FIRST15**\
+> Shipping is *FREE* on all orders and should arrive within 2-3 business days.
