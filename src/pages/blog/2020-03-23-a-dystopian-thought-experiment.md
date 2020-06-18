@@ -2,11 +2,10 @@
 templateKey: blog-post
 title: A Dystopian Thought Experiment
 date: 2020-02-10T15:46:28.321Z
-description: >-
-  To understand the problem of infectious human pathogens and our misguided
-  attempts to control and suppress to extinction the microbial world with our
-  failing universal vaccination strategy, consider the following thought
-  experiment.
+description: To understand the problem of infectious human pathogens and our
+  misguided attempts to control and suppress to extinction the microbial world
+  with our failing universal vaccination strategy, consider the following
+  thought experiment.
 featuredpost: false
 tags:
   - dystopian
@@ -27,7 +26,7 @@ tags:
   - Department of Homeland Security
   - Department of Health
   - health
-  - ''
+  - ""
 ---
 Imagine your body is like the United States of America, our homes are cells, and our immune system is like the combined forces of the military (Army, Navy, Air Force, Marines, and Coast Guard) and civil services ( police, fire, etc.).
 
@@ -44,3 +43,12 @@ Imagine the pharmaceutical-medical-industrial-complex taking over control and de
 3. Military and civil service organizations are dismantled and their budgets reallocated to support and enforce the UTI programs. Their primary role will transition from national defense and citizen protection against trillions of country and home invaders, to one of enforcing compliance with all UTI programs.
 
 TO BE CONTINUED...
+
+
+
+> Support your immune system!\
+> [https://meehanmd.ehealthpro.​com/](https://meehanmd.ehealthpro.com/)\
+> Shop for high quality supplements recommended by Dr. Meehan at a discount.\
+> Receive 15% OFF your first order:\
+> USE PROMO CODE: **FIRST15**\
+> Shipping is *FREE* on all orders and should arrive within 2-3 business days.
