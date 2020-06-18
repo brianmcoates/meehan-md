@@ -28,4 +28,4 @@ tags:
   - surgical masks
   - pandemic
 ---
-Watch the interview here: https://youtu.be/c4Hx5lntFwM
+Watch the interview here: **[Dr. Jim Meehan MD explains why wearing face masks can be deadly.](https://youtu.be/c4Hx5lntFwM)**
