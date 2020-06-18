@@ -99,8 +99,6 @@ We randomized 115 children to trivalent inactivated influenza vaccine (TIV) or p
 
 \[2] "Infectious virus in exhaled breath of symptomatic seasonal influenza cases from a college community." [https://www.ncbi.nlm.nih.gov/pubmed/29348203](https://www.ncbi.nlm.nih.gov/pubmed/29348203?fbclid=IwAR1C18gBKMpOeuFj9prFiiben8yKEO4rwblcRAHwvBdVZVuRQtfi-tDL4oE)
 
-
-
 **Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins*.**
 
 * **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
@@ -108,3 +106,12 @@ We randomized 115 children to trivalent inactivated influenza vaccine (TIV) or p
 * **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
 * **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
 * **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
+
+
+
+> Support your immune system!\
+> [https://meehanmd.ehealthpro.​com/](https://meehanmd.ehealthpro.com/)\
+> Shop for high quality supplements recommended by Dr. Meehan at a discount.\
+> Receive 15% OFF your first order:\
+> USE PROMO CODE: **FIRST15**\
+> Shipping is *FREE* on all orders and should arrive within 2-3 business days.
