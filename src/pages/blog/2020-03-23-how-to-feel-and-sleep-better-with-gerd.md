@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: How to Feel and Sleep Better with GERD
 date: 2020-01-22T21:13:51.874Z
-description: ' '
+description: " "
 featuredpost: false
 tags:
   - GERD
@@ -33,3 +33,12 @@ Because GERD is essentially a valve problem, I recommend that nighttime heartbur
 (By the way, elevating the head of the bed slightly may be a good idea for everyone, not just those suffering from nighttime GERD. Elevating the head of the bed slightly has been shown to improve blood and lymphatic flow; simultaneously improving oxygen and nutrient delivery while facilitating the removal of metabolic waste products.)
 
 Another useful technique for nighttime GERD is to sleep on your left side. If you lay on your left side, the faulty valve is positioned in a way that separates it from food and acid, thus minimizing or preventing stomach acid from backing up (refluxing) into the esophagus.
+
+
+
+> Support your immune system!\
+> [https://meehanmd.ehealthpro.​com/](https://meehanmd.ehealthpro.com/)\
+> Shop for high quality supplements recommended by Dr. Meehan at a discount.\
+> Receive 15% OFF your first order:\
+> USE PROMO CODE: **FIRST15**\
+> Shipping is *FREE* on all orders and should arrive within 2-3 business days.
