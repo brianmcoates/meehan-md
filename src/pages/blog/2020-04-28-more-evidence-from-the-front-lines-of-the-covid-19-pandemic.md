@@ -55,8 +55,6 @@ Full video: <!--StartFragment-->**[Covid 19 from a respiratory therapist perspec
 
 <!--EndFragment-->
 
-
-
 **Dr. Meehan’s top supplement recommendations for boosting your immune system:**
 
 * **[Vitamin D3](https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules)**
@@ -64,3 +62,12 @@ Full video: <!--StartFragment-->**[Covid 19 from a respiratory therapist perspec
 * **[Vitamin C](https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules)**
 * **[Melatonin](https://meehanmd.ehealthpro.com/products/melatonin-3mg-60-capsules)**
 * **[Zinc](https://meehanmd.ehealthpro.com/products/zinc-supreme-90-vegetarian-capsules)**
+
+
+
+> Support your immune system!\
+> [https://meehanmd.ehealthpro.​com/](https://meehanmd.ehealthpro.com/)\
+> Shop for high quality supplements recommended by Dr. Meehan at a discount.\
+> Receive 15% OFF your first order:\
+> USE PROMO CODE: **FIRST15**\
+> Shipping is *FREE* on all orders and should arrive within 2-3 business days.
