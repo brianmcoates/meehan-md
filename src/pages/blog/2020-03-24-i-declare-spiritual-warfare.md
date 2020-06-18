@@ -115,8 +115,6 @@ The link to the entire speech from the Vaccine Injury Epidemic Event in Washingt
 
 <!--EndFragment-->
 
-
-
 **Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins.***
 
 * **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
@@ -124,3 +122,12 @@ The link to the entire speech from the Vaccine Injury Epidemic Event in Washingt
 * **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
 * **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
 * **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
+
+
+
+> Support your immune system!\
+> [https://meehanmd.ehealthpro.​com/](https://meehanmd.ehealthpro.com/)\
+> Shop for high quality supplements recommended by Dr. Meehan at a discount.\
+> Receive 15% OFF your first order:\
+> USE PROMO CODE: **FIRST15**\
+> Shipping is *FREE* on all orders and should arrive within 2-3 business days.
