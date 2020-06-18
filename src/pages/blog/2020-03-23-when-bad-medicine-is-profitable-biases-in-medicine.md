@@ -42,8 +42,6 @@ Now, take a look at the bill below from an Oklahoma medical practice providing v
 
 The next time a pediatrician or other vaccine profiteer rattles off their cognitive bias cover stories about the "greater good", vaccines are "safe and effective," the "science is settled," etc., know with absolute certainty that they are deeply financially biased, confirmation biased, and dangerously ignorant of the truth.
 
-
-
 **Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins.***
 
 * **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
@@ -51,3 +49,12 @@ The next time a pediatrician or other vaccine profiteer rattles off their cognit
 * **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
 * **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
 * **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
+
+
+
+> Support your immune system!\
+> [https://meehanmd.ehealthpro.​com/](https://meehanmd.ehealthpro.com/)\
+> Shop for high quality supplements recommended by Dr. Meehan at a discount.\
+> Receive 15% OFF your first order:\
+> USE PROMO CODE: **FIRST15**\
+> Shipping is *FREE* on all orders and should arrive within 2-3 business days.
