@@ -8,5 +8,24 @@ description: Dr. Aaron Lewis interviews Dr. Jim Meehan MD who boldly claims
 featuredpost: false
 tags:
   - masks
+  - CoVID-19
+  - coronavirus
+  - pseudoscience
+  - wearing masks
+  - corona
+  - covid
+  - immunity
+  - health
+  - hypoxia
+  - lungs
+  - breathing
+  - disease
+  - asymptomatic
+  - quarantine
+  - face masks
+  - cloth masks
+  - N95 masks
+  - surgical masks
+  - pandemic
 ---
 Watch the interview here: https://youtu.be/c4Hx5lntFwM
