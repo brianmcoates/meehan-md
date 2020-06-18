@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Healthy People Should Not Wear Face Masks
-date: 2020-06-11T23:49:38.363Z
+date: 2020-06-14T23:49:38.363Z
 description: During the COVID-19 pandemic, public health experts began telling
   us to follow a number of disease mitigation strategies that sounded reasonably
   scientific, but actually had little or no support in the scientific
@@ -33,6 +33,9 @@ tags:
   - pandemic
 ---
 # The Pandemic of Bad Science and Public Health Misinformation on Community Wearing of Masks
+
+Jim Meehan, MD\
+June 14, 2020
 
 Renowned neurosurgeon, Russell Blaylock, MD had this to say about the science of masks:
 
@@ -465,8 +468,6 @@ Community wearing of face [](https://www.facebook.com/hashtag/masks?__eep__=6&so
 * **[Vitamin C](https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules)**
 * **[Melatonin](https://meehanmd.ehealthpro.com/products/melatonin-3mg-60-capsules)**
 * **[Zinc](https://meehanmd.ehealthpro.com/products/zinc-supreme-90-vegetarian-capsules)**
-
-
 
 > Support your immune system!\
 > [https://meehanmd.ehealthpro.​com/](https://meehanmd.ehealthpro.com/)\
