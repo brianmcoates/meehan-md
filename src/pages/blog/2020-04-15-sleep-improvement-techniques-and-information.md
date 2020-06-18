@@ -119,10 +119,6 @@ These cycles create an architecture of sleep that must be respected, not disrupt
 
 [GABA](https://meehanmd.ehealthpro.com/products/pharmagaba-60-chewables)
 
-
-
-
-
 ## <span style="color: #008BB8 ">Wake Up Time</span>
 
 Start with your wake up time, count 7.5 hours backwards from your wake up time and this is the time that you should be going to sleep. The average sleep cycle is 80-90 minutes, and we know that we need 5 sleep cycles; or 7.5 hours
@@ -770,3 +766,12 @@ Although not nearly as low profile and comfortable as a dentist made night guard
 ### <span style="color: #008BB8 ">Obstructive Sleep Apnea</span>
 
 If you suspect that you have sleep apnea, it is imperative that you get tested! Sleep apnea is destructive and deadly. People with significant sleep apnea are suffocating every night, a process that is slowly destroying the most metabolic and important tissues in the body.
+
+> \
+> [https://meehanmd.ehealthpro.​com/](https://meehanmd.ehealthpro.com/)\
+> Shop for high quality supplements recommended by Dr. Meehan at a discount.\
+> Receive 15% OFF your first order:\
+> USE PROMO CODE: **FIRST15**\
+> Shipping is *FREE* on all orders and should arrive within 2-3 business days.
+>
+>
