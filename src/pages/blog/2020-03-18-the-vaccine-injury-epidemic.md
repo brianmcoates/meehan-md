@@ -88,8 +88,6 @@ To be clear, the vaccine industry has contrived a few epidemiology studies, some
 
 Biased, corrupt, and fraudulent vaccine industry sponsored epidemiology studies are the fraudulent facades hiding the truth of the [\#VaccineInjuryEpidemic](https://www.facebook.com/hashtag/vaccineinjuryepidemic?source=feed_text&epa=HASHTAG). Pediatric cancers and any other vaccine injury will continue to perplex the scientific and medical communities until the necessary science is conducted. [\#DoTheStudy](https://www.facebook.com/hashtag/dothestudy?source=feed_text&epa=HASHTAG)
 
-
-
 **Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins*.**
 
 * **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
@@ -97,3 +95,12 @@ Biased, corrupt, and fraudulent vaccine industry sponsored epidemiology studies 
 * **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
 * **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
 * **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
+
+
+
+> Support your immune system!\
+> [https://meehanmd.ehealthpro.​com/](https://meehanmd.ehealthpro.com/)\
+> Shop for high quality supplements recommended by Dr. Meehan at a discount.\
+> Receive 15% OFF your first order:\
+> USE PROMO CODE: **FIRST15**\
+> Shipping is *FREE* on all orders and should arrive within 2-3 business days.
