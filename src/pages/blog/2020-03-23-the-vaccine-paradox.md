@@ -84,8 +84,6 @@ Vaccine injuries are now more common and causing more harm than would be expecte
 
 Americans can no longer suffer the vaccine injury epidemic caused by inadequately tested and unsafe vaccines. We cannot afford to continue injecting our children with health destroying and immune dysregulating vaccines. We must not allow the [\#TheVaccineParadox](https://www.facebook.com/hashtag/thevaccineparadox?source=feed_text&epa=HASHTAG) to be ignored and justified by corrupt, fraudulent, bought-and-paid-for epidemiology studies designed to mislead and delude the public.
 
-
-
 **Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins*.**
 
 * **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
@@ -93,3 +91,12 @@ Americans can no longer suffer the vaccine injury epidemic caused by inadequatel
 * **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
 * **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
 * **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
+
+
+
+> Support your immune system!\
+> [https://meehanmd.ehealthpro.​com/](https://meehanmd.ehealthpro.com/)\
+> Shop for high quality supplements recommended by Dr. Meehan at a discount.\
+> Receive 15% OFF your first order:\
+> USE PROMO CODE: **FIRST15**\
+> Shipping is *FREE* on all orders and should arrive within 2-3 business days.
