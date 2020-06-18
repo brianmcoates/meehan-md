@@ -108,8 +108,6 @@ Also this from Del Bigtree and his nonprofit organization, ICAN, the Informed Co
 
 Del Bigtree also says, "Are you comfortable knowing that doctors know nothing about the heart attack issue but are now giving this to people with the belief that it is safe? Should it be illegal for me and my family to opt out of this vaccine when I have done my research and know that the FDA cardiologist writing this article believes the vaccine could have the potential to cause heart attacks? This is why the Nuremberg Code exists. And this is why I believe I am doing a service by reporting issues like this when the rest of mainstream media turns a blind eye."
 
-
-
 **Here are Dr. Meehan's top supplement recommendations according to his *Gentle Detoxification Protocol: Counteracting the Harmful Effects of Vaccines and Environmental Toxins*.**
 
 * **[GI Revive Capsules](https://meehanmd.ehealthpro.com/products/gi-revive)**
@@ -117,3 +115,12 @@ Del Bigtree also says, "Are you comfortable knowing that doctors know nothing ab
 * **[Omega 3 Softgels](https://meehanmd.ehealthpro.com/products/omegavail-synergy-60-softgels)**
 * **[Liposomal Glutathione](https://meehanmd.ehealthpro.com/products/liposomal-glutathione)**
 * **[L-5-MTHF capsules](https://meehanmd.ehealthpro.com/products/l-5-mthf-500-mcg)**
+
+
+
+> Support your immune system!\
+> [https://meehanmd.ehealthpro.​com/](https://meehanmd.ehealthpro.com/)\
+> Shop for high quality supplements recommended by Dr. Meehan at a discount.\
+> Receive 15% OFF your first order:\
+> USE PROMO CODE: **FIRST15**\
+> Shipping is *FREE* on all orders and should arrive within 2-3 business days.
