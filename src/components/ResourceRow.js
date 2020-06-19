@@ -9,7 +9,7 @@ import {
   ResourceItemImg,
   ResourceToolBar,
   ResourceCategoriesWrapper
-} from "../styles/components";
+} from "../styles/resource-components";
 import Cookies from "js-cookie";
 
 const ResourceRow = props => {

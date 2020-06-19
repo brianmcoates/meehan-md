@@ -196,52 +196,54 @@ $menu-label-color: $white-ter
   border-color: #454545
   transition: .3s
 
-.m-t-0
-  margin-top: 0
+$md-rem-sizes: ( "half": .5rem, "1": 1rem, "1-5": 1.5rem, "2": 2rem, "2-5": 2.5rem, "3": 3rem, "3-5": 3.5rem, "4": 4rem, "4-5": 4.5rem, "5": 5rem, "5-5": 5.5rem, "6": 6rem, "6-5": 6.5rem)
 
-.m-t-half
-  margin-top: .5rem
+$md-breakpoints: ("xs": 1px, "s": 768px, "m": 1024px, "l": 1440px, "xl": 1920px)
 
-.m-t-1
-  margin-top: 1rem
+@each $screen-size, $breakpoint in $md-breakpoints
+  @media print, screen and (min-width: $breakpoint)
+    @each $rem-size, $rem-value in $md-rem-sizes
+      .#{$screen-size}-m-t-#{$rem-size}
+        margin-top: $rem-value
+      .#{$screen-size}-m-b-#{$rem-size}
+        margin-bottom: $rem-value
+      .#{$screen-size}-m-l-#{$rem-size}
+        margin-left: $rem-value
+      .#{$screen-size}-m-r-#{$rem-size}
+        margin-right: $rem-value
+      .#{$screen-size}-p-t-#{$rem-size}
+        padding-top: $rem-value
+      .#{$screen-size}-p-b-#{$rem-size}
+        padding-bottom: $rem-value
+      .#{$screen-size}-p-l-#{$rem-size}
+        padding-left: $rem-value
+      .#{$screen-size}-p-r-#{$rem-size}
+        padding-right: $rem-value
 
-.m-t-2
-  margin-top: 2rem
-
-.m-t-3
-  margin-top: 3rem
-
-.m-t-4
-  margin-top: 4rem
-
-.m-t-5
-  margin-top: 5rem
-
-.m-t-6
-  margin-top: 6rem
+@each $rem-size, $rem-value in $md-rem-sizes
+  .m-t-#{$rem-size}
+    margin-top: $rem-value
+  .m-b-#{$rem-size}
+    margin-bottom: $rem-value
+  .m-l-#{$rem-size}
+    margin-left: $rem-value
+  .m-r-#{$rem-size}
+    margin-right: $rem-value
+  .p-t-#{$rem-size}
+    padding-top: $rem-value
+  .p-b-#{$rem-size}
+    padding-bottom: $rem-value
+  .p-l-#{$rem-size}
+    padding-left: $rem-value
+  .p-r-#{$rem-size}
+    padding-right: $rem-value
 
 .m-b-half
   margin-bottom: .5rem
 
-
-.m-b-1
-  margin-bottom: 1rem
-
-.m-b-1-half
-  margin-bottom: 1.5rem
-
-.m-b-2
-  margin-bottom: 2rem
-
-.m-b-3
-  margin-bottom: 3rem
-
-
-.m-b-4
-  margin-bottom: 4rem
-
 .background-position-center
   background-position: center
+  
 
 .notification a:not(.button):not(.dropdown-item)
   text-decoration: none
@@ -303,6 +305,54 @@ $menu-label-color: $white-ter
 
 .hide
   display: none
+
+.font-size-xl
+  font-size: 54px
+  line-height: 100%
+
+  @media print, screen and (min-width: 1023px)
+    font-size: 64px
+
+.font-size-l
+  font-size: 44px
+  line-height: 100%
+
+  @media print, screen and (min-width: 1023px)
+    font-size: 54px
+
+.font-size-m
+  font-size: 26px
+  line-height: 100%
+
+  @media print, screen and (min-width: 1023px)
+    font-size: 36px
+
+.font-size-s
+  font-size: 20px
+  line-height: 100%
+
+.font-size-xs
+  font-size: 16px
+  line-height: 100%
+
+.font-size-xxs
+  font-size: 14px
+  line-height: 100%
+
+.font-weight-thin
+  font-family: 'Proxima Nova Thin', 'Helvetica'
+
+.font-weight-regular
+  font-family: "Proxima Nova Regular", "Helvetica"
+
+.font-weight-semi-bold
+  font-family: 'Proxima Nova Semibold', "Helvetica"
+
+.font-weight-bold
+  font-family: 'Proxima Nova Bold', 'Helvetica'
+
+.font-weight-black
+  font-family: 'Proxima Nova Black', 'Helvetica'
 
 .font-size-xl
   font-size: 54px

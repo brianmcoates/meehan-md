@@ -9,7 +9,7 @@ export default () => (
         <div className="content">
           <div className="column is-10 is-offset-1">
             <h1>Thank you!</h1>
-            <p>Thank you for reaching out we will be in contact soon. Here are some of our latest blog posts.</p>
+            <p>Thank you for reaching out we will be in contact soon. Here are some of Dr Meehan's latest blog posts.</p>
             <BlogRoll />
           </div>
         </div>

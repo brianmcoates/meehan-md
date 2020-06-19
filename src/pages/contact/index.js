@@ -1,130 +1,148 @@
 import React from "react";
-import { navigate } from "gatsby-link";
+import { Col, Container, Row, Visible } from "react-awesome-styled-grid";
 import Layout from "../../components/Layout";
+import Form from "./form";
+import {
+  ReasonsItem,
+  ReasonsSection,
+  smallFormContainer
+} from "../../styles/contact-components";
+import CameraSvg from "../../img/CameraSvg";
+import BookSvg from "../../img/BookSvg";
+import BottleSvg from "../../img/BottleSvg";
+import WatchSvg from "../../img/WatchSvg";
+import CameraGradientSvg from "../../img/CameraGradientSvg";
+import BookGradientSvg from "../../img/BookGradientSvg";
+import BottleGradientSvg from "../../img/BottleGradientSvg";
+import WatchGradientSvg from "../../img/WatchGradientSvg";
+import ContactTalkingPoints from "../../components/ContactTalkingPoints";
 
-function encode(data) {
-  return Object.keys(data)
-    .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
-    .join("&");
-}
-
-export default class Index extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = { isValidated: false };
-  }
-
-  handleChange = e => {
-    this.setState({ [e.target.name]: e.target.value });
+const Index = props => {
+  const showOnLarge = () => {
+    if (window.innerWidth > 1023) {
+      return true;
+    }
+    return false;
   };
 
-  handleSubmit = e => {
-    e.preventDefault();
-    const form = e.target;
-    fetch("/", {
-      method: "POST",
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({
-        "form-name": form.getAttribute("name"),
-        ...this.state
-      })
-    })
-      .then(() => navigate(form.getAttribute("action")))
-      .catch(error => alert(error));
+  const showOnSmall = () => {
+    return !showOnLarge();
   };
 
-  render() {
-    return (
-      <Layout>
-        <div className="section">
-          <div className="columns is-centered">
-            <div className="column is-6">
-              <h1 className='is-size-1 m-t-1 m-b-1'>Contact Us</h1>
-              <form
-                name="contact"
-                method="post"
-                action="/contact/thanks/"
-                data-netlify="true"
-                data-netlify-honeypot="bot-field"
-                onSubmit={this.handleSubmit}
-              >
-                {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
-                <input type="hidden" name="form-name" value="contact" />
-                <div hidden>
-                  <label>
-                    Don’t fill this out:{" "}
-                    <input name="bot-field" onChange={this.handleChange} />
-                  </label>
+  const talkingPoints = [
+    {
+      image: <CameraGradientSvg />,
+      paragraph:
+        "You are busy and life can get in the way of you being able to take control of your health. Thats why Dr. Meehan is available via telemedicine. Secure video messaging takes down one more barrier from you becoming the scientist of your own health.",
+      header: "We Come To You"
+    },
+    {
+      image: <BookGradientSvg />,
+      paragraph:
+        "Dr. Meehan has dedicated himself to resourcing you with the most scientifically sound medical information so that you can make the most informed decisions possible. He believes that this information shouldn’t be behind a pay wall but should be easily accessible to all.",
+      header: "Free Resources"
+    },
+    {
+      image: <BottleGradientSvg />,
+      paragraph:
+        "Dr. Meehan takes a holistic approach to medicine one that is deeply rooted in science. He believes whole heartedly in finding solutions that will bring healing without harming your body with harsh chemicals.",
+      header: "Holistic Medicine"
+    },
+    {
+      image: <WatchGradientSvg />,
+      paragraph:
+        "Dr. Meehan enthusiastically embraces how we can leverage technology to become more in control of our own health.",
+      header: "Technology"
+    },
+  ];
+
+  return (
+    <Layout>
+      <Container>
+        <Row>
+          <Col xs={12} md={4} xl={5} offset={{ xl:1}}>
+            <h1 className="font-weight-black font-size-xl m-b-1 m-t-2">
+              You Have Questions Dr Meehan Has Answers
+            </h1>
+            <p className="m-b-2" >
+              Dr Meehan is aways willing to sit down and help patients no matter
+              where they are. Fill out the form or call us at{" "}
+              <a className="font-weight-bold" href="tel:9186002240">918-600-2240</a>. This is your first step
+              to becoming the scientist of your own health.
+            </p>
+            <Visible xs sm>
+              <smallFormContainer>
+                <Form />
+              </smallFormContainer>
+            </Visible>
+            <h3 className="font-weight-semi-bold font-size-m m-b-half">
+              Why Meehan MD?
+            </h3>
+            <p className="m-b-2">
+              You will find no bigger advocate than Dr Meehan when it comes to
+              helping you taking back control of your health. He has dedicated
+              his life's work to taking helping inform you through free
+              resources. If you setup an appointment you will feel heard and
+              have a personalized health plan tailored to you.
+            </p>
+            <ReasonsSection>
+              <ReasonsItem>
+                <div>
+                  <CameraGradientSvg />
                 </div>
-                <div className="field">
-                  <label className="label" htmlFor={"name"}>
-                    Your name
-                  </label>
-                  <div className="control">
-                    <input
-                      className="input"
-                      type={"text"}
-                      name={"name"}
-                      onChange={this.handleChange}
-                      id={"name"}
-                      required={true}
-                    />
-                  </div>
+                <p>
+                  Accepting <br /> Telemed Patients
+                </p>
+              </ReasonsItem>
+              <ReasonsItem>
+                <div>
+                  <BookGradientSvg />
                 </div>
-                <div className="field">
-                  <label className="label" htmlFor={"email"}>
-                    Email
-                  </label>
-                  <div className="control">
-                    <input
-                      className="input"
-                      type={"email"}
-                      name={"email"}
-                      onChange={this.handleChange}
-                      id={"email"}
-                      required={true}
-                    />
-                  </div>
+                <p>
+                  Free Online <br /> Resources
+                </p>
+              </ReasonsItem>
+            </ReasonsSection>
+
+            <ReasonsSection>
+              <ReasonsItem>
+                <div>
+                  <BottleGradientSvg />
                 </div>
-                <div className="field">
-                  <label className="label" htmlFor={"phone"}>
-                    Phone (optional)
-                  </label>
-                  <div className="control">
-                    <input
-                      className="input"
-                      type={"phone"}
-                      name={"phone"}
-                      onChange={this.handleChange}
-                      id={"phone"}
-                      required={false}
-                    />
-                  </div>
+                <p>
+                  Holistic Medicine <br /> rooted in Science
+                </p>
+              </ReasonsItem>
+              <ReasonsItem>
+                <div>
+                  <WatchGradientSvg />
                 </div>
-                <div className="field">
-                  <label className="label" htmlFor={"message"}>
-                    Message
-                  </label>
-                  <div className="control">
-                  <textarea
-                    className="textarea"
-                    name={"message"}
-                    onChange={this.handleChange}
-                    id={"message"}
-                    required={true}
-                  />
-                  </div>
-                </div>
-                <div className="field m-b-1">
-                  <button className="btn" type="submit">
-                    Send
-                  </button>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-      </Layout>
-    );
-  }
-}
+                <p>
+                  Leveraging <br /> Technology
+                </p>
+              </ReasonsItem>
+            </ReasonsSection>
+
+          </Col>
+          <Visible md lg xl>
+            <Col xs={12} md={4} xl={5}>
+              <a href="tel:9186002240">
+                <h1 className="is-size-1 m-t-1 m-b-1 font-weight-bold">
+                  918-600-2240
+                </h1>
+              </a>
+              <Form />
+            </Col>
+          </Visible>
+        </Row>
+        <Row justify={{ md: "center" }} className='l-m-t-5'>
+          {talkingPoints.map((points)=>{
+            return <Col xs={12} md={3}><ContactTalkingPoints image={points.image} paragraph={points.paragraph} header={points.header}/></Col>
+          })}
+        </Row>
+      </Container>
+    </Layout>
+  );
+};
+
+export default Index;
