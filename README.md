@@ -8,6 +8,7 @@ This repo contains an example business website that is built with [Gatsby](https
 
 It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
 ## MeehanMD Customizations and learnings
+- CSS in this project it will remove any css that isn't being used. 
 - CSS Grid is awesome-styled-grid https://awesome-styled-grid.netlify.app/custom
 - CSS styled-components 
 - when logging into admin you have to have the siteUrl in the local storage set to https://meehanmd.netlify.app/ if you delete the item in storage it will ask you to input it again.
