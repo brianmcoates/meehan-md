@@ -33,42 +33,45 @@ const Index = props => {
     {
       image: <CameraGradientSvg />,
       paragraph:
-        "You are busy and life can get in the way of you being able to take control of your health. Thats why Dr. Meehan is available via telemedicine. Secure video messaging takes down one more barrier from you becoming the scientist of your own health.",
+        "You are busy, and life can get in the way of being able to take control of your health. That's why Dr. Meehan is available via telemedicine. Secure video messaging takes down one more barrier from you becoming the scientist of your own health. .",
       header: "We Come To You"
     },
     {
       image: <BookGradientSvg />,
       paragraph:
-        "Dr. Meehan has dedicated himself to resourcing you with the most scientifically sound medical information so that you can make the most informed decisions possible. He believes that this information shouldn’t be behind a pay wall but should be easily accessible to all.",
+        "Dr. Meehan has dedicated himself to resourcing you with the most scientifically sound medical information so you can make the most informed decisions possible. He believes this information should be easily accessible to all.",
       header: "Free Resources"
     },
     {
       image: <BottleGradientSvg />,
       paragraph:
-        "Dr. Meehan takes a holistic approach to medicine one that is deeply rooted in science. He believes whole heartedly in finding solutions that will bring healing without harming your body with harsh chemicals.",
+        "Dr. Meehan takes a holistic & deeply rooted-in-science approach to medicine. He wholeheartedly believes in finding solutions that will bring healing without harming your body with harsh chemicals and pharmaceuticals laden with side effects.",
       header: "Holistic Medicine"
     },
     {
       image: <WatchGradientSvg />,
       paragraph:
-        "Dr. Meehan enthusiastically embraces how we can leverage technology to become more in control of our own health.",
+        "Dr. Meehan enthusiastically embraces how we can leverage technology to become more in control of our own health & wellness. ",
       header: "Technology"
-    },
+    }
   ];
 
   return (
     <Layout>
       <Container>
         <Row>
-          <Col xs={12} md={4} xl={5} offset={{ xl:1}}>
+          <Col xs={12} md={4} xl={5} offset={{ xl: 1 }}>
             <h1 className="font-weight-black font-size-xl m-b-1 m-t-2">
-              You Have Questions Dr Meehan Has Answers
+              You Have Questions Dr. Meehan Has Answers
             </h1>
-            <p className="m-b-2" >
-              Dr Meehan is aways willing to sit down and help patients no matter
+            <p className="m-b-2">
+              Dr. Meehan is aways willing to help patients no matter
               where they are. Fill out the form or call us at{" "}
-              <a className="font-weight-bold" href="tel:9186002240">918-600-2240</a>. This is your first step
-              to becoming the scientist of your own health.
+              <a className="font-weight-bold" href="tel:9186002240">
+                918-600-2240
+              </a>
+              . This is your first step in becoming the scientist of your own
+              health.
             </p>
             <Visible xs sm>
               <smallFormContainer>
@@ -79,11 +82,12 @@ const Index = props => {
               Why Meehan MD?
             </h3>
             <p className="m-b-2">
-              You will find no bigger advocate than Dr Meehan when it comes to
-              helping you taking back control of your health. He has dedicated
-              his life's work to taking helping inform you through free
-              resources. If you setup an appointment you will feel heard and
-              have a personalized health plan tailored to you.
+              You will find no bigger advocate than Dr. Meehan when it comes to
+              helping you take back control of your health. He has dedicated his
+              life's work to encourage patients to learn & discover how to
+              become a scientist of their own health. Experience a consultation
+              where you will be heard and have a personalized health plan
+              tailored to you.
             </p>
             <ReasonsSection>
               <ReasonsItem>
@@ -110,7 +114,7 @@ const Index = props => {
                   <BottleGradientSvg />
                 </div>
                 <p>
-                  Holistic Medicine <br /> rooted in Science
+                  Holistic Medicine <br /> Rooted in Science
                 </p>
               </ReasonsItem>
               <ReasonsItem>
@@ -122,7 +126,6 @@ const Index = props => {
                 </p>
               </ReasonsItem>
             </ReasonsSection>
-
           </Col>
           <Visible md lg xl>
             <Col xs={12} md={4} xl={5}>
@@ -135,9 +138,17 @@ const Index = props => {
             </Col>
           </Visible>
         </Row>
-        <Row justify={{ md: "center" }} className='l-m-t-5'>
-          {talkingPoints.map((points)=>{
-            return <Col xs={12} md={3}><ContactTalkingPoints image={points.image} paragraph={points.paragraph} header={points.header}/></Col>
+        <Row justify={{ md: "center" }} className="l-m-t-5">
+          {talkingPoints.map(points => {
+            return (
+              <Col xs={12} md={3}>
+                <ContactTalkingPoints
+                  image={points.image}
+                  paragraph={points.paragraph}
+                  header={points.header}
+                />
+              </Col>
+            );
           })}
         </Row>
       </Container>
