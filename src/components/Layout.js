@@ -58,11 +58,11 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="https://meehanmd.com" />
         <meta
           property="og:image"
-          content={`${withPrefix}img/md-facebook.jpg`}
+          content='https://meehanmd.com/img/md-facebook.jpg'
         />
 
         <meta property="twitter:card" content="summary_large_image"/>
-        <meta property="twitter:image" content={`${withPrefix('/')}img/md-twitter.jpg`}/>
+        <meta property="twitter:image" content='https://meehanmd.com/img/md-twitter.jpg'/>
 
         <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5e6d0baec4717a00120d076a&product=inline-share-buttons' async='async'></script>
 
