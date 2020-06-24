@@ -10,7 +10,7 @@ import { ThemeProvider } from "styled-components";
 import { theme } from '../styles/theme'
 
 const TemplateWrapper = ({ children }) => {
-  const { title, description } = useSiteMetadata()
+  const { title, description, image, twitterImage, } = useSiteMetadata()
   useEffect(()=>{
     (function(h,o,t,j,a,r){
       h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -55,10 +55,10 @@ const TemplateWrapper = ({ children }) => {
         <meta name="theme-color" content="#fff" />
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
-        <meta property="og:url" content="/" />
+        <meta property="og:url" content="https://meehanmd.com" />
         <meta
           property="og:image"
-          content={`${withPrefix('/')}img/md-facebook.jpg`}
+          content={`${withPrefix}img/md-facebook.jpg`}
         />
 
         <meta property="twitter:card" content="summary_large_image"/>

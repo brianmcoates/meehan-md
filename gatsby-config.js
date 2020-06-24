@@ -3,6 +3,9 @@ module.exports = {
     title: 'MeehanMD',
     description:
       'Become the scientist of your own health',
+    url: 'https://meehanmd.com',
+    image: '/img/md-facebook.jpg',
+    twitterImage: '/img/md-twitter.jpg'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
