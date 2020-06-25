@@ -128,13 +128,9 @@ products:
   - heading: Bulletproof Collagen Protein Powder, Unflavored
     productImage: /img/bulletproof.jpg
     category: Nutrition
-    description: Bulletproof Collagen Protein Powder, Unflavored, Keto-Friendly,
-      Paleo, Grass-fed Collagen, Amino Acid Building Blocks for High Performance
-      (17.6 oz)
+    description: " "
     url: https://www.amazon.com/gp/product/B00R7FGIWK/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R7FGIWK&linkId=34de3caea79831075d7b8e8e8e54c8f8
-  - description: Bulletproof The Original Ground Coffee, Premium Medium Roast
-      Gourmet Organic Beans, Rainforest-Alliance, Perfect for Keto Diet,
-      Upgraded Clean Coffee (12 Ounces)
+  - description: " "
     productImage: /img/bp-coffee.jpg
     category: Nutrition
     url: https://www.amazon.com/gp/product/B00R7FG0DC/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R7FG0DC&linkId=b2210fb55dc4ae3137e16e6b83bc4ed3
@@ -145,11 +141,11 @@ products:
     heading: Twice Daily Multi™
     productImage: /img/twice-daily-multi.png
   - url: https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules
-    description: Vitamin D Complex 60 vegetarian capsules
+    description: " "
     heading: Vitamin D
     productImage: /img/vit-d.png
     category: Nutrition
-  - description: Stellar C™ 90 vegetarian capsules
+  - description: " "
     heading: Vitamin C
     category: Nutrition
     productImage: /img/vit-c.png
@@ -157,14 +153,8 @@ products:
   - url: https://meehanmd.ehealthpro.com/products/cocommune-40g-case-of-18-kit
     category: Nutrition
     productImage: /img/coco-bar.png
-    description: 1 case of 18 bars
+    description: " "
     heading: Cocommune™ Bar
-  - url: https://www.amazon.com/gp/product/B004N8TTBQ/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B004N8TTBQ&linkId=ef9e7bbde178b7196ebd70a16b843e6d
-    description: Nutrigold Food-Sourced Vitamin D3 5000 IU, 120 Capsules (Natural
-      Vitamin D from Lichen, Certified Vegan, Kosher, Non-GMO)
-    category: Nutrition
-    heading: Vitamin D
-    productImage: /img/vitmain-d.jpg
   - heading: Magnesium Malate
     description: " "
     productImage: /img/mag-mal.png
