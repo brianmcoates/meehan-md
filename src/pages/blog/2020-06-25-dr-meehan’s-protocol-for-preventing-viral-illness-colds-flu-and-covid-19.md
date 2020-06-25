@@ -3,13 +3,7 @@ templateKey: blog-post
 title: "Part 1 - Dr. Meehan’s Protocol for Preventing Viral Illness: Colds, Flu,
   and CoVID-19"
 date: 2020-06-17T21:43:47.371Z
-description: "Don’t wait until you are sick to support your immune system
-  against viral attacks. Bolster your defenses by ensuring your body has the
-  essential nutrients necessary for optimal immune function. The following
-  supplements are essential to supporting and strengthening the immune system
-  against viruses, including SARS CoV-2, the virus that causes CoVID-19. The
-  protocol is designed to work best when all the products are used together and
-  in the dose and frequency recommended. "
+description: " "
 featuredpost: true
 tags:
   - prevention
@@ -30,7 +24,7 @@ tags:
   - glutathione
   - supplements
 ---
-<!--StartFragment-->
+Don’t wait until you are sick to support your immune system against viral attacks. Bolster your defenses by ensuring your body has the essential nutrients necessary for optimal immune function. The following supplements are essential to supporting and strengthening the immune system against viruses, including SARS CoV-2, the virus that causes CoVID-19. The protocol is designed to work best when all the products are used together and in the dose and frequency recommended. 
 
 > Dr. Meehan researches, compares, selects, and recommends only perfectly formulated, best-in-class supplements for his personal use and patient protocols.
 >
