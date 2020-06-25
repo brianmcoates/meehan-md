@@ -137,7 +137,7 @@ products:
     heading: Bulletproof Ground Coffee
   - url: https://meehanmd.ehealthpro.com/products/twice-daily-multi-120-capsules
     category: Nutrition
-    description: Twice Daily Multi™ 120 vegetarian capsules
+    description: " "
     heading: Twice Daily Multi™
     productImage: /img/twice-daily-multi.png
   - url: https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules
