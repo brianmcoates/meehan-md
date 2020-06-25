@@ -95,16 +95,6 @@ products:
     category: Sleep
     description: " "
     url: https://www.amazon.com/gp/product/B07LB98V5X/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07LB98V5X&linkId=d7c2fdaa1094213f8446ab920c7dea41
-  - heading: Nidra Deep Sleep Mask
-    productImage: /img/sleep-mask-nidra.jpg
-    category: Sleep
-    description: " "
-    url: https://www.amazon.com/gp/product/B00M9BC1M8/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00M9BC1M8&linkId=b0c585d6d6688bb794c2b83c260e3147
-  - heading: Sheex Wicking Pillow Cases
-    productImage: /img/wicking-pillows.jpg
-    category: Sleep
-    description: " "
-    url: https://www.amazon.com/gp/product/B07259QYJ2/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07259QYJ2&linkId=80ff73b7e30dadb802dbb7ce3aa8407b
   - heading: Sheex Wicking Sheets
     productImage: /img/sheets.jpg
     category: Sleep
@@ -115,11 +105,6 @@ products:
     category: Sleep
     productImage: /img/cooling-pad.jpg
     heading: " Cooling Pad for Bed"
-  - url: https://www.amazon.com/gp/product/B008MVYL7C/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B008MVYL7C&linkId=10658abd9c9e1e6f94ff97bf69cc94e6
-    category: Sleep
-    description: 3M 1100 Foam Ear Plugs, 200-Pair
-    productImage: /img/ear-plugs.jpg
-    heading: Foam Ear Plugs
   - url: https://www.amazon.com/gp/product/B007MI13K4/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B007MI13K4&linkId=a90fe0a238d9418f7bfe48bbed9dfa1f
     description: " "
     category: Sleep
@@ -140,11 +125,6 @@ products:
     category: Sleep
     heading: Melatonin
     productImage: /img/melatonin.png
-  - heading: Lavender Essential Oil by Young Living
-    productImage: /img/lavender-oil.jpg
-    category: Sleep
-    description: " "
-    url: https://www.amazon.com/gp/product/B00P2OA77A/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00P2OA77A&linkId=5a15a412f63bfcecba47d192e9dd0b16
   - heading: Bulletproof Collagen Protein Powder, Unflavored
     productImage: /img/bulletproof.jpg
     category: Nutrition
@@ -197,26 +177,11 @@ products:
     category: Nutrition
     heading: Vitamin D
     productImage: /img/vitmain-d.jpg
-  - url: https://www.amazon.com/gp/product/B000GFSVS2/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000GFSVS2&linkId=f5d48ec913ec33e27db9b958474833e9
-    description: Source Naturals L-Tryptophan, 500 mg Mood, Relaxation, Sleep - 120 Capsules
-    category: Sleep
-    productImage: /img/l-tryptophan.jpg
-    heading: L-Tryptophan
-  - url: https://meehanmd.ehealthpro.com/products/magnesium-chelate-120-tablets
-    category: Sleep
-    productImage: /img/mag-chel.png
-    heading: Magnesium Chelate
-    description: Magnesium Chelate 120 tablets
   - heading: Magnesium Malate
     description: Magnesium Malate 240 vegetarian capsules
     productImage: /img/mag-mal.png
     category: Sleep
     url: https://meehanmd.ehealthpro.com/products/magnesium-malate-chelate-240-tablets
-  - url: https://www.amazon.com/gp/product/B00020I9SS/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00020I9SS&linkId=419652fc76ad1b01e9c9a0114ed61eea
-    category: Sleep
-    productImage: /img/ornithine.jpg
-    description: Solgar – L-Arginine/L-Ornithine 500/250 mg, 100 Vegetable Capsules
-    heading: Ornithine
   - url: https://www.amazon.com/gp/product/B00FVWR22Q/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00FVWR22Q&linkId=8096d5cf98c322329abc18a3c3296967
     category: Nutrition
     description: Udo's Choice Organic Omega 3-6-9 Oil Blend 32 Oz - Great Vegan
