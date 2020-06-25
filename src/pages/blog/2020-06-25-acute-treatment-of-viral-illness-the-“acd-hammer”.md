@@ -6,10 +6,32 @@ description: >
   Vitamins A, C, and D are the keys to supporting and strengthening your immune
   system against microbial pathogens.
 
-  Dr. Meehan’s protocol for viral Illnesses: colds, flu, and coronaviruses is intended for the acute treatment of any upper respiratory viral infection. At the first signs of symptoms, “hammer” the virus with at least 3 days of megadoses of the immune supporting vitamins A, C, and D. If you weren’t already supplementing according to the "Prevention Protocol" (link below), begin it immediately. 
+  Dr. Meehan’s protocol for viral Illnesses: colds, flu, and corona viruses is intended for the acute treatment of any upper respiratory viral infection. At the first signs of symptoms, “hammer” the virus with at least 3 days of megadoses of the immune supporting vitamins A, C, and D. If you weren’t already supplementing according to the "Prevention Protocol" (link below), begin it immediately. 
 featuredpost: true
 tags:
-  - "1"
+  - prevention
+  - corona
+  - corona virus
+  - covid
+  - covid19
+  - covid-19
+  - virus
+  - viral illness
+  - flu
+  - influenza
+  - common cold
+  - immune system
+  - SARS CoV-2
+  - vitamin C
+  - vitamin D
+  - vitamin A
+  - glutathione
+  - supplements
+  - hammer
+  - liposomal
+  - microbial pathogens
+  - strengthen immune system
+  - support immune system
 ---
 <!--StartFragment-->
 
@@ -59,7 +81,7 @@ Vitamin A is available in low-cost liquid formulations that can be easily admini
 
 ## Vitamin C 1-3 grams, every hour while awake, for 3 days
 
-### Adults
+#### Adults
 
 * Option 1: [C+BioFizz™ 144 g powder](https://meehanmd.ehealthpro.com/products/c-plus-bio-fizz-effervescent-144g-powder), start with a loading dose of 1.5 teaspoons (3.9 g vitamin C). Then take 3/4 teaspoon (2 g vitamin C) every hour while awake. Continue for 3 days. This formulation also includes the natural citrus fruit bioflavonoids quercetin (20 mg), hesperidin (20 mg) and rutin (10 mg).
 * Option 2: [Vitamin C Buffered Powder 240 g (8.5 oz)](https://meehanmd.ehealthpro.com/products/buffered-vitamin-c-powder-240g), start with an initial loading dose of 2 teaspoons (4 g vitamin C). Then take 1 teaspoon (2 g vitamin C) every hour while awake. Continue for 3 days.
@@ -72,7 +94,7 @@ When you hit “bowel tolerance,” back the dose down slightly. For example, if
 
 For best results and to prevent relapse, I recommend continuing the protocol for 1-2 days after you are feeling better.
 
-### Children
+#### Children
 
 For children, I recommend liposomal forms of vitamin C. Liposomal formulations absorb better. They can also be easily added to liquids or foods, which makes giving them to young children much easier. The amount of Vitamin C in most children’s multivitamins does not come close to dosing required to prevent or treat viral illnesses.
 
@@ -93,12 +115,12 @@ At the first signs of symptoms or concern that your child may have been exposed 
 
 ## Vitamin D3 (with K2) 10,000 IU, 5 times per day (50,000 IU per day), for 3 days
 
-### Adults
+#### Adults
 
 * [Vitamin D Ultra 10K 60 vegetarian capsules](https://meehanmd.ehealthpro.com/products/vitamin-d-ultra-10k-60-caps), 1 capsule, 5 times per day for 3 days. One capsule provides vitamin D3 (10,000 IU), vitamin K1 (200 mcg), and vitamin K2 as MK-7 (20 mcg).
 * The results are dramatic, with complete resolution of symptoms in 48 to 72 hours. Vitamin D dosed at these and even higher levels has been used safely and [shown to be safe](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4463890/#b8-0610507).
 
-### Children
+#### Children
 
 * [Liposomal D Supreme](https://meehanmd.ehealthpro.com/products/liposomal-d-supreme), Each 0.5 mL serving (1 pump) of this citrus flavored formula provides 2500 IU of vitamin D3 and 325 mcg of vitamin K as K1 and K2.
 * I recommend 50 IU's of vitamin D per pound of body weight.
@@ -107,7 +129,5 @@ At the first signs of symptoms or concern that your child may have been exposed 
 * Breastfeed if at all possible. Children are protected by antibodies and all the other immune elements that are found in mother’s breast milk.
 
 The cost of vitamin D is about a penny for 1000 IU, so this treatment costs less than a dollar.
-
-
 
 <!--EndFragment-->
