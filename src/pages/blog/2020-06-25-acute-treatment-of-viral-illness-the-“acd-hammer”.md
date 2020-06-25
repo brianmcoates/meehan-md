@@ -2,11 +2,7 @@
 templateKey: blog-post
 title: "Part 2 - Acute Treatment of Viral Illness: The “ACD Hammer”"
 date: 2020-06-17T21:44:41.161Z
-description: >
-  Vitamins A, C, and D are the keys to supporting and strengthening your immune
-  system against microbial pathogens.
-
-  Dr. Meehan’s protocol for viral Illnesses: colds, flu, and corona viruses is intended for the acute treatment of any upper respiratory viral infection. At the first signs of symptoms, “hammer” the virus with at least 3 days of megadoses of the immune supporting vitamins A, C, and D. If you weren’t already supplementing according to the "Prevention Protocol" (link below), begin it immediately. 
+description: "\ \n "
 featuredpost: true
 tags:
   - prevention
@@ -33,9 +29,10 @@ tags:
   - strengthen immune system
   - support immune system
 ---
-<!--StartFragment-->
+Vitamins A, C, and D are the keys to supporting and strengthening your immune system against microbial pathogens.
+Dr. Meehan’s protocol for viral Illnesses: colds, flu, and corona viruses is intended for the acute treatment of any upper respiratory viral infection. At the first signs of symptoms, “hammer” the virus with at least 3 days of megadoses of the immune supporting vitamins A, C, and D. If you weren’t already supplementing according to the <!--StartFragment-->**["Prevention Protocol,"](https://www.meehanmd.com/blog/2020-06-25-dr-meehan%E2%80%99s-protocol-for-preventing-viral-illness-colds-flu-and-covid-19/)**<!--EndFragment--> begin it immediately. 
 
-**[Part 1 - Dr. Meehan’s Protocol for Preventing Viral Illness: Colds, Flu, and CoVID-19](https://www.meehanmd.com/blog/2020-06-25-dr-meehan%E2%80%99s-protocol-for-preventing-viral-illness-colds-flu-and-covid-19/)**
+
 
 <!--EndFragment-->
 
