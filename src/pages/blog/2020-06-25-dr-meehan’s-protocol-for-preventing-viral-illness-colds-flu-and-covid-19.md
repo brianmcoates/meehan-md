@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
-title: "Dr. Meehan’s Protocol for Preventing Viral Illness: Colds, Flu, and CoVID-19"
+title: "Part 1 - Dr. Meehan’s Protocol for Preventing Viral Illness: Colds, Flu,
+  and CoVID-19"
 date: 2020-06-17T21:43:47.371Z
 description: "Don’t wait until you are sick to support your immune system
   against viral attacks. Bolster your defenses by ensuring your body has the
