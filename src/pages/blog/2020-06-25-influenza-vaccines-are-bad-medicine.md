@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Influenza vaccines are bad medicine
+title: Influenza Vaccines are Bad Medicine
 date: 2020-06-25T22:21:50.280Z
 description: " "
 featuredpost: false
