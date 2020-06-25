@@ -132,13 +132,6 @@ products:
       Paleo, Grass-fed Collagen, Amino Acid Building Blocks for High Performance
       (17.6 oz)
     url: https://www.amazon.com/gp/product/B00R7FGIWK/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R7FGIWK&linkId=34de3caea79831075d7b8e8e8e54c8f8
-  - url: https://www.amazon.com/gp/product/B0759X2RLL/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0759X2RLL&linkId=4647c14d9018ed528372e523453a9158
-    description: Bulletproof Collagen Peptides Protein Powder, Vanilla Flavored -
-      Hydrolyzed, Keto-Friendly for Ketogenic Diet, Grass-fed, Amino Acid
-      Building Blocks with XCT MCT Oil for High Performance (17.6 Ounces)
-    heading: Bulletproof Collagen Protein Powder, Vanilla Flavored
-    productImage: /img/vanilla-bp.jpg
-    category: Nutrition
   - description: Bulletproof The Original Ground Coffee, Premium Medium Roast
       Gourmet Organic Beans, Rainforest-Alliance, Perfect for Keto Diet,
       Upgraded Clean Coffee (12 Ounces)
@@ -161,11 +154,6 @@ products:
     category: Nutrition
     productImage: /img/vit-c.png
     url: https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules
-  - description: 1 case of 18 bars
-    url: https://meehanmd.ehealthpro.com/products/chocolate-mint-fiber-bar-case-of-18
-    category: Nutrition
-    heading: Chocolate Mint Fiber Bar
-    productImage: /img/mint-fiber-bar.png
   - url: https://meehanmd.ehealthpro.com/products/cocommune-40g-case-of-18-kit
     category: Nutrition
     productImage: /img/coco-bar.png
@@ -182,41 +170,4 @@ products:
     productImage: /img/mag-mal.png
     category: Sleep
     url: https://meehanmd.ehealthpro.com/products/magnesium-malate-chelate-240-tablets
-  - url: https://www.amazon.com/gp/product/B00FVWR22Q/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00FVWR22Q&linkId=8096d5cf98c322329abc18a3c3296967
-    category: Nutrition
-    description: Udo's Choice Organic Omega 3-6-9 Oil Blend 32 Oz - Great Vegan
-      Alternative To Fish Oil - Natural & Plant Based Unrefined Oil With Flax,
-      Evening Primrose, Coconut, Sunflower & More - Made In the USA
-    productImage: /img/uod-s-choice.jpg
-    heading: Vegan Fish Oil
-  - url: https://www.amazon.com/gp/product/B001LF39RO/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001LF39RO&linkId=17f286e3a63b35489cb69ca35a8d2ab4
-    category: Nutrition
-    productImage: /img/fish-oil.jpg
-    heading: Carlson's Fish Oil
-    description: Carlson - The Very Finest Fish Oil, 1600 mg Omega-3s, Liquid Fish
-      Oil Supplement, Norwegian Fish Oil, Wild-Caught, Sustainably Sourced Fish
-      Oil Liquid, Lemon, 16.9 Fl Oz
-  - heading: Vitamin C Chewables
-    productImage: /img/chewable-vit-c.jpg
-    category: Nutrition
-    url: https://www.amazon.com/gp/product/B005JN3R0I/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005JN3R0I&linkId=029c5675ffd4601ee2391dc48a5ab42c
-    description: Nature's Sunshine Chewable Vitamin C 250mg 90 Tablets
-  - url: https://www.amazon.com/gp/product/B0743JPDKN/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0743JPDKN&linkId=9ddb1dcd4e8e982c8b444e1901617d61
-    category: Nutrition
-    productImage: /img/lip-vit-c.jpg
-    heading: Liposomal Vitamin C
-    description: Quicksilver Scientific Liposomal Vitamin C - Potent Antioxidant
-      Formula, 1000mg Buffered Ascorbate Liquid with Phospholipids, Immune
-      System Support (4oz / 120ml)
-  - url: https://www.amazon.com/gp/product/B00280M12A/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00280M12A&linkId=ede3c13a4c1fdb2299c0bd8a935d8fd1
-    category: Nutrition
-    productImage: /img/b-vit.jpg
-    description: Garden of Life B Vitamin - Vitamin Code Raw B Complex Whole Food
-      Supplement, Vegan, 60 Capsules
-    heading: Vitamin Code Raw B Complex
-  - url: https://www.amazon.com/gp/product/B000Z8YM7O/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000Z8YM7O&linkId=368ade41f45bab3e5ed6f6052cb0fb77
-    category: Nutrition
-    productImage: /img/sodium-ascorbate.jpg
-    description: Nutribiotic Sodium Ascorbate Powder, 16 Ounce
-    heading: Sodium Ascorbate Powder
 ---
