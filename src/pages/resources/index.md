@@ -178,7 +178,7 @@ products:
     heading: Vitamin D
     productImage: /img/vitmain-d.jpg
   - heading: Magnesium Malate
-    description: Magnesium Malate 240 vegetarian capsules
+    description: " "
     productImage: /img/mag-mal.png
     category: Sleep
     url: https://meehanmd.ehealthpro.com/products/magnesium-malate-chelate-240-tablets
