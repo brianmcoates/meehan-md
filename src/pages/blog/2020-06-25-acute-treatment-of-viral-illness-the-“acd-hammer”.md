@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Acute Treatment of Viral Illness: The “ACD Hammer”"
+title: "Part 2 - Acute Treatment of Viral Illness: The “ACD Hammer”"
 date: 2020-06-17T21:44:41.161Z
 description: >
   Vitamins A, C, and D are the keys to supporting and strengthening your immune
