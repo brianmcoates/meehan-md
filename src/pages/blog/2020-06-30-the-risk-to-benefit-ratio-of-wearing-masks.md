@@ -60,3 +60,14 @@ You don't have to have an advanced degree in math or the sciences to understand 
 If you are vulnerable and worried, wash your hands frequently and stay six feet away from anyone you don't know or trust to be uninfected. The rest of us will do the only thing that has ever worked against pandemic diseases. We will bravely encounter the virus, allow our healthy immune systems to eradicate the virus, develop lifelong immunity, and allow ourselves to become contributors to herd immunity. We will protect those who cannot protect themselves.
 
 <!--EndFragment-->
+
+<!--StartFragment-->
+
+> Support your immune system!\
+> [https://meehanmd.ehealthpro.​com/](https://meehanmd.ehealthpro.com/)\
+> Shop for high quality supplements recommended by Dr. Meehan at a discount.\
+> Receive 15% OFF your first order:\
+> USE PROMO CODE: **FIRST15**\
+> Shipping is *FREE* on all orders and should arrive within 2-3 business days.
+
+<!--EndFragment-->
