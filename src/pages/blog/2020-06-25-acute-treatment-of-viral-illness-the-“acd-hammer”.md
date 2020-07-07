@@ -32,8 +32,6 @@ tags:
 Vitamins A, C, and D are the keys to supporting and strengthening your immune system against microbial pathogens.
 Dr. Meehan’s protocol for viral Illnesses: colds, flu, and corona viruses is intended for the acute treatment of any upper respiratory viral infection. At the first signs of symptoms, “hammer” the virus with at least 3 days of megadoses of the immune supporting vitamins A, C, and D. If you weren’t already supplementing according to the <!--StartFragment-->**["Prevention Protocol,"](https://www.meehanmd.com/blog/2020-06-25-dr-meehan%E2%80%99s-protocol-for-preventing-viral-illness-colds-flu-and-covid-19/)**<!--EndFragment--> begin it immediately. 
 
-
-
 <!--EndFragment-->
 
 <!--StartFragment-->
@@ -51,20 +49,9 @@ Dr. Meehan’s protocol for viral Illnesses: colds, flu, and corona viruses is i
 
 ## Vitamin A 50,000 IU, 4 times per day (200,000 IU per day), for 3 days
 
-## Vitamin C 1-3 grams, every hour while awake, for 3 days
+<!--StartFragment-->
 
-* Option 1: [C+BioFizz™ 144 g powder](https://meehanmd.ehealthpro.com/products/c-plus-bio-fizz-effervescent-144g-powder), start with a loading dose of 1.5 teaspoons (3.9 g vitamin C). Then take 3/4 teaspoon (2 g vitamin C) every hour while awake. Continue for 3 days. This formulation also includes the natural citrus fruit bioflavonoids quercetin (20 mg), hesperidin (20 mg) and rutin (10 mg).
-* Option 2: [Vitamin C Buffered Powder 240 g (8.5 oz)](https://meehanmd.ehealthpro.com/products/buffered-vitamin-c-powder-240g), start with an initial loading dose of 2 teaspoons (4 g vitamin C). Then take 1 teaspoon (2 g vitamin C) every hour while awake. Continue for 3 days.
-
-## Vitamin D3 (with K2) 10,000 IU, 5 times per day (50,000 IU per day), for 3 days
-
-* [Vitamin D Ultra 10K 60 vegetarian capsules](https://meehanmd.ehealthpro.com/products/vitamin-d-ultra-10k-60-caps), 1 capsule, 5 times per day for 3 days. One capsule provides vitamin D3 (10,000 IU), vitamin K1 (200 mcg), and vitamin K2 as MK-7 (20 mcg).
-
-<!--EndFragment--><!--StartFragment-->
-
-> # *The Rationale for the “ACD Hammer” Protocol*
-
-## Vitamin A 50,000 IU, 4 times per day (200,000 IU per day), for 3 days
+* [Vitamin A - Acnutrol™ capsules 180 vegetarian capsules](https://meehanmd.ehealthpro.com/products/acnutrol-capsules-180-ct)
 
 The rationale for vitamin A: Vitamin A is a necessary substrate for preserving epithelial cell integrity and in addition plays a role in immune modulation.
 
