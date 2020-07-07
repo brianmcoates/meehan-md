@@ -85,7 +85,7 @@ Start with 5,000 IU/day for two weeks, then reduce to 2,500. Check your blood le
 * Research suggests that like hydroxychloroquine, quercetin acts as a zinc ionophore to increase intracellular levels of zinc. Intracellular zinc inhibits viral polymerase and may inhibit viral replication in infected cells. Pairs perfectly with zinc.
 * Research suggests that nettle’s anti-inflammatory actions are attributed to its ability to interrupt the production and actions of inflammation-producing cytokines, prostaglandins and leukotrienes.
 
-## Zinc (50 mg), Selenium (100 mcg), and Copper ( 2mg) all in one formula
+## Zinc (50 mg), Selenium (100 mcg), and Copper (2mg) all in one formula
 
 * [Acnutrol™ capsules 180 vegetarian capsules](https://meehanmd.ehealthpro.com/products/acnutrol-capsules-180-ct), 2 capsules, 3 times per day (6 capsules per day).
 * Although this formulation is designed primarily for skin health, it contains ideal levels of the key minerals necessary for preventing viral illnesses: selenium, copper, and zinc. It also provides an additional 2000 IU of vitamin D.
