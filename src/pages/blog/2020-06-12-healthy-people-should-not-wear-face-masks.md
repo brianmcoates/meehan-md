@@ -317,7 +317,8 @@ Unless medical masks are worn and handled properly, with strict adherence to ste
 * Wear a mask if you are coughing or sneezing. Better yet, STAY HOME.
 * If you wear a mask, then you must know how to use it and dispose of it properly.
 * Mask type matters
-* * Medical grade surgical masks should be handled properly, never touched, and never reused
+
+  * Medical grade surgical masks should be handled properly, never touched, and never reused
   * Medical grade N95 masks/respirators work best
   * Cloth masks, bandannas, scarves, and homemade masks are useless and potentially worse than not wearing a mask
 
