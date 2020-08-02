@@ -26,7 +26,7 @@ tags:
   - treatment
   - ""
 ---
-Read the full article from which this information was taken at: <!--Star\\\*\\\*tFragment-->[COVID-19, PNEUMONIA & INFLAMMASOMES – THE MELATONIN CONNECTION](https://www.evolutamente.it/covid-19-pneumonia-inflammasomes-the-melatonin-connection/?fbclid=IwAR2SB90WZuel7rC7W9JPmlF5OrCItkxd6CZwILhdBLd_KQqFsfdv1tRnuks)\*\*<!--EndFragment-->
+Read the full article from which this information was taken at: <!--Star\\\\*\\\\*tFragment-->[COVID-19, PNEUMONIA & INFLAMMASOMES – THE MELATONIN CONNECTION](https://www.evolutamente.it/covid-19-pneumonia-inflammasomes-the-melatonin-connection/?fbclid=IwAR2SB90WZuel7rC7W9JPmlF5OrCItkxd6CZwILhdBLd_KQqFsfdv1tRnuks)\*\*<!--EndFragment-->
 
 I ([Jim Meehan](https://www.facebook.com/docmeehan?__tn__=%2CdK-R-R&eid=ARASc-kxFcyFaG9wfPjfCHgOVAYHLofUhhKyX35Pw2L4-Rqx5kdr6lddS5NO0Pm0V3WoAqIUS8cPMUQs&fref=mentions "Jim Meehan"), MD) have merely edited, organized, and added links and references to the Healthline article on nitric oxide. The credit for this work goes to <!--StartFragment-->[Doris Loh](https://www.evolutamente.it/category/doris-loh/?fbclid=IwAR3r1Kg6s5ucZzFd3M7z4ckn4ccLyzZ17x2WMOmJJwKE-4TCpD6Tl5EOA3o)<!--EndFragment--> and Healthline.
 
@@ -133,11 +133,11 @@ References:\
 * **[Melatonin](https://meehanmd.ehealthpro.com/products/melatonin-3mg-60-capsules)**
 * **[Zinc](https://meehanmd.ehealthpro.com/products/zinc-supreme-90-vegetarian-capsules)**
 
-
-
 > Support your immune system!\
 > [https://meehanmd.ehealthpro.​com/](https://meehanmd.ehealthpro.com/)\
 > Shop for high quality supplements recommended by Dr. Meehan at a discount.\
 > Receive 15% OFF your first order:\
 > USE PROMO CODE: **FIRST15**\
 > Shipping is *FREE* on all orders and should arrive within 2-3 business days.
+
+Disclaimer: You understand and acknowledge that all users of this website are responsible for their own medical care, treatment, and oversight. All of the content provided on the website, including text, treatments, dosages, outcomes, and advice, are for informational purposes only and does not constitute the providing of medical advice and is not intended to be a substitute for independent professional medical judgment, advice, diagnosis, or treatment.
