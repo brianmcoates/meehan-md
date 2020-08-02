@@ -99,6 +99,4 @@ Start with 5,000 IU/day for two weeks, then reduce to 2,500. Check your blood le
 * Zinc is THE number one supplement that you must take.
 * Zinc should be supplemented with copper in a ratio of 1 mg of copper for every 15 mg of zinc.
 
-**For prevention in children, contact Dr. Meehan ([Support@CatalystMD.com](mailto:Support@CatalystMD.com)) for specific recommendations based on the age and weight of your child.**
-
 <!--EndFragment-->
