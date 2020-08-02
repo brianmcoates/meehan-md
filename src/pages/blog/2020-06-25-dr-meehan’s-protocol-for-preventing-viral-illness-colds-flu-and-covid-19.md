@@ -100,3 +100,11 @@ Start with 5,000 IU/day for two weeks, then reduce to 2,500. Check your blood le
 * Zinc should be supplemented with copper in a ratio of 1 mg of copper for every 15 mg of zinc.
 
 <!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
+Disclaimer: You understand and acknowledge that all users of this website are responsible for their own medical care, treatment, and oversight. All of the content provided on the website, including text, treatments, dosages, outcomes, advice, are for informational purposes only and does not constitute the providing of medical advice and is not intended to be a substitute for independent professional medical judgment, advice, diagnosis, or treatment.
+
+<!--EndFragment-->
