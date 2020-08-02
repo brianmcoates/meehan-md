@@ -105,6 +105,10 @@ A growing body of Independent (unbiased) clinical research demonstrates that flu
 
 Furthermore, not only are they more likely to become infected, they also become more infectious when they do. A study of community spread of upper respiratory viral infections (influenza-like illness) found that flu vaccine recipients coughed, sneezed, and breathed 640% more infectious viral particles than individuals that did not receive the flu vaccine.\[R] Thus, you are 640% more likely to become infected by someone that was made more susceptible and more infectious simply because they made the mistake of getting the flu vaccine.
 
+<!--EndFragment-->
 
+<!--StartFragment-->
+
+Disclaimer: You understand and acknowledge that all users of this website are responsible for their own medical care, treatment, and oversight. All of the content provided on the website, including text, treatments, dosages, outcomes, and advice, are for informational purposes only and does not constitute the providing of medical advice and is not intended to be a substitute for independent professional medical judgment, advice, diagnosis, or treatment.
 
 <!--EndFragment-->
