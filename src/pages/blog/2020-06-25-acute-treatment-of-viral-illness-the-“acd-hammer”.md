@@ -114,4 +114,10 @@ At the first signs of symptoms or concern that your child may have been exposed 
 
 The cost of vitamin D is about a penny for 1000 IU, so this treatment costs less than a dollar.
 
+<!--StartFragment-->
+
+Disclaimer: You understand and acknowledge that all users of this website are responsible for their own medical care, treatment, and oversight. All of the content provided on the website, including text, treatments, dosages, outcomes, advice, are for informational purposes only and does not constitute the providing of medical advice and is not intended to be a substitute for independent professional medical judgment, advice, diagnosis, or treatment.
+
+<!--EndFragment-->
+
 <!--EndFragment-->
