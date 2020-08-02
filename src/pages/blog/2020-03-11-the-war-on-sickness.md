@@ -475,3 +475,11 @@ Start LL-37 at the first sign of any infection, 0.2-0.3 mL twice daily for 7-10 
 > Receive 15% OFF your first order:\
 > USE PROMO CODE: **FIRST15**\
 > Shipping is *FREE* on all orders and should arrive within 2-3 business days.
+
+
+
+<!--StartFragment-->
+
+Disclaimer: You understand and acknowledge that all users of this website are responsible for their own medical care, treatment, and oversight. All of the content provided on the website, including text, treatments, dosages, outcomes, and advice, are for informational purposes only and does not constitute the providing of medical advice and is not intended to be a substitute for independent professional medical judgment, advice, diagnosis, or treatment.
+
+<!--EndFragment-->
