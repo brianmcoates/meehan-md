@@ -68,8 +68,6 @@ DHEA did not establish scientific credibility until 1996, when the New York Acad
 
 <!--EndFragment-->
 
-
-
 ## Elderberry
 
 * Option 1: Elderberry Syrup, 15 mL, four times a day for 5 days
@@ -172,5 +170,11 @@ Don’t waste your money and risk your life on Tamiflu or drugs like it. Instead
 * [Olive Leaf Extract 90 vegetarian capsules](https://meehanmd.ehealthpro.com/products/olive-leaf-extract-500mg-90s), 500 mg, 1 capsule, 1-3 times per day.
 * Olive Leaf Extract contains significant quantities of phenolic compounds, such as oleuropein and hydroxytyrosol that have been shown to have antimicrobial properties, antioxidant power, and have the ability to support phagocytosis. It can also be used to support the health of the cardiovascular system.
 * Ancient Egyptians and Mediterranean cultures used it for a variety of health-promoting uses and it is widely known as a natural, non-toxic immune system builder.
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+Disclaimer: You understand and acknowledge that all users of this website are responsible for their own medical care, treatment, and oversight. All of the content provided on the website, including text, treatments, dosages, outcomes, advice, are for informational purposes only and does not constitute the providing of medical advice and is not intended to be a substitute for independent professional medical judgment, advice, diagnosis, or treatment.
 
 <!--EndFragment-->
