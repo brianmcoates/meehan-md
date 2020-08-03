@@ -29,3 +29,5 @@ tags:
   - pandemic
 ---
 Watch the interview here: **[Dr. Jim Meehan MD explains why wearing face masks can be deadly.](https://youtu.be/c4Hx5lntFwM)**
+
+**Update as of 8/3/2020: This video has been removed by Youtube due to censorship.**
