@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Why Tamiflu and Drugs Like It Are Bad Medicine for the Flu
-date: 2020-06-26T01:30:09.217Z
+date: 2020-04-26T01:30:00.000Z
 description: " "
 featuredpost: false
 tags:
@@ -27,8 +27,6 @@ Does paying more than one hundred dollars for a drug that provides negligible be
 
 Don’t waste your money and risk your life on Tamiflu or drugs like it. Instead, consider using garlic in combination with the many other evidence-based, safe, and effective recommendations that follow.
 
-
-
 <!--EndFragment--><!--StartFragment-->
 
 ### Garlic is less expensive, safer, and more effective than Tamiflu
@@ -43,8 +41,6 @@ The included study found that people who took garlic every day for three months 
 
 Those who consumed garlic daily for three months had fewer colds than those who took a placebo, and, when they did come down with a cold, the duration of illness was shorter. Thus, garlic is good medicine! In fact, it is far better, safer, and less expensive than the bad medicines bad doctors prescribe: neuraminidase inhibitors like Tamiflu.
 
-
-
 <!--EndFragment--><!--StartFragment-->
 
 ## Garlic
@@ -54,8 +50,6 @@ Those who consumed garlic daily for three months had fewer colds than those who 
 
 Garlic has long been hailed for its healing powers, especially against infectious diseases like cold and flu. This is likely due to its immune boosting effects. Fresh garlic is a potent antibacterial, antiviral and antifungal agent. But its therapeutic effects may go much further than that.
 
-
-
 <!--EndFragment--><!--StartFragment-->
 
 > Support your immune system!\
@@ -64,5 +58,3 @@ Garlic has long been hailed for its healing powers, especially against infectiou
 > Receive 15% OFF your first order:\
 > USE PROMO CODE: **FIRST15**\
 > Shipping is *FREE* on all orders and should arrive within 2-3 business days.
->
-> <!--EndFragment-->
