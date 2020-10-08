@@ -89,5 +89,75 @@ books:
     category: Misc
     url: https://www.amazon.com/gp/product/0061864285/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061864285&linkId=e9f2df608cc9cf79629ba11fbf579f15
     description: " "
-products: []
+products:
+  - heading: SleepScore Max Bedside Sleep Monitor
+    productImage: /img/sleepscore-max.jpg
+    category: Sleep
+    description: " "
+    url: https://www.amazon.com/gp/product/B07LB98V5X/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07LB98V5X&linkId=d7c2fdaa1094213f8446ab920c7dea41
+  - heading: Sheex Wicking Sheets
+    productImage: /img/sheets.jpg
+    category: Sleep
+    description: " "
+    url: https://www.amazon.com/gp/product/B072BQB66K/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072BQB66K&linkId=a2db7bd6cc10d02837ca0827823c4b65
+  - url: https://www.amazon.com/gp/product/B00MGN0FE0/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MGN0FE0&linkId=1a85a8fd8b712fb5bf7a486d3f50ba0a
+    description: " "
+    category: Sleep
+    productImage: /img/cooling-pad.jpg
+    heading: " Cooling Pad for Bed"
+  - url: https://www.amazon.com/gp/product/B007MI13K4/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B007MI13K4&linkId=a90fe0a238d9418f7bfe48bbed9dfa1f
+    description: " "
+    category: Sleep
+    heading: Buckwheat Pillow
+    productImage: /img/buckwheat.jpg
+  - heading: "Weighted Blanket: 5lbs - 30lbs"
+    url: https://www.amazon.com/gp/product/B075F9ST7G/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B075F9ST7G&linkId=0d4123318901c83dbbc61a433fa869a2
+    description: " "
+    category: Sleep
+    productImage: /img/weiughted-blanket.jpg
+  - url: https://meehanmd.ehealthpro.com/products/insomnitol-60-capsules
+    description: " "
+    category: Sleep
+    heading: Insomnitol™
+    productImage: /img/insomnitol.png
+  - url: https://meehanmd.ehealthpro.com/products/melatonin-3mg-60-capsules
+    description: " "
+    category: Sleep
+    heading: Melatonin
+    productImage: /img/melatonin.png
+  - heading: Bulletproof Collagen Protein Powder, Unflavored
+    productImage: /img/bulletproof.jpg
+    category: Nutrition
+    description: " "
+    url: https://www.amazon.com/gp/product/B00R7FGIWK/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R7FGIWK&linkId=34de3caea79831075d7b8e8e8e54c8f8
+  - description: " "
+    productImage: /img/bp-coffee.jpg
+    category: Nutrition
+    url: https://www.amazon.com/gp/product/B00R7FG0DC/ref=as_li_tl?ie=UTF8&tag=catalystmd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R7FG0DC&linkId=b2210fb55dc4ae3137e16e6b83bc4ed3
+    heading: Bulletproof Ground Coffee
+  - url: https://meehanmd.ehealthpro.com/products/twice-daily-multi-120-capsules
+    category: Nutrition
+    description: " "
+    heading: Twice Daily Multi™
+    productImage: /img/twice-daily-multi.png
+  - url: https://meehanmd.ehealthpro.com/products/vitamin-d-complex-60-capsules
+    description: " "
+    heading: Vitamin D
+    productImage: /img/vit-d.png
+    category: Nutrition
+  - description: " "
+    heading: Vitamin C
+    category: Nutrition
+    productImage: /img/vit-c.png
+    url: https://meehanmd.ehealthpro.com/products/stellar-c-90-vegetarian-capsules
+  - url: https://meehanmd.ehealthpro.com/products/cocommune-40g-case-of-18-kit
+    category: Nutrition
+    productImage: /img/coco-bar.png
+    description: " "
+    heading: Cocommune™ Bar
+  - heading: Magnesium Malate
+    description: " "
+    productImage: /img/mag-mal.png
+    category: Sleep
+    url: https://meehanmd.ehealthpro.com/products/magnesium-malate-chelate-240-tablets
 ---
