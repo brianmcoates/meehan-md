@@ -35,7 +35,7 @@ export const Announcement = () => {
         >
           Shop Now
         </a>
-        <p className='font-size-xxs gray-20 text-center'>Shipping is FREE on all orders and should arrive within 2-3 business days.</p>
+        <p className='font-size-xxs gray-20 text-center p-t-2'>*Shipping is FREE on all orders and should arrive within 2-3 business days.</p>
         <a className="close-modal" onClick={turnModalOff}>
           <svg
             xmlns="http://www.w3.org/2000/svg"

@@ -60,8 +60,8 @@ export const IndexPageTemplate = ({
     <section>
       <div className="container">
         <div className="section">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
+          <div className="columns is-centered">
+            <div className="column is-10">
               <div className="content">
                 <div className="content">
                   <div className="tile">
@@ -78,7 +78,23 @@ export const IndexPageTemplate = ({
                     </div>
                   </div>
                 </div>
-                <div className="columns">
+                <div className="columns is-centered m-t-6">
+                  <div className="column is-8-desktop">
+                    <h1 className="is-size-2 text-center full-width">Get monthly health and wellness newsletters in your inbox.</h1>
+                  </div>
+
+                </div>
+                <div className='columns'>
+                  <div className='column'>
+                    <p className="subtitle text-center">Enter your email to receive monthly Mindset Wellness tips, featured supplements, health coach advice, a special message from Dr. Meehan, patient testimonies, nutrition tips and more!</p>
+                  </div>
+                </div>
+                <div className="columns is-centered m-t-3">
+                  <div className="column is-12 is-8-desktop has-text-centered">
+                    <SubscribeForm/>
+                  </div>
+                </div>
+                <div className="columns m-t-3">
                   <div className="column is-12 text-center full-width">
                     <h3 className="has-text-weight-semibold is-size-2">
                       {heading}
@@ -88,7 +104,7 @@ export const IndexPageTemplate = ({
                 </div>
                 <Features gridItems={intro.blurbs} />
 
-                <div className="column is-12">
+                <div className="column is-12 m-t-6">
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
