@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Part 4 - Preventing Viral Illness: Mitigation Strategies"
 date: 2020-06-25T05:18:02.654Z
 description: " "
-featuredpost: true
+featuredpost: false
 tags:
   - prevention
   - corona
