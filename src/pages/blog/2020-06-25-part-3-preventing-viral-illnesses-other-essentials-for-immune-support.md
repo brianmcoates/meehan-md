@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Part 3 - Preventing Viral Illnesses: Other Essentials for Immune Support"
 date: 2020-06-17T21:57:06.054Z
 description: "  "
-featuredpost: true
+featuredpost: false
 tags:
   - prevention
   - corona
