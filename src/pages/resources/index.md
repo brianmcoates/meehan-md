@@ -5,7 +5,7 @@ image: /img/resource-hero-2.jpg
 heading: MeehanMD Recommendations
 description: Dr. Meehan has been helping patients take back control of their
   health for years. Here are Dr. Meehan's top book and product recommendations.
-introduction: Testing jim meehanmd introduction
+introduction: " "
 books:
   - heading: The Metabolic Blowtorch Diet
     productImage: /img/metabolic-blowtorch-diet.jpg
