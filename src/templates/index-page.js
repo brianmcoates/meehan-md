@@ -81,7 +81,7 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="columns is-centered m-t-6">
                   <div className="column is-8-desktop">
-                    <h1 className="is-size-2 text-center full-width">Get monthly health and wellness newsletters in your inbox.</h1>
+                    <h2 className="text-center full-width font-size-l font-weight-bold">Get monthly health and wellness newsletters in your inbox.</h2>
                   </div>
 
                 </div>
@@ -95,9 +95,9 @@ export const IndexPageTemplate = ({
                     <SubscribeForm/>
                   </div>
                 </div>
-                <div className="columns m-t-3">
+                <div className="columns m-t-1">
                   <div className="column is-12 text-center full-width">
-                    <h3 className="has-text-weight-semibold is-size-2">
+                    <h3 className="has-text-weight-semibold is-size-2 m-b-0">
                       {heading}
                     </h3>
                     <p>{description}</p>
