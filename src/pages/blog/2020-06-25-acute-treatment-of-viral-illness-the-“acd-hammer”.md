@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Part 2 - Acute Treatment of Viral Illness: The “ACD Hammer”"
 date: 2020-06-17T21:44:41.161Z
 description: "\ \n "
-featuredpost: true
+featuredpost: false
 tags:
   - prevention
   - corona

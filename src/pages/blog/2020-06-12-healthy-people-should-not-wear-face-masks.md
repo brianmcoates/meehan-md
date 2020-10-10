@@ -7,7 +7,7 @@ description: During the COVID-19 pandemic, public health experts began telling
   scientific, but actually had little or no support in the scientific
   literature. Community wearing of masks was one of the more dangerous
   recommendations from our confused public health experts.
-featuredpost: true
+featuredpost: false
 tags:
   - masks
   - CoVID-19
