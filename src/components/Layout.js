@@ -9,6 +9,16 @@ import { withPrefix } from 'gatsby'
 import { ThemeProvider } from "styled-components";
 import { theme } from '../styles/theme'
 
+const customConfig = {
+  columns: {
+    xs: 12,
+    sm: 12,
+    md: 12,
+    lg: 12,
+    xl: 12,
+  }
+};
+
 const TemplateWrapper = ({ children }) => {
   const { title, description, image, twitterImage, } = useSiteMetadata()
   useEffect(()=>{
@@ -23,7 +33,7 @@ const TemplateWrapper = ({ children }) => {
   }, []);
   
   return (
-    <ThemeProvider theme={theme}>
+    <ThemeProvider theme={{ theme, awesomegrid: customConfig }}>
       <Helmet>
         <html lang="en" />
         <title>{title}</title>
