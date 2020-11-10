@@ -60,7 +60,7 @@ const Index = props => {
     <Layout>
       <Container>
         <Row>
-          <Col xs={12} md={4} xl={5} offset={{ xl: 1 }}>
+          <Col xs={12} md={6} offset={{md: 1}}>
             <h1 className="font-weight-black font-size-xl m-b-1 m-t-2">
               You Have Questions Dr. Meehan Has Answers
             </h1>
@@ -128,9 +128,9 @@ const Index = props => {
             </ReasonsSection>
           </Col>
           <Visible md lg xl>
-            <Col xs={12} md={4} xl={5}>
+            <Col xs={12} md={4}>
               <a href="tel:9186002240">
-                <h1 className="is-size-1 m-t-1 m-b-1 font-weight-bold">
+                <h1 className="font-size-m m-t-4 m-b-1 font-weight-bold">
                   918-600-2240
                 </h1>
               </a>
@@ -141,7 +141,7 @@ const Index = props => {
         <Row justify={{ md: "center" }} className="l-m-t-5">
           {talkingPoints.map(points => {
             return (
-              <Col xs={12} md={3}>
+              <Col xs={12} md={5}>
                 <ContactTalkingPoints
                   image={points.image}
                   paragraph={points.paragraph}

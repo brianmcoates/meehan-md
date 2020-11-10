@@ -172,6 +172,10 @@ $menu-label-color: $white-ter
 
 @import "~bulma"
 
+p, li
+  font-size: 20px
+  line-height: 1.6
+
 .columns
   margin-left: 0
   margin-right: 0
@@ -218,6 +222,8 @@ $md-breakpoints: ("xs": 1px, "s": 768px, "m": 1024px, "l": 1440px, "xl": 1920px)
     padding-left: $rem-value
   .p-r-#{$rem-size}
     padding-right: $rem-value
+  .p-a-#{$rem-size}
+    padding: $rem-value
 
 
 @each $screen-size, $breakpoint in $md-breakpoints
@@ -273,9 +279,13 @@ $md-breakpoints: ("xs": 1px, "s": 768px, "m": 1024px, "l": 1440px, "xl": 1920px)
 // overrides
 .content
   h3:not(:first-child)
-    margin-top: 0
+    //margin-top: 0
+
   h2
-    margin-bottom: 0
+    //margin-bottom: 0
+
+  h1, h2, h3, h4
+    line-height: 1.4
 
 
 // utilities
@@ -411,6 +421,9 @@ $md-breakpoints: ("xs": 1px, "s": 768px, "m": 1024px, "l": 1440px, "xl": 1920px)
 
 .font-weight-black
   font-family: 'Proxima Nova Black', 'Helvetica'
+
+.color-white
+  color: $white
 
 .blog-list-item
   word-wrap: break-word

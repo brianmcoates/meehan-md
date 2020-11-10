@@ -36,18 +36,11 @@ export const IndexPageTemplate = ({
           flexDirection: 'column',
         }}
       >
-        <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
-          style={{
-            color: 'white',
-            lineHeight: '1',
-            textAlign: 'center',
-          }}
-        >
+        <h1 className="font-weight-bold font-size-xl color-white text-center">
           {title}
         </h1>
         <h3
-          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+          className="font-weight-semi-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             color: 'white',
             lineHeight: '1',
@@ -66,10 +59,10 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="content">
                   <div className="tile">
-                    <h1 className="is-size-2 text-center full-width">{mainpitch.title}</h1>
+                    <h1 className="font-size-l text-center full-width">{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
-                    <p className="subtitle text-center">{mainpitch.description}</p>
+                    <p className="text-center">{mainpitch.description}</p>
                   </div>
                   <div className="columns">
                     <div className="column is-12 has-text-centered">
@@ -87,7 +80,7 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className='columns'>
                   <div className='column'>
-                    <p className="subtitle text-center">Enter your email to receive monthly Mindset Wellness tips, featured supplements, health coach advice, a special message from Dr. Meehan, patient testimonies, nutrition tips and more!</p>
+                    <p className="text-center">Enter your email to receive monthly Mindset Wellness tips, featured supplements, health coach advice, a special message from Dr. Meehan, patient testimonies, nutrition tips and more!</p>
                   </div>
                 </div>
                 <div className="columns is-centered m-t-3">
