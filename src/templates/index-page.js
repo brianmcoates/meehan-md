@@ -55,7 +55,7 @@ export const IndexPageTemplate = ({
       <div className="container">
         <div className="section">
           <div className="columns is-centered">
-            <div className="column is-10">
+            <div className="column p-l-0 p-r-0 is-10">
               <div className="content">
                 <div className="content">
                   <div className="tile">
@@ -98,7 +98,7 @@ export const IndexPageTemplate = ({
                 </div>
                 <Features gridItems={intro.blurbs} />
 
-                <div className="column is-12 m-t-6">
+                <div className="column p-r-0 p-l-0 is-12 m-t-6">
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
