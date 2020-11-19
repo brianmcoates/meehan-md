@@ -149,7 +149,7 @@ The following is the Twitter post from Deborah Cohen, UK correspondent for BBC N
 
 Medically qualified, UK Correspondent [@BBCNewsnight](https://twitter.com/BBCNewsnight) | 2019 British Journalism Award winner
 
-“We had been told by various sources WHO committee reviewing the evidence had not backed masks but they recommended them due to political lobbying. This point was put to WHO who did not deny. We said some people think we should not wait for RCTs before putting policies in place”
+> “We had been told by various sources WHO committee reviewing the evidence had not backed masks but they recommended them due to political lobbying. This point was put to WHO who did not deny. We said some people think we should not wait for RCTs before putting policies in place”
 
 [4:25 AM · Jul 12, 2020](https://twitter.com/deb_cohen/status/1282244773030633473)
 
@@ -159,20 +159,23 @@ To clear up the confusion, I will argue that the scientific evidence not only do
 
 # The Evidence AGAINST Masks
 
-#### Big Data Analysis of 25 U.S. States and 23 Countries Concludes, “Neither [Lockdowns nor Mask Mandates Lead to Reduced COVID Transmission Rates or Deaths](https://www.aier.org/article/lockdowns-and-mask-mandates-do-not-lead-to-reduced-covid-transmission-rates-or-deaths-new-study-suggests/?fbclid=IwAR30AMux3969e6F9MOl0P_aurg3a_kCTbnNFVVup7BKOZP9Qjx67KreN788)”
+## Big Data Analysis of 25 U.S. States and 23 Countries Concludes, “Neither [Lockdowns nor Mask Mandates Lead to Reduced COVID Transmission Rates or Deaths](https://www.aier.org/article/lockdowns-and-mask-mandates-do-not-lead-to-reduced-covid-transmission-rates-or-deaths-new-study-suggests/?fbclid=IwAR30AMux3969e6F9MOl0P_aurg3a_kCTbnNFVVup7BKOZP9Qjx67KreN788)”
 
 A new [National Bureau of Economic Research (NBER) working paper](https://www.nber.org/papers/w27719.pdf) by Andrew Atkeson, Karen Kopecky, and Tao Zha focused on countries and U.S. states with more than 1,000 COVID deaths as of late July. **This analysis is the largest and most comprehensive analysis of the largest datasets to date**. In all, the study included **25 U.S. states and 23 countries.**
 
 > The paper’s conclusion is that the data trends indicate that **nonpharmaceutical interventions (NPIs) – such as lockdowns, closures, travel restrictions, stay-home orders, event bans, quarantines, curfews, and mask mandates – do not seem to affect virus transmission rates overall.**
 
-### Systemic Reviews and Meta-Analysis of Multiple Randomized Controlled Trials Concludes that Face Masks Fail to Prevent Transmission of Viral Respiratory Pathogens
+## Systemic Reviews and Meta-Analysis of Multiple Randomized Controlled Trials Concludes that Face Masks Fail to Prevent Transmission of Viral Respiratory Pathogens
 
 One of the largest and highest level of evidence studies on the effectiveness of face masks on the transmission of respiratory viruses, which was recently released by the CDC, is Jingyi Xiao, et al., Nonpharmaceutical Measures for Pandemic Influenza in Nonhealthcare Settings— Personal Protective and Environmental Measures, Emerging Infectious Diseases, Vol. 26, No. 5, (May 2020). <https://wwwnc.cdc.gov/eid/article/26/5/19-0994_article>
 
-> * This CDC meta-analysis found that face masks failed to provide a significant reduction to virus transmission.
-> * “In our systematic review, we identified 10 \[Randomly Controlled Trials] that reported estimates of the effectiveness of face masks in reducing laboratory-confirmed influenza virus infections in the community from literature published during 1946–July 27, 2018. In pooled analysis, we found no significant reduction in influenza transmission with the use of face masks.”
-> * **There is limited evidence for their effectiveness in preventing influenza virus transmission either when worn by the infected person for source control or when worn by uninfected persons to reduce exposure.**
-> * **Our systematic review found no significant effect of face masks on transmission of laboratory-confirmed influenza.**
+> This CDC meta-analysis found that face masks failed to provide a significant reduction to virus transmission.
+>
+> “In our systematic review, we identified 10 \[Randomly Controlled Trials] that reported estimates of the effectiveness of face masks in reducing laboratory-confirmed influenza virus infections in the community from literature published during 1946–July 27, 2018. In pooled analysis, we found no significant reduction in influenza transmission with the use of face masks.”
+>
+> **There is limited evidence for their effectiveness in preventing influenza virus transmission either when worn by the infected person for source control or when worn by uninfected persons to reduce exposure.**
+>
+> **Our systematic review found no significant effect of face masks on transmission of laboratory-confirmed influenza.**
 
 Mandates for children to wear face masks fails even a rational basis test, and is clearly not in a child's best interest, when assessed through a factual, evidence-based analysis, rather than a fear-based lens. It is simply not rational to believe that face masks will be properly and studiously worn by young children for up to ten hours in a school day.
 
@@ -180,7 +183,7 @@ In fact, the overwhelming weight of scientific literature to date establishes th
 
 * Radonovich, L.J. et al., N95 Respirators vs Medical Masks for Preventing Influenza Among Health Care Personnel: A Randomized Clinical Trial, JAMA. 2019; 322(9): 824–833. doi:10.1001/jama.2019.11645, 2019. <https://jamanetwork.com/journals/jama/fullarticle/2749214>
 
-  * “Among 2862 randomized participants, 2371 completed the study and accounted for 5180 HCW-seasons. … Among outpatient health care personnel, N95 respirators vs medical masks as worn by participants in this trial resulted in no significant difference in the incidence of laboratory-confirmed influenza.”;
+  > “Among 2862 randomized participants, 2371 completed the study and accounted for 5180 HCW-seasons. … Among outpatient health care personnel, N95 respirators vs medical masks as worn by participants in this trial resulted in no significant difference in the incidence of laboratory-confirmed influenza.”
 * Long, Y. et al., Effectiveness of N95 respirators versus surgical masks against influenza: A systematic review and meta‐analysis, J Evid Based Med. 2020; 1‐ 9. <https://doi.org/10.1111/jebm.12381>
 
   * A total of six \[Randomized Controlled Trials] involving 9171 participants were included.
@@ -196,49 +199,124 @@ In fact, the overwhelming weight of scientific literature to date establishes th
 * Dr. Russell Blaylock, a nationally recognized board-certified neurosurgeon, health practitioner, author, and lecturer warns that not only do face masks fail to protect the healthy from getting sick, but they also create serious health risks to the wearer.
 
   * Dr. Russell Blaylock, Blaylock: Face Masks Pose Serious Risks To The Healthy, Technocracy News & Trends, (posted May 11, 2020). <https://www.technocracy.news/blaylock-face-masks-pose-serious-risks-to-the-healthy/>
-  * \[Recent studies] found that about a third of the \[healthcare] workers developed headaches with use of the mask, most had preexisting headaches that were worsened by the mask wearing, and 60% required pain medications for relief. As to the cause of the headaches, while straps and pressure from the mask could be causative, the bulk of the evidence points toward hypoxia and/or hypercapnia as the cause. That is, a reduction in blood oxygenation (hypoxia) or an elevation in blood C02 (hypercapnia).
-  * It is known that the N95 mask, if worn for hours, can reduce blood oxygenation as much as 20%, which can lead to a loss of consciousness.
-  * The importance of these findings is that a drop in oxygen levels (hypoxia) is associated with an impairment in immunity. Studies have shown that hypoxia can inhibit the type of main immune cells used to fight viral infections called the CD4+ T-lymphocyte.
-  * This occurs because the hypoxia increases the level of a compound called hypoxia inducible factor-1 (HIF-1), which inhibits T-lymphocytes and stimulates a powerful immune inhibitor cell called the Tregs.
-  * This sets the stage for contracting any infection, including COVID-19 and making the consequences of that infection much graver. In essence, your mask may very well put you at an increased risk of infections and if so, having a much worse outcome. Id.
+
+  > \[Recent studies] found that about a third of the \[healthcare] workers developed headaches with use of the mask, most had preexisting headaches that were worsened by the mask wearing, and 60% required pain medications for relief. As to the cause of the headaches, while straps and pressure from the mask could be causative, the bulk of the evidence points toward hypoxia and/or hypercapnia as the cause. That is, a reduction in blood oxygenation (hypoxia) or an elevation in blood C02 (hypercapnia).
+  >
+  > It is known that the N95 mask, if worn for hours, can reduce blood oxygenation as much as 20%, which can lead to a loss of consciousness.
+  >
+  > The importance of these findings is that a drop in oxygen levels (hypoxia) is associated with an impairment in immunity. Studies have shown that hypoxia can inhibit the type of main immune cells used to fight viral infections called the CD4+ T-lymphocyte.
+  >
+  > This occurs because the hypoxia increases the level of a compound called hypoxia inducible factor-1 (HIF-1), which inhibits T-lymphocytes and stimulates a powerful immune inhibitor cell called the Tregs.
+  >
+  > This sets the stage for contracting any infection, including COVID-19 and making the consequences of that infection much graver. In essence, your mask may very well put you at an increased risk of infections and if so, having a much worse outcome.
 * See also Denis G. Rancourt, PhD, Masks Don't Work: A review of science relevant to COVID-19 social policy, Ontario Civil Liberties Association, April 11, 2020. <https://www.researchgate.net/publication/340570735>
 
-  > * **There have been extensive randomized controlled trial (RCT) studies, and meta-analysis reviews of RCT studies, which all show that masks and respirators do not work to prevent respiratory influenza-like illnesses, or respiratory illnesses believed to be transmitted by droplets and aerosol particles.**
-  > * **Furthermore, the relevant known physics and biology, which I review, are such that masks and respirators should not work. It would be a paradox if masks and respirators worked, given what we know about viral respiratory diseases: The main transmission path is long residence-time aerosol particles (< 2.5 µm), which are too fine to be blocked, and the minimum-infective-dose is smaller than one aerosol particle.**
+  > **There have been extensive randomized controlled trial (RCT) studies, and meta-analysis reviews of RCT studies, which all show that masks and respirators do not work to prevent respiratory influenza-like illnesses, or respiratory illnesses believed to be transmitted by droplets and aerosol particles.**
+  >
+  > **Furthermore, the relevant known physics and biology, which I review, are such that masks and respirators should not work. It would be a paradox if masks and respirators worked, given what we know about viral respiratory diseases: The main transmission path is long residence-time aerosol particles (< 2.5 µm), which are too fine to be blocked, and the minimum-infective-dose is smaller than one aerosol particle.**
 * Jacobs, J. L. et al. (2009) Use of surgical face masks to reduce the incidence of the common cold among health care workers in Japan: A randomized controlled trial, American Journal of Infection Control, Volume 37, Issue 5, 417 – 419 <https://www.ncbi.nlm.nih.gov/pubmed/19216002>
 
-  * “N95-masked health-care workers (HCW) were significantly more likely to experience headaches.”
-  * “Face mask use in HCW was not demonstrated to provide benefit in terms of cold symptoms or getting colds.”
+  > “N95-masked health-care workers (HCW) were significantly more likely to experience headaches.”
+  >
+  > “Face mask use in HCW was not demonstrated to provide benefit in terms of cold symptoms or getting colds.”
 * Cowling, B. et al., Face masks to prevent transmission of influenza virus: A systematic review, Epidemiology and Infection, 138(4), 449-456. doi:10.1017/S0950268809991658 2010. https://www.cambridge.org/core/journals/epidemiology-and-infection/article/face-masks-to prevent-transmission-of-influenza-virus-a-systematic
 
-  * “None of the studies reviewed showed a benefit from wearing a mask, in either \[Health Care Workers] or community members in households . . . .”
+  > “None of the studies reviewed showed a benefit from wearing a mask, in either \[Health Care Workers] or community members in households...”
 * bin-Reza et al., The use of masks and respirators to prevent transmission of influenza: a systematic review of the scientific evidence, Influenza and Other Respiratory Viruses 6(4), 257–267, 2012. <https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1750-2659.2011.00307.x>
 
-  * “There were 17 eligible studies. … None of the studies established a conclusive relationship between mask ⁄ respirator use and protection against influenza infection.”
+  > “There were 17 eligible studies. … None of the studies established a conclusive relationship between mask ⁄ respirator use and protection against influenza infection.”
 * Offeddu, V. et al., Effectiveness of Masks and Respirators Against Respiratory Infections in Healthcare Workers: A Systematic Review and Meta-Analysis, Clinical Infectious Diseases, Volume 65, Issue 11, 1 December 2017, Pages 1934–1942. <https://doi.org/10.1093/cid/cix681>
 
-  * “Self-reported assessment of clinical outcomes was prone to bias. Evidence of a protective effect of masks or respirators against verified respiratory infection (VRI) was not statistically significant”
+  > "Self-reported assessment of clinical outcomes was prone to bias. Evidence of a protective effect of masks or respirators against verified respiratory infection (VRI) was not statistically significant."
 
 In fact, many physicians and researchers now believe that, because the ineffectiveness of face masks in stemming the spread of Covid-19 is so widely known and acknowledged in the scientific and medical communities, the goal of widespread mask mandates is based entirely on low-level observational studies, speculative mechanistic studies, fear, and politics, not science.
 
 * See Michael Klompas, M.D., M.P.H., et. al., Universal Masking in Hospitals in the Covid-19 Era, New England Journal of Medicine, N Engl J Med 2020; 382:e63 (May 21, 2020). <https://www.nejm.org/doi/full/10.1056/NEJMp2006372>
 
-  * We know that wearing a mask outside health care facilities offers little, if any, protection from infection. . . It is also clear that masks serve symbolic roles. Masks are not only tools, they are also talismans that may help increase health care workers’ perceived sense of safety, well being, and trust in their hospitals. Although such reactions may not be strictly logical, we are all subject to fear and anxiety, especially during times of crisis. One might argue that fear and anxiety are better countered with data and education than with a marginally beneficial mask.
-* See also Lisa M Brosseau, ScD, Margaret Sietsema, PhD, COMMENTARY: Masks-for-all for COVID-19 not based on sound data, Center for Infectious Disease Research and Policy, University of Minnesota, April 1, 2020. https://www.cidrap.umn.edu/news-perspective/2020/04/commentary-masks-all-covid-19-not based-sound-data
+  > "We know that wearing a mask outside health care facilities offers little, if any, protection from infection. . . It is also clear that masks serve symbolic roles. Masks are not only tools, they are also talismans that may help increase health care workers’ perceived sense of safety, well being, and trust in their hospitals. Although such reactions may not be strictly logical, we are all subject to fear and anxiety, especially during times of crisis. One might argue that fear and anxiety are better countered with data and education than with a marginally beneficial mask."
+* Lisa M Brosseau, ScD, Margaret Sietsema, PhD, COMMENTARY: Masks-for-all for COVID-19 not based on sound data, Center for Infectious Disease Research and Policy, University of Minnesota, April 1, 2020. https://www.cidrap.umn.edu/news-perspective/2020/04/commentary-masks-all-covid-19-not based-sound-data
 
-  * Dr. Brosseau is a national expert on respiratory protection and infectious diseases and professor (retired), University of Illinois at Chicago. Dr. Sietsema is also an expert on respiratory protection and an assistant professor at the University of Illinois at Chicago. They made the following key points in their commentary:
+  Dr. Brosseau is a national expert on respiratory protection and infectious diseases and professor (retired), University of Illinois at Chicago. Dr. Sietsema is also an expert on respiratory protection and an assistant professor at the University of Illinois at Chicago. They made the following key points in their commentary: 
 
-“We do not recommend requiring the general public who do not have symptoms of COVID-19-like illness to routinely wear cloth or surgical masks because:
+  > "We do not recommend requiring the general public who do not have symptoms of COVID-19-like illness to routinely wear cloth or surgical masks because: 
+  >
+  > There is no scientific evidence they are effective in reducing the risk of SARS-CoV-2 transmission. 
+  >
+  > Their use may result in those wearing the masks to relax other distancing efforts because they have a sense of protection. 
+  >
+  > We need to preserve the supply of surgical masks for at-risk healthcare workers."
 
-* There is no scientific evidence they are effective in reducing the risk of SARS-CoV-2 transmission.
-* Their use may result in those wearing the masks to relax other distancing efforts because they have a sense of protection.
-* We need to preserve the supply of surgical masks for at-risk healthcare workers.
+In an August 2020 article, Denis G. Rancourt, PhD, a Researcher, Ontario Civil Liberties Association, debunks supposed “studies” purporting to support compelled face mask use for the general population.
+
+* See Rancourt, Face masks, lies, damn lies, and public health officials: “A growing body of evidence” August 2020. https://www.researchgate.net/publication/343399832_Face_masks_lies_damn_lies_and_public_hea lth_officials_A_growing_body_of_evidence
+
+  > “\[T]here is no policy-grade evidence to support forced masking on the general population, . . . all the latest-decade’s policy-grade evidence points to the opposite: NOT recommending forced masking of the general population.”);
+  >
+  > No \[randomized controlled trial] study with verified outcome shows a benefit for \[health-care workers] or community members in households to wearing a mask or respirator. There is no such study. There are no exceptions. Likewise, no study exists that shows a benefit from a broad policy to wear masks in public (more on this below).
+  >
+  > Furthermore, if there were any benefit to wearing a mask, because of the blocking power against droplets and aerosol particles, then there should be more benefit from wearing a respirator (N95) compared to a surgical mask, yet several large meta-analyses, and all the RCT, prove that there is no such relative benefit.
+  >
+  > **Masks and respirators do not work**. (emphasis added);
+* Denis G. Rancourt, PhD, Masks Don’t Work: A Review of Science Relevant to COVID-19 Social Policy, River Cities Reader, June 11, 2020. https://www.rcreader.com/commentary/masks-dont-work-covid-a-review-of-science-relevant-to covide-19-social-policy
+* see also, Todd McGreevy, Still No Conclusive Evidence Justifying Mandatory Masks, River Cities Reader, August 12, 2020. <https://www.rcreader.com/commentary/still-no-conclusive-evidence-justifying-mandatory-masks>
 
 Sweeping mask recommendations—as many have proposed—will not reduce SARS-CoV-2 transmission, as evidenced by the widespread practice of wearing such masks in Hubei province, China, before and during its mass COVID-19 transmission experience earlier this year.
 
 Our review of relevant studies indicates that cloth masks will be ineffective at preventing SARS-CoV-2 transmission, whether worn as source control or as PPE.
 
-### Masks as means of “Source Control” - No, My Mask Does Not Protect You From Me
+## Cloth Masks are Ineffective and May Increase the Risk of Transmission
+
+Cloth masks are absolutely ineffective. Worst yet, they may increase the incidence of disease in wearers and the population.
+
+Despite the high-level scientific evidence against cloth masks, the CDC made the inexcusable mistake of telling us cloth masks worked. They even provided directions on their website for making homemade cloth masks.
+
+A July 2020 review by the University of Oxford, Centre for Evidence-Based Medicine **found that there is no evidence that cloth masks are at all effective against virus infection or transmission.**
+
+* Jefferson, Tom & Heneghan, Carl, Masking lack of evidence with politics, Centre for Evidence-Based Medicine, July 23, 2020. <https://www.cebm.net/covid-19/masking-lack-of-evidence-with-politics/>
+
+A July 2020 study by Japanese researchers found that cloth masks “offer zero protection against coronavirus.”
+
+* Naoya Kon, Cloth face masks offer zero shield against virus, a study shows, The Asahi Shimbun, study by Kazunari Onishi. <http://www.asahi.com/ajw/articles/13523664>
+
+  * “This experiment reconfirmed that wearing cloth and gauze masks can’t prevent virus infection.”
+
+### Duke Scientists reveal that cloth masks increase aerosolization of viral particles
+
+Duke scientists tested a variety of masks and found that cloth masks, "...seemed to disperse the largest droplets into a multitude of smaller droplets (see fig. S5), which explains the apparent increase in droplet count relative to no mask in that case. Considering that smaller particles are airborne longer than large droplets (larger droplets sink faster), the use of such a mask might be counterproductive."\[1]
+
+> Neck fleeces, also called gaiter masks and often used by runners, were the least effective. In fact, **wearing a fleece mask resulted in a higher number of respiratory droplets because the material seemed to break down large respiratory droplets into small droplet nuclei that aerosalize, remain suspended in the air for hours, and are capable of traveling large distances with movements of the air.**
+
+Folded bandanas and knitted masks also performed poorly and did not offer much protection.
+
+> **We were extremely surprised to find that the number of particles measured with the fleece actually exceeded the number of particles measured without wearing any mask,' Fischer said.**\[2]
+
+### The Duke findings add to what we have known since the 2015: cloth masks don't work
+
+In 2015, the first randomized controlled trial of cloth mask usage among 1607 hospital healthcare workers, demonstrated that cloth masks not only don't work, but they were also associated with large amounts of adverse events, and "...resulted in significantly higher rates of infection than medical masks, and also performed worse than the control arm."\[3]
+
+> "Adverse events associated with facemask use were reported in 40.4% (227/562) of HCWs in the medical mask arm and 42.6% (242/568) in the cloth mask arm (p value 0.450). General discomfort (35.1%, 397/1130) and breathing problems (18.3%, 207/1130) were the most frequently reported adverse events."\[3]
+>
+> "Laboratory tests showed the penetration of particles through the cloth masks to be very high (97%) compared with medical masks (44%) (used in trial) and 3M 9320 N95 (<0.01%), 3M Vflex 9105 N95 (0.1%)."\[3]
+>
+> "Conclusions: This study is the first RCT of cloth masks, and the results caution against the use of cloth masks. This is an important finding to inform occupational health and safety. Moisture retention, reuse of cloth masks and poor filtration may result in increased risk of infection. Further research is needed to inform the widespread use of cloth masks globally. However, as a precautionary measure, cloth masks should not be recommended for HCWs, particularly in high-risk situations, and guidelines need to be updated."\[3]
+>
+> "This is an important finding to inform occupational health and safety. Moisture retention, reuse of cloth masks and poor filtration may result in increased risk of infection.”\[3]
+
+Let me put a fine point on all of the science that the CDC, et al, knew (or should have known) before they recommended the population do something that was likely to increase viral infection and transmission: THE ONLY THING CLOTH MASKS ARE GOOD FOR IS MAKING PEOPLE SICK.
+
+How could Fauci, Birx, Redfield, the CDC, and the WHO be so egregiously inept and blatantly ignorant of the established science that they would dangerously recommend universal masking?! 
+
+References:
+
+\[1] Low-cost measurement of face mask efficacy for filtering expelled droplets during speech. [https://advances.sciencemag.org/content/6/36/eabd3083](https://advances.sciencemag.org/content/6/36/eabd3083?fbclid=IwAR0TPVlflF_sUEiSdad6oM1NVQGO5w2S7WfstCIKaIJ15JJaKaDMzBkD5YY)
+
+\[2] Researchers created a test to determine which masks are the least effective. [https://www.cnn.com/.../duke-university-face.../index.html](https://www.cnn.com/2020/08/08/us/duke-university-face-mask-test-trnd/index.html?fbclid=IwAR0r9kn9oS0L7LzF7ez_tdt_h3rpOgF8-JAdLBZ18IFur_VK4LKTRTJAr4M)
+
+\[3] MacIntyre CR, Seale H, Dung TC, et al., A cluster randomised trial of cloth masks compared with medical masks in healthcare workers, BMJ Open 2015; 5: e006577, US National Library of Medicine, National Institutes of Health, doi: 10.1136/bmjopen-2014-006577, April 22, 2015. [](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4420971/pdf/bmjopen-2014-006577.pdf?fbclid=IwAR2sByoFKFpeXeyfmBKxv6K-jaeLeRFfHpsjnpXpR_JifCXJqPSTaOA3m6c) <https://www.ncbi.nlm.nih.gov/.../pdf/bmjopen-2014-006577.pdf>
+
+\[4] Masks Masquerading as Science. <https://threadreaderapp.com/thread/1320032362550464516.html?fbclid=IwAR1NNRY3l1jQr5mkhoAmUQ1Z32lg5-WtDRGkzqMmDuhmzOHKwvrPbMw0nwc>
+
+## Masks as means of “Source Control” - No, My Mask Does Not Protect You From Me
 
 The public is being repeatedly misinformed by catchy (guilt and fear based) marketing messages designed to promote the social responsibility (or guilt) to wear masks as a form of source control: “I wear my mask for you and you wear your mask for me.”
 
@@ -287,66 +365,48 @@ Many surgeons are surprised to learn that when surgical masks are put to the tes
 * In 2014, the Cochrane Collaboration “Wounds Group” reviewed all research related to the topic of effectiveness of face masks for preventing surgical wound infections.
 
   * Lipp, A. and Edwards, P., Disposable surgical face masks for preventing surgical wound infection in clean surgery (Review), Cochrane Database of Systematic Reviews 2014, Issue 2. Art. No.: CD002929. <https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002929.pub2/epdf/full>
-  * “Three \[randomized controlled] trials were included, involving a total of 2113 \[surgical team] participants. There was no statistically significant difference in infection rates between the masked and unmasked group in any of the trials.”
+
+  > “Three \[randomized controlled] trials were included, involving a total of 2113 \[surgical team] participants. There was no statistically significant difference in infection rates between the masked and unmasked group in any of the trials.”
 * In 2016, the Cochrane Collaboration “Wounds Group” revisited the topic of effectiveness of face masks for preventing surgical wound infections again in 2016. In this updated review they added any new studies on the topic that entered the literature since their 2014 review (above).
 
   * Vincent, M. & Edwards, P., Disposable surgical face masks for preventing surgical wound infection in clean surgery, Cochrane Database of Systematic Reviews 2016, Issue 4, Art. No.: CD002929. <https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002929.pub3/epdf/full>
-  * “Overall, we found very few studies and identified no new trials for this latest update. We analysed a total of 2106 participants from the three studies we found.”
-  * “All three \[randomized controlled trials] showed that wearing a face mask during surgery neither increases nor decreases the number of wound infections occurring after surgery. We conclude that there is no clear evidence that wearing disposable face masks affects the likelihood of wound infections developing after surgery.”
+
+  > “Overall, we found very few studies and identified no new trials for this latest update. We analysed a total of 2106 participants from the three studies we found.”
+  >
+  > “All three \[randomized controlled trials] showed that wearing a face mask during surgery neither increases nor decreases the number of wound infections occurring after surgery. We conclude that there is no clear evidence that wearing disposable face masks affects the likelihood of wound infections developing after surgery.”
 * See, e.g., Neil W. M. Orr, M.D., Mchir, FRCS, Is a mask necessary in the operating theatre?, Annals of the Royal College of Surgeons of England, vol. 63, 1981. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2493952/pdf/annrcse01509-0009.pdf>
 
-  * This six month long study **showed a significant decrease in the rate of patient infections when masks were NOT worn** in an operating theater.
+  > This six month long study **showed a significant decrease in the rate of patient infections when masks were NOT worn** in an operating theater.
 * Ritter, MA, et al., The operating room environment as affected by people and the surgical face mask. Clinical Orthopaedics and Related Research: September 1975 - Volume 111 - Issue - p 147-150. https://journals.lww.com/clinorthop/Citation/1975/09000/The_Operating_Room_Environment\_as \_ Affected_by.20.aspx
 
-  * “The wearing of a surgical face mask had no effect upon the overall operating room environmental contamination...”
+  > “The wearing of a surgical face mask had no effect upon the overall operating room environmental contamination...”
 * Da Zhou et al., Unmasking the surgeons: the evidence base behind the use of face masks in surgery, Journal of the Royal Society of Medicine; 2015, Vol. 108(6) 223–228. <https://journals.sagepub.com/doi/pdf/10.1177/0141076815583167>
 
   * The paper analyzed numerous studies.
-  * The use of surgical face masks is ubiquitous in surgical practice. Face Masks have long been thought to confer protection to the patient from wound infection and contamination from the operating surgeon and other members of the surgical staff... **However, overall there is a lack of substantial evidence to support claims that face masks protect either patient or surgeon from infectious contamination.** (emphasis added)
+
+  > The use of surgical face masks is ubiquitous in surgical practice. Face Masks have long been thought to confer protection to the patient from wound infection and contamination from the operating surgeon and other members of the surgical staff... **However, overall there is a lack of substantial evidence to support claims that face masks protect either patient or surgeon from infectious contamination.** (emphasis added)
 * Zahid Mehmood Bahli, Does evidence based medicine support the effectiveness of surgical face masks in preventing postoperative wound infections in elective surgery?, J Ayub Med Coll Abbottabad 2009; 21(2). <http://www.ayubmed.edu.pk/JAMC/PAST/21-2/Zahid.pdf>
-* * “No significant difference in the incidence of postoperative wound infection was observed between masks group and groups operated with no masks. There was no increase in infection rate in 1980 when masks were discarded. **In fact there was a significant decrease in infection rate.**” (emphasis added)
+
+  > “No significant difference in the incidence of postoperative wound infection was observed between masks group and groups operated with no masks. There was no increase in infection rate in 1980 when masks were discarded. **In fact there was a significant decrease in infection rate.**” (emphasis added)
 * Ana E. Figueiredo, et. al., Bag Exchange in Continuous Ambulatory Peritoneal Dialysis Without Use of a Face Mask: Experience of Five Years, Renal Unit, Hospital São Lucas, Porto Alegre, Brazil. <http://www.advancesinpd.com/adv01/21Figueiredo.htm>
 
-  * “Peritonitis rates reported during our observation period are compatible with those seen in other centers and support the hypothesis that routine use of a face mask during CAPD bag exchange may be unnecessary.”
+  > “Peritonitis rates reported during our observation period are compatible with those seen in other centers and support the hypothesis that routine use of a face mask during CAPD bag exchange may be unnecessary.”
 * M.W. Skinner, B.A Sutton, Do Anaesthetists Need to Wear Surgical Masks in the Operating Theatre? A Literature Review with Evidence-Based Recommendations, Anaesthesia and Intensive Care, Vol. 29, No. 4, August 2001. <https://journals.sagepub.com/doi/pdf/10.1177/0310057X0102900402>
 
-  * **The evidence for discontinuing the use of surgical face masks would appear to be stronger than the evidence available to support their continued use. . . .**
-  * **There is little evidence to suggest that the wearing of surgical face masks by staff in the operating theatre decreases postoperative wound infections.**
-  * Published evidence indicates that postoperative wound infection rates are not significantly different in unmasked versus masked theatre staff.
-  * However, **there is evidence indicating a significant reduction in postoperative wound infection rates when theatre staff are unmasked.**
-  * Currently there is no evidence that removing masks presents any additional hazard to the patient. (emphasis added).
+  > **The evidence for discontinuing the use of surgical face masks would appear to be stronger than the evidence available to support their continued use...**
+  >
+  > **There is little evidence to suggest that the wearing of surgical face masks by staff in the operating theatre decreases postoperative wound infections.**
+  >
+  > Published evidence indicates that postoperative wound infection rates are not significantly different in unmasked versus masked theatre staff.
+  >
+  > However, **there is evidence indicating a significant reduction in postoperative wound infection rates when theatre staff are unmasked.**
+  >
+  > Currently there is no evidence that removing masks presents any additional hazard to the patient. (emphasis added).
 * See Eva Sellden, M.D., Ph.D., Is Routine Use of a Face Mask Necessary in the Operating Room?, Anesthesiology 2010; 113:1447, the American Society of Anesthesiologists, Inc. https://pubs.asahq.org/anesthesiology/article/113/6/1447/9572/Is-Routine-Use-of-a-Face-Mask Necessary-in-the
 
-  * “Our decision to no longer require routine surgical masks for personnel not scrubbed for surgery is a departure from common practice. But the evidence to support this practice does not exist . . . .”
+  > “Our decision to no longer require routine surgical masks for personnel not scrubbed for surgery is a departure from common practice. But the evidence to support this practice does not exist . . . .”
 
-### Cloth Masks are Ineffective and May Increase the Risk of Transmission
-
-Cloth masks are absolutely ineffective. Worst yet, they may increase the incidence of disease in wearers and the population.
-
-Despite the high-level scientific evidence against cloth masks, the CDC made the inexcusable mistake of telling us cloth masks worked. They even provided directions on their website for making homemade cloth masks.
-
-A July 2020 review by the University of Oxford, Centre for Evidence-Based Medicine **found that there is no evidence that cloth masks are at all effective against virus infection or transmission.**
-
-* Jefferson, Tom & Heneghan, Carl, Masking lack of evidence with politics, Centre for Evidence-Based Medicine, July 23, 2020. <https://www.cebm.net/covid-19/masking-lack-of-evidence-with-politics/>
-
-A July 2020 study by Japanese researchers found that cloth masks “offer zero protection against coronavirus.”
-
-* Naoya Kon, Cloth face masks offer zero shield against virus, a study shows, The Asahi Shimbun, study by Kazunari Onishi. <http://www.asahi.com/ajw/articles/13523664>
-
-  * “This experiment reconfirmed that wearing cloth and gauze masks can’t prevent virus infection.”
-
-In an August 2020 article, Denis G. Rancourt, PhD, a Researcher, Ontario Civil Liberties Association, debunks supposed “studies” purporting to support compelled face mask use for the general population.
-
-* See Rancourt, Face masks, lies, damn lies, and public health officials: “A growing body of evidence” August 2020. https://www.researchgate.net/publication/343399832_Face_masks_lies_damn_lies_and_public_hea lth_officials_A_growing_body_of_evidence
-
-  * “\[T]here is no policy-grade evidence to support forced masking on the general population, . . . all the latest-decade’s policy-grade evidence points to the opposite: NOT recommending forced masking of the general population.”);
-  * No \[randomized controlled trial] study with verified outcome shows a benefit for \[health-care workers] or community members in households to wearing a mask or respirator. There is no such study. There are no exceptions. Likewise, no study exists that shows a benefit from a broad policy to wear masks in public (more on this below).
-  * Furthermore, if there were any benefit to wearing a mask, because of the blocking power against droplets and aerosol particles, then there should be more benefit from wearing a respirator (N95) compared to a surgical mask, yet several large meta-analyses, and all the RCT, prove that there is no such relative benefit.
-  * **Masks and respirators do not work**. (emphasis added);
-* Denis G. Rancourt, PhD, Masks Don’t Work: A Review of Science Relevant to COVID-19 Social Policy, River Cities Reader, June 11, 2020. https://www.rcreader.com/commentary/masks-dont-work-covid-a-review-of-science-relevant-to covide-19-social-policy
-* see also, Todd McGreevy, Still No Conclusive Evidence Justifying Mandatory Masks, River Cities Reader, August 12, 2020. <https://www.rcreader.com/commentary/still-no-conclusive-evidence-justifying-mandatory-masks>
-
-I presented a partial list of the various meta-analyses and systemic reviews of multiple randomized controlled trials (RCTs). The studies represent the highest level of evidence that masks don’t work.
+I presented only a partial list of the various meta-analyses and systemic reviews of multiple randomized controlled trials (RCTs). The studies represent the highest level of evidence that masks don’t work.
 
 This WHO commissioned study is the best counter to my arguments. To any trained researcher, this study falls far short of countering decades of the science previously presented.
 
@@ -372,7 +432,7 @@ This study is nothing more than a seriously flawed meta-analysis of 29 weak obse
 
 For a more comprehensive analysis of the flaws and a thorough debunking of the relevance of this study, read this: [WHO Mask Study Seriously Flawed, Swiss Policy Research (Sept. 9, 2020)](https://swprs.org/who-mask-study-seriously-flawed/?amp&__twitter_impression=true&fbclid=IwAR0w3149opgl1OpibDlYnzNOCf461kPvVYNYR-ajnHpuDvnnvdUn4fyvzK8), copied here:
 
-**Update: A US analyst has reviewed all 29 studies and found [numerous additional mistakes](http://www.economicsfaq.com/retract-the-lancets-and-who-funded-published-study-on-mask-wearing-criticism-of-physical-distancing-face-masks-and-eye-protection-to-prevent-person-to-person-transmissi/).**
+### **Update: A US analyst has reviewed all 29 studies and found numerous additional mistakes.**
 
 #### A. General flaws
 
@@ -556,8 +616,6 @@ Any questions? Wait...there’s more...
 * Hypoxia increases the risk of blood clot formation.[[R](https://www.sciencedaily.com/releases/2018/08/180802115657.htm)]
 * Lowering arterial oxygen suppresses the immune system, thus increasing the susceptibility of mask wearers to infectious disease.
 
-
-
 ### 3. Medical masks raise carbon dioxide levels in the blood.
 
 Although the body has robust mechanisms for mitigating transient and minor elevations of CO2 in the air we breathe, these mechanisms can easily be overwhelmed by chronic exposure to significant elevations in CO2, such as occurs with prolonged wearing of a medical mask.
@@ -606,8 +664,6 @@ Although the body has robust mechanisms for mitigating transient and minor eleva
   * The innate immunity’s effectiveness is highly dependent on the viral load. If face masks increase viral particle re-breathing at the same time they create a humid habitat where SARS-CoV-2 remains actively infectious, the mask increases the viral load and can overwhelm the innate immune system.
 * This trapping, re-breathing, and increasing pathogen load delivered to the lungs becomes dramatically more dangerous when the medical mask becomes contaminated with the opportunistic viruses, bacteria, and fungi that can grow in the warm, moist environment of the mask.
 * “By wearing a mask, the exhaled viruses will not be able to escape and will concentrate in the nasal passages, enter the olfactory nerves and travel into the brain.” - Russell Blaylock, MD
-
-
 
 ### 6. SARS CoV-2 Becomes More Dangerous When Blood Oxygen Levels Decline
 
@@ -847,7 +903,5 @@ The Center for Disease Control (“CDC”) has made clear that “Schools are an
 * Nowhere in the guidance provided to local schools by the CDC is any information about compelling students to wear face masks. In fact, the CDC acknowledges that “\[m]ore research and evaluation is needed on the implementation of mitigation strategies (e.g., social distancing, masks, hand hygiene, and use of cohorting) used in schools to determine which strategies are the most effective.” Id. at 5.
 
 The lack of any such recommendation is understandable given that the great weight of scientific evidence shows unmistakably that wearing face masks for extended periods is harmful to people’s health, safety and emotional well-being, especially to young children.
-
-
 
 <!--EndFragment-->
