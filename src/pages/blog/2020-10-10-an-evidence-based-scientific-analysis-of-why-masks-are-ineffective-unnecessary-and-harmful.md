@@ -698,7 +698,7 @@ See MacIntyre CR, Seale H, Dung TC, et al., A cluster randomised trial of cloth 
 * The quality and volume of speech between two people wearing masks is considerably compromised and they may unconsciously move closer to improve communications
 * This increases the likelihood of becoming exposed to the infectious viral particles in the respiratory plumes of aerosolized droplet nuclei that escape the top, bottom, and sides of the masks.
 
-### 11, Untrained and inappropriate management of face masks:
+### 11. Untrained and inappropriate management of face masks:
 
 * The public is untrained and inadequately educated in the proper selection of masks (most are wrongly wearing cloth masks), proper wear, sterility management, and importance of not reusing single use masks.
 * People must not touch their masks, must change their single-use masks frequently or wash them regularly, dispose of them correctly and adopt other management measures, otherwise their risks and those of others may increase.[[R](https://www.who.int/publications/i/item/advice-on-the-use-of-masks-in-the-community-during-home-care-and-in-healthcare-settings-in-the-context-of-the-novel-coronavirus-(2019-ncov)-outbreak)][[R](https://jamanetwork.com/journals/jama/fullarticle/2764955)]
