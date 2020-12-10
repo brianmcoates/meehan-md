@@ -19,7 +19,7 @@ tags:
 
 As we approach the conclusion of a full year under the cloud of the CoVID-19 pandemic, I have reached the conclusion that the American medical-hospital-industrial-complex has shamefully and tragically failed to properly treat patients with CoVID-19. The medical establishment’s “standard of care” CoVID treatments are abject failures.
 
-The medical establishment’s failure to recognize life saving at-home treatments for CoVID-19 has resulted in the loss of hundreds of thousands of lives
+> The medical establishment’s failure to recognize life saving at-home treatments for CoVID-19 has resulted in the loss of hundreds of thousands of lives
 
 Not a day goes by that I don’t receive a report from a CoVID-19 patient about how their primary care physician left them hopeless and terrified with claims that there is nothing they can do to treat CoVID-19 but quarantine, wear a mask, and when the virus destroys their ability to breathe, they should go to the hospital. Given the overwhelming evidence that there is so much more that can be done in the early stages of infection, I believe this approach constitutes medical negligence.
 
@@ -27,7 +27,7 @@ Hospital care is not working; patients are dying at intolerable rates in hospita
 
 I blame the failures of our medical system during this pandemic on financially biased corporations, public health authorities, and the intolerable censorship of independent scientific evidence by the mainstream media and social media/technology platforms. The medical community and public are being intentionally deprived of the large and growing body of scientific evidence (see https://c19study.com/) demonstrating the safety and effectiveness of life saving therapeutics. The therapeutics recommended here, started early, properly dosed, properly timed, and combined with the necessary activating agents (e.g., zinc is necessary and essential for the full action of hydroxychloroquine and quercetin), are far more effective than the “standard of care” (dexamethasone and remdesivir). Early treatment with the therapeutics recommended and discussed here dramatically decrease disease severity, prevent hospitalizations, and saves lives.
 
-The following information is adapted from many sources, clinical research studies, the work of [Vladimir Zelenko, MD](https://thezelenkoprotocol.com/), (et al), the work of [Richard Bartlett, MD](https://budesonideworks.com/), and the work and outstanding research of the [Front Line CoVID-19 Critical Care Alliance](https://covid19criticalcare.com/) prophylaxis and treatment protocols for CoVID-19.
+> The following information is adapted from many sources, clinical research studies, the work of [Vladimir Zelenko, MD](https://thezelenkoprotocol.com/), (et al), the work of [Richard Bartlett, MD](https://budesonideworks.com/), and the work and outstanding research of the [Front Line CoVID-19 Critical Care Alliance](https://covid19criticalcare.com/) prophylaxis and treatment protocols for CoVID-19.
 
 ![](/img/early-outpatient-treatment-protocol-for-covid-19-2020-12-09.png)
 
