@@ -2,15 +2,13 @@
 templateKey: blog-post
 title: Early Outpatient Treatment  Protocol for CoVID-19
 date: 2020-12-10T04:14:45.705Z
-description: The medical community and public are being intentionally deprived
-  of the large and growing body of scientific evidence demonstrating the safety
-  and effectiveness of life saving therapeutics. The therapeutics recommended
-  here, started early, properly dosed, properly timed, and combined with the
-  necessary activating agents (e.g., zinc is necessary and essential for the
-  full action of hydroxychloroquine and quercetin), are far more effective than
-  the “standard of care” (dexamethasone and remdesivir). Early treatment with
-  the therapeutics recommended and discussed here dramatically decrease disease
-  severity, prevent hospitalizations, and saves lives.
+description: "Disclaimer: All users of this website must understand and
+  acknowledge that they are responsible for their own medical care, treatment,
+  and oversight. All of the content provided on this website, including text,
+  treatments, dosages, outcomes, and advice, are for informational purposes only
+  and do not constitute the providing of medical advice, nor is any content
+  published here intended to be a substitute for independent professional
+  medical judgment, advice, diagnosis, or treatment."
 featuredpost: true
 tags:
   - CoVID-19
@@ -39,7 +37,7 @@ I blame the failures of our medical system during this pandemic on financially b
 
 \[2] Hydroxychloroquine is a generally safe medication, however, there is a risk that the medication could adversely impact heart health.
 
-\[3] Dr. Meehan recommends very careful consideration of the timing of administration of corticosteroids (e.g., budesonide, methylprednisolone, or dexamethasone) or any immuno-suppressive drug during active infections. The SARS-CoV-2 virus is generally believed to be most actively replicating during the first eight (8) days of symptoms. Suppressing the natural immune response with corticosteroid therapy during the first eight days, a time in which the virus is actively and rapidly replicating, could weaken the immune response, facilitate viral replication, and worsen the severity of the infection. Therefore, Dr. Meehan recommends reserving corticosteroid treatment for approximately day eight after the onset of symptoms.
+\[3] Careful consideration of the timing of administration of corticosteroids (e.g., budesonide, methylprednisolone, or dexamethasone) or any immuno-suppressive drug during active infections is strongly recommended. The SARS-CoV-2 virus is generally believed to be most actively replicating during the first eight (8) days of symptoms. Suppressing the natural immune response with corticosteroid therapy during the first eight days, a time in which the virus is actively and rapidly replicating, could weaken the immune response, facilitate viral replication, and worsen the severity of the infection. Therefore, it is recommended that corticosteroid treatment be reserved until approximately day eight after the onset of symptoms.
 
 \[4] Quercetin, like hydroxychloroquine, drives zinc inside cells where the zinc serves to inhibit viral replication. Quercetin is an OTC nutritional supplement that is available without a doctor’s prescription.
 
